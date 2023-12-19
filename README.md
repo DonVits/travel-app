@@ -14,10 +14,11 @@ As a tourist, I would like to see some recommendations on which country I should
 
 
 ## Used data sources
-Airbnb data from major cities: http://insideairbnb.com/get-the-data/
-Passport index: https://github.com/ilyankou/passport-index-dataset
-Flight prices data scraped from: https://www.kayak.com/
-Tourist Data for each EU country: https://ec.europa.eu/eurostat/databrowser/view/tour_dem_ttw/default/table?lang=en
+- [Airbnb data from major cities](http://insideairbnb.com/get-the-data/)
+- [Passport index ](https://github.com/ilyankou/passport-index-dataset)
+- [Flight prices data scraped from](https://www.kayak.com/)
+- [Tourist Data for each EU country](https://ec.europa.eu/eurostat/databrowser/view/tour_dem_ttw/default/table?lang=en)
+
 
 ## Used packages
 - Anvil - A framework used for developing web applications with Python
