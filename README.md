@@ -1,10 +1,11 @@
-#Tourist Destination Recommendations Based on Data
-##Programming for Data Science
+****#Tourist Destination Recommendations Based on Data
+****Programming for Data Science
 
 ##Author(s)
-Don Vito Dapat
-Ibtissem Gamaoun
-Kseniya Mazur
+- Don Vito Dapat
+- Ibtissem Gamaoun
+- Kseniya Mazur
+
 
 Project characteristics 
 
