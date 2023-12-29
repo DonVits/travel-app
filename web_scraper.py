@@ -10,9 +10,9 @@ import re
 
 
 class WebScraper:
-    def __init__(self, origin, destination):
+    def __init__(self, origin, destination, date):
         self.driver = webdriver.Chrome()
-        self.driver.get(f'https://www.kayak.com/flights/{origin}-{destination}/2024-03-11?sort=price_a')
+        self.driver.get(f'https://www.kayak.com/flights/{origin}-{destination}/{date}?sort=price_a')
 
     def __parse_item(self, result_list):
         parsed_result = []

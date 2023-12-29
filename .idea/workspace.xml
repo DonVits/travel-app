@@ -5,9 +5,9 @@
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/airport.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_scraper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_scraper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_scraper_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_scraper_view.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
