@@ -6,8 +6,9 @@
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/airport.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_scraper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_scraper_view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_scraper_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_scraper_view.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +91,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="web_scraper_view (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pfds-final-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/pfds-final-project-main/pfds-final-project-main" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/pfds-final-project-main/pfds-final-project-main/web_scraper_view.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="web_scraper_view" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pfds-final-project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,10 +137,12 @@
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.web_scraper" />
       <item itemvalue="Python.web_scraper_view" />
+      <item itemvalue="Python.web_scraper_view (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.web_scraper_view" />
+        <item itemvalue="Python.web_scraper_view (1)" />
         <item itemvalue="Python.web_scraper" />
       </list>
     </recent_temporary>

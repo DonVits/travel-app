@@ -30,10 +30,10 @@ class WebScraper:
         return parsed_result
 
     def load_data(self):
-        sleep(7)
+        sleep(3)
         try:
             path = '//*[@id="listWrapper"]'
-            results = WebDriverWait(self.driver, timeout=randint(2, 6)).until(
+            results = WebDriverWait(self.driver, timeout=randint(1, 4)).until(
                 EC.presence_of_element_located((By.XPATH, path))).get_attribute(
                 'innerHTML')
             soup = BeautifulSoup(results, "html.parser")
@@ -42,7 +42,7 @@ class WebScraper:
         except:
             try:
                 path = 'resultsContainer'
-                results = WebDriverWait(self.driver, timeout=randint(2, 6)).until(
+                results = WebDriverWait(self.driver, timeout=randint(1, 4)).until(
                     EC.presence_of_element_located((By.CLASS_NAME, path))).get_attribute(
                     'innerHTML')
                 soup = BeautifulSoup(results, "html.parser")

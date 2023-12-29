@@ -1,5 +1,3 @@
-import os
-
 from web_scraper import WebScraper
 import tkinter as tk
 import json
