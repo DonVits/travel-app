@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db31deaf-04b6-419c-81a1-f00ddbfce22b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/airport.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/airport.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/airport.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_scraper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_scraper_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_scraper_view.py" afterDir="false" />
     </list>
@@ -24,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -47,6 +45,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Docs\MASTERS\Python for DS\Final Project\pfds-final-project\data" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.web_scraper_view">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">

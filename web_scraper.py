@@ -1,6 +1,5 @@
 from time import sleep, strftime
 from random import randint
-import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
@@ -12,6 +11,9 @@ import re
 class WebScraper:
     def __init__(self, origin, destination, date):
         self.driver = webdriver.Chrome()
+        self.origin = origin
+        self.destination = destination
+        self.date = date
         self.driver.get(f'https://www.kayak.com/flights/{origin}-{destination}/{date}?sort=price_a')
 
     def __parse_item(self, result_list):
@@ -22,15 +24,18 @@ class WebScraper:
             time = ' '.join([j.text for j in time_list])
             airline = i.find_next('div', class_=re.compile(r'^.{11}-mod-variant-default$')).text
             parsed_result.append({
-                'Price': price,
+                'Origin': self.origin,
+                'Destination': self.destination,
+                'Departure Date': self.date,
                 'Time': time,
-                'Airline': airline
+                'Airline': airline,
+                'Price(USD)': price
             })
         self.driver.close()
         return parsed_result
 
     def load_data(self):
-        sleep(3)
+        sleep(randint(2,5))
         try:
             path = '//*[@id="listWrapper"]'
             results = WebDriverWait(self.driver, timeout=randint(1, 4)).until(

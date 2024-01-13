@@ -1,0 +1,2019 @@
+Origin,Destination,Departure Date,Time,Airline,Price(USD)
+STO,ADD,2024-01-14,5:50 pm  –  12:25 am+2,Turkish Airlines,$628
+STO,ADD,2024-01-14,11:35 am  –  12:05 am+1,Turkish Airlines,$630
+STO,ADD,2024-01-14,8:30 pm  –  11:45 pm+1,British Airways,$644
+STO,ADD,2024-01-14,8:30 pm  –  11:45 pm+1,British Airways,$644
+STO,ADD,2024-01-14,5:50 pm  –  11:45 pm+1,British Airways,$644
+STO,ADD,2024-01-14,5:50 pm  –  11:45 pm+1,British Airways,$644
+STO,ADD,2024-01-14,8:00 pm  –  11:45 pm+1,"Scandinavian Airlines, Qatar Airways",$698
+STO,ADD,2024-01-14,9:20 pm  –  6:50 am+1,Ethiopian Air,$708
+STO,ADD,2024-01-14,8:30 pm  –  11:45 pm+1,"British Airways, Qatar Airways",$803
+STO,ADD,2024-01-14,8:30 pm  –  11:45 pm+1,"British Airways, Qatar Airways",$803
+STO,ADD,2024-01-14,5:50 pm  –  11:45 pm+1,"British Airways, Qatar Airways",$803
+STO,ADD,2024-01-14,2:30 pm  –  12:40 pm+1,Emirates,$845
+STO,ADD,2024-01-14,7:40 pm  –  11:45 pm+1,"Scandinavian Airlines, Qatar Airways",$865
+STO,ADD,2024-01-14,12:50 pm  –  9:25 am+1,Kenya Airways,$902
+STO,ADD,2024-01-14,8:30 pm  –  9:25 am+2,British Airways,$966
+SIN,WAW,2024-01-15,11:55 pm  –  6:20 am+2,Air China,$609
+SIN,WAW,2024-01-15,2:00 am  –  12:05 pm,Qatar Airways,$627
+SIN,WAW,2024-01-15,8:20 pm  –  6:40 am+1,Qatar Airways,$627
+SIN,WAW,2024-01-15,8:20 pm  –  12:05 pm+1,Qatar Airways,$627
+SIN,WAW,2024-01-15,9:00 pm  –  11:20 am+1,Emirates,$649
+SIN,WAW,2024-01-15,9:20 pm  –  11:20 am+1,"Malaysia Airlines, Emirates",$661
+SIN,WAW,2024-01-15,9:30 pm  –  11:20 am+1,"Batik Air, Emirates",$670
+SIN,WAW,2024-01-15,5:25 pm  –  6:40 am+1,Qatar Airways,$688
+SIN,WAW,2024-01-15,4:35 pm  –  6:40 am+1,Qatar Airways,$688
+SIN,WAW,2024-01-15,9:20 pm  –  12:05 pm+1,Qatar Airways,$688
+SIN,WAW,2024-01-15,1:40 pm  –  6:40 am+1,Qatar Airways,$688
+SIN,WAW,2024-01-15,5:25 pm  –  6:40 am+1,"Malaysia Airlines, Qatar Airways",$695
+SIN,WAW,2024-01-15,5:25 pm  –  6:40 am+1,Qatar Airways,$708
+SIN,WAW,2024-01-15,4:35 pm  –  6:40 am+1,Qatar Airways,$708
+SIN,WAW,2024-01-15,2:25 pm  –  11:20 am+1,Emirates,$714
+SIN,MNL,2024-01-15,6:10 am  –  10:00 am,Jetstar Asia,$96
+SIN,MNL,2024-01-15,10:15 am  –  2:10 pm,Cebu Pacific,$109
+SIN,MNL,2024-01-15,7:25 pm  –  11:25 pm,Cebu Pacific,$109
+SIN,MNL,2024-01-15,1:55 am  –  6:00 am,Cebu Pacific,$111
+SIN,MNL,2024-01-15,2:15 am  –  5:55 am,Jetstar Asia,$118
+SIN,MNL,2024-01-15,4:35 pm  –  8:15 pm,Jetstar Asia,$118
+SIN,MNL,2024-01-15,5:35 pm  –  4:35 am+1,"AirAsia, Cebu Pacific",$137
+SIN,MNL,2024-01-15,2:50 pm  –  6:30 pm,Scoot,$142
+SIN,MNL,2024-01-15,1:00 am  –  5:00 am,Scoot,$142
+SIN,MNL,2024-01-15,5:50 pm  –  5:40 am+1,"Indonesia AirAsia, Cebu Pacific",$173
+SIN,MNL,2024-01-15,10:35 pm  –  9:20 pm+1,"AirAsia, Malaysia Airlines",$174
+SIN,MNL,2024-01-15,10:35 pm  –  12:20 pm+1,"AirAsia, Malaysia Airlines",$176
+SIN,MNL,2024-01-15,10:35 pm  –  5:50 am+1,"AirAsia, Cebu Pacific",$179
+SIN,MNL,2024-01-15,4:15 pm  –  5:40 am+1,"Indonesia AirAsia, Cebu Pacific",$181
+SIN,MNL,2024-01-15,6:45 pm  –  5:50 am+1,"AirAsia, Cebu Pacific",$183
+SIN,DXB,2024-01-15,9:45 pm  –  3:10 am+3,Multiple airlines,$304
+SIN,DXB,2024-01-15,2:00 am  –  10:15 am,Qatar Airways,$307
+SIN,DXB,2024-01-15,2:00 am  –  11:00 am,Qatar Airways,$307
+SIN,DXB,2024-01-15,10:55 am  –  9:15 pm,Qatar Airways,$307
+SIN,DXB,2024-01-15,8:20 pm  –  11:00 am+1,Qatar Airways,$310
+SIN,DXB,2024-01-15,8:20 pm  –  10:15 am+1,Qatar Airways,$311
+SIN,DXB,2024-01-15,10:55 am  –  10:15 am+1,Qatar Airways,$313
+SIN,DXB,2024-01-15,10:55 am  –  11:00 am+1,Qatar Airways,$313
+SIN,DXB,2024-01-15,2:00 am  –  9:15 pm,Qatar Airways,$315
+SIN,DXB,2024-01-15,9:45 pm  –  9:35 pm+2,Multiple airlines,$319
+SIN,DXB,2024-01-15,11:15 pm  –  3:10 am+3,Multiple airlines,$324
+SIN,DXB,2024-01-15,9:45 pm  –  3:10 am+3,Multiple airlines,$324
+SIN,DXB,2024-01-15,8:20 am  –  3:10 am+2,"Air India, Oman Air",$327
+SIN,DXB,2024-01-15,12:20 pm  –  2:25 am+1,Batik Air,$333
+SIN,DXB,2024-01-15,9:00 am  –  11:00 am+1,"Air India, Qatar Airways",$335
+SIN,BER,2024-01-15,10:35 pm  –  9:30 pm+1,"AirAsia, Turkish Airlines",$436
+SIN,BER,2024-01-15,7:15 am  –  9:30 pm,"Jetstar Asia, Turkish Airlines",$448
+SIN,BER,2024-01-15,8:55 am  –  8:55 am+1,"XiamenAir, Azerbaijan Airlines",$478
+SIN,BER,2024-01-15,7:40 pm  –  9:45 am+1,"Jetstar Asia, Turkish Airlines",$493
+SIN,BER,2024-01-15,9:00 pm  –  9:45 am+1,"AirAsia, Turkish Airlines",$494
+SIN,BER,2024-01-15,2:50 pm  –  9:45 am+1,"AirAsia, Turkish Airlines",$494
+SIN,BER,2024-01-15,11:35 pm  –  9:45 am+1,Turkish Airlines,$497
+SIN,BER,2024-01-15,10:20 am  –  9:30 pm,Turkish Airlines,$497
+SIN,BER,2024-01-15,11:35 pm  –  1:25 pm+1,Turkish Airlines,$497
+SIN,BER,2024-01-15,11:35 pm  –  5:35 pm+1,Turkish Airlines,$497
+SIN,BER,2024-01-15,7:15 pm  –  3:00 pm+1,"Etihad Airways, Eurowings",$501
+SIN,BER,2024-01-15,7:15 pm  –  3:20 pm+1,"Etihad Airways, Eurowings",$501
+SIN,BER,2024-01-15,8:20 pm  –  6:50 am+1,Qatar Airways,$564
+SIN,BER,2024-01-15,2:00 am  –  1:25 pm,Qatar Airways,$564
+SIN,BER,2024-01-15,8:20 pm  –  1:25 pm+1,Qatar Airways,$564
+SIN,PRG,2024-01-15,11:00 pm  –  10:50 pm+1,"China Eastern, Wizz Air UK",$484
+SIN,PRG,2024-01-15,7:15 pm  –  10:50 pm+1,"Etihad Airways, Wizz Air UK",$505
+SIN,PRG,2024-01-15,11:35 pm  –  10:50 pm+1,"Turkish Airlines, Wizz Air UK",$513
+SIN,PRG,2024-01-15,11:35 pm  –  10:50 pm+1,"Turkish Airlines, Wizz Air UK",$513
+SIN,PRG,2024-01-15,11:35 pm  –  10:50 pm+1,"Turkish Airlines, Wizz Air UK",$513
+SIN,PRG,2024-01-15,11:35 pm  –  10:50 pm+1,"Turkish Airlines, Wizz Air UK",$513
+SIN,PRG,2024-01-15,5:50 pm  –  12:10 pm+1,"China Southern, LOT",$514
+SIN,PRG,2024-01-15,5:50 pm  –  9:40 pm+1,"China Southern, LOT",$514
+SIN,PRG,2024-01-15,5:50 pm  –  9:40 pm+1,"China Southern, LOT",$515
+SIN,PRG,2024-01-15,7:15 pm  –  9:40 pm+1,"Etihad Airways, LOT",$520
+SIN,PRG,2024-01-15,10:20 am  –  8:40 am+1,"Turkish Airlines, Wizz Air Malta",$523
+SIN,PRG,2024-01-15,11:35 pm  –  6:15 pm+1,Turkish Airlines,$568
+SIN,PRG,2024-01-15,10:20 am  –  8:40 am+1,Turkish Airlines,$568
+SIN,PRG,2024-01-15,10:20 am  –  2:20 pm+1,Turkish Airlines,$568
+SIN,PRG,2024-01-15,11:35 pm  –  2:20 pm+1,Turkish Airlines,$569
+SIN,PAR,2024-01-15,8:20 am  –  5:55 pm,Air India,$322
+SIN,PAR,2024-01-15,2:50 pm  –  12:20 pm+2,"AirAsia, Turkish Airlines",$369
+SIN,PAR,2024-01-15,6:00 am  –  7:25 pm,"Malaysia Airlines, Oman Air",$426
+SIN,PAR,2024-01-15,11:50 am  –  4:20 pm+1,"Indonesia AirAsia, IndiGo",$452
+SIN,PAR,2024-01-15,4:25 pm  –  12:35 pm+1,"Sichuan Airlines, Vueling",$467
+SIN,PAR,2024-01-15,4:15 pm  –  6:00 am+1,China Eastern,$489
+SIN,PAR,2024-01-15,11:15 pm  –  5:55 pm+1,Air India,$490
+SIN,PAR,2024-01-15,4:25 pm  –  8:10 pm+1,"Sichuan Airlines, Iberia",$497
+SIN,PAR,2024-01-15,4:25 pm  –  8:10 pm+1,"Sichuan Airlines, Iberia",$497
+SIN,PAR,2024-01-15,11:35 pm  –  9:50 am+1,Turkish Airlines,$514
+SIN,PAR,2024-01-15,10:20 am  –  10:20 pm,Turkish Airlines,$514
+SIN,PAR,2024-01-15,11:35 pm  –  12:20 pm+1,Turkish Airlines,$514
+SIN,PAR,2024-01-15,11:35 pm  –  4:20 pm+1,Turkish Airlines,$514
+SIN,PAR,2024-01-15,4:25 pm  –  3:30 pm+1,"Sichuan Airlines, Wizz Air Malta",$529
+SIN,PAR,2024-01-15,11:35 pm  –  2:25 pm+1,"Turkish Airlines, Vueling",$531
+SIN,ROM,2024-01-15,12:25 am  –  6:15 pm,China Eastern,$299
+SIN,ROM,2024-01-15,7:15 pm  –  6:00 pm+1,Etihad Airways,$300
+SIN,ROM,2024-01-15,11:00 pm  –  6:15 pm+1,China Eastern,$359
+SIN,ROM,2024-01-15,4:15 pm  –  6:15 pm+1,China Eastern,$359
+SIN,ROM,2024-01-15,10:10 am  –  6:15 pm+1,China Eastern,$359
+SIN,ROM,2024-01-15,11:35 pm  –  9:55 am+1,Turkish Airlines,$402
+SIN,ROM,2024-01-15,10:20 am  –  9:55 pm,Turkish Airlines,$402
+SIN,ROM,2024-01-15,11:35 pm  –  1:45 pm+1,Turkish Airlines,$402
+SIN,ROM,2024-01-15,11:35 pm  –  6:30 pm+1,Turkish Airlines,$402
+SIN,ROM,2024-01-15,11:35 pm  –  9:55 pm+1,Turkish Airlines,$402
+SIN,ROM,2024-01-15,10:20 am  –  9:55 am+1,Turkish Airlines,$402
+SIN,ROM,2024-01-15,10:20 am  –  1:45 pm+1,Turkish Airlines,$402
+SIN,ROM,2024-01-15,10:55 am  –  7:50 pm,Qatar Airways,$466
+SIN,ROM,2024-01-15,8:20 pm  –  6:45 am+1,Qatar Airways,$466
+SIN,ROM,2024-01-15,8:20 pm  –  1:30 pm+1,Qatar Airways,$466
+SIN,TYO,2024-01-15,1:20 am  –  9:05 am,ZIPAIR,$190
+SIN,TYO,2024-01-15,1:05 pm  –  1:00 am+1,VietJet Air,$190
+SIN,TYO,2024-01-15,11:00 pm  –  12:30 pm+1,China Eastern,$192
+SIN,TYO,2024-01-15,11:00 pm  –  12:50 pm+1,China Eastern,$192
+SIN,TYO,2024-01-15,11:00 pm  –  1:30 pm+1,China Eastern,$192
+SIN,TYO,2024-01-15,12:25 am  –  12:50 pm,China Eastern,$193
+SIN,TYO,2024-01-15,11:00 pm  –  2:25 pm+1,China Eastern,$193
+SIN,TYO,2024-01-15,4:15 pm  –  12:50 pm+1,China Eastern,$193
+SIN,TYO,2024-01-15,4:15 pm  –  2:25 pm+1,China Eastern,$193
+SIN,TYO,2024-01-15,12:25 am  –  2:25 pm,China Eastern,$195
+SIN,TYO,2024-01-15,6:00 am  –  1:00 am+1,"Malaysia Airlines, VietJet Air",$228
+SIN,TYO,2024-01-15,11:05 am  –  1:00 am+1,"Malaysia Airlines, VietJet Air",$243
+SIN,TYO,2024-01-15,10:30 am  –  1:00 am+1,"Malaysia Airlines, VietJet Air",$243
+SIN,TYO,2024-01-15,5:00 pm  –  7:40 am+1,VietJet Air,$243
+SIN,TYO,2024-01-15,6:00 am  –  1:00 am+1,"Malaysia Airlines, VietJet Air",$243
+SIN,BJS,2024-01-15,8:55 am  –  8:00 pm,XiamenAir,$146
+SIN,BJS,2024-01-15,8:55 am  –  11:50 pm,XiamenAir,$146
+SIN,BJS,2024-01-15,3:45 pm  –  10:00 am+1,XiamenAir,$146
+SIN,BJS,2024-01-15,3:45 pm  –  11:55 am+1,XiamenAir,$146
+SIN,BJS,2024-01-15,11:00 pm  –  11:20 am+1,China Eastern,$163
+SIN,BJS,2024-01-15,11:00 pm  –  11:25 am+1,China Eastern,$163
+SIN,BJS,2024-01-15,11:00 pm  –  1:00 pm+1,China Eastern,$164
+SIN,BJS,2024-01-15,11:00 pm  –  5:20 pm+1,China Eastern,$164
+SIN,BJS,2024-01-15,11:00 pm  –  6:00 pm+1,China Eastern,$164
+SIN,BJS,2024-01-15,11:00 pm  –  12:00 pm+1,China Eastern,$166
+SIN,BJS,2024-01-15,11:00 pm  –  12:20 pm+1,China Eastern,$166
+SIN,BJS,2024-01-15,12:25 am  –  11:25 am,China Eastern,$173
+SIN,BJS,2024-01-15,12:25 am  –  12:20 pm,China Eastern,$173
+SIN,BJS,2024-01-15,12:25 am  –  1:00 pm,China Eastern,$173
+SIN,BJS,2024-01-15,12:25 am  –  3:20 pm,China Eastern,$173
+SIN,HKG,2024-01-15,6:05 am  –  10:05 am,Scoot,$125
+SIN,HKG,2024-01-15,9:30 pm  –  2:10 pm+1,Batik Air,$140
+SIN,HKG,2024-01-15,10:35 pm  –  11:15 am+1,AirAsia,$163
+SIN,HKG,2024-01-15,10:00 am  –  5:30 pm,AirAsia,$173
+SIN,HKG,2024-01-15,12:10 pm  –  8:30 pm,AirAsia,$173
+SIN,HKG,2024-01-15,5:25 pm  –  11:50 pm,Malaysia Airlines,$175
+SIN,HKG,2024-01-15,6:00 am  –  12:55 pm,Malaysia Airlines,$175
+SIN,HKG,2024-01-15,4:35 pm  –  11:50 pm,Malaysia Airlines,$175
+SIN,HKG,2024-01-15,7:35 am  –  2:10 pm,"AirAsia, Batik Air",$178
+SIN,HKG,2024-01-15,12:20 pm  –  8:30 pm,"Batik Air, AirAsia",$185
+SIN,HKG,2024-01-15,12:55 pm  –  8:30 pm,"Malaysia Airlines, AirAsia",$191
+SIN,HKG,2024-01-15,11:15 am  –  8:15 pm,VietJet Air,$194
+SIN,HKG,2024-01-15,1:05 pm  –  5:05 pm,Singapore Airlines,$231
+SIN,HKG,2024-01-15,1:25 pm  –  1:30 pm+1,Vietnam Airlines,$241
+SIN,HKG,2024-01-15,8:45 pm  –  1:30 pm+1,Vietnam Airlines,$252
+SIN,SEL,2024-01-15,2:30 am  –  9:50 am,T'way Air,$120
+SIN,SEL,2024-01-15,3:45 pm  –  12:35 pm+1,XiamenAir,$165
+SIN,SEL,2024-01-15,11:00 pm  –  11:55 am+1,China Eastern,$180
+SIN,SEL,2024-01-15,11:00 pm  –  3:20 pm+1,China Eastern,$180
+SIN,SEL,2024-01-15,10:10 am  –  8:45 pm,China Eastern,$181
+SIN,SEL,2024-01-15,12:25 am  –  11:55 am,China Eastern,$181
+SIN,SEL,2024-01-15,12:25 am  –  5:25 pm,China Eastern,$181
+SIN,SEL,2024-01-15,11:00 pm  –  5:25 pm+1,China Eastern,$181
+SIN,SEL,2024-01-15,12:25 am  –  7:05 pm,China Eastern,$181
+SIN,SEL,2024-01-15,4:15 pm  –  11:00 am+1,China Eastern,$181
+SIN,SEL,2024-01-15,4:15 pm  –  11:55 am+1,China Eastern,$181
+SIN,SEL,2024-01-15,11:00 pm  –  7:05 pm+1,China Eastern,$181
+SIN,SEL,2024-01-15,12:25 am  –  8:45 pm,China Eastern,$182
+SIN,SEL,2024-01-15,12:20 pm  –  6:05 am+1,Batik Air,$185
+SIN,SEL,2024-01-15,10:45 am  –  6:05 am+1,Batik Air,$185
+SIN,BAK,2024-01-15,8:20 am  –  11:30 pm,"Air India, IndiGo",$319
+SIN,BAK,2024-01-15,5:30 am  –  11:30 pm,IndiGo,$323
+SIN,BAK,2024-01-15,6:40 am  –  11:30 pm,"Air India, IndiGo",$324
+SIN,BAK,2024-01-15,5:30 am  –  11:30 pm,IndiGo,$330
+SIN,BAK,2024-01-15,5:30 am  –  11:30 pm,IndiGo,$344
+SIN,BAK,2024-01-15,2:45 am  –  11:30 pm,IndiGo,$354
+SIN,BAK,2024-01-15,6:40 am  –  11:30 pm,"Air India, IndiGo",$358
+SIN,BAK,2024-01-15,11:00 am  –  11:30 pm,IndiGo,$366
+SIN,BAK,2024-01-15,6:40 am  –  11:30 pm,"Air India, IndiGo",$368
+SIN,BAK,2024-01-15,9:00 am  –  11:30 pm,"Air India, IndiGo",$369
+SIN,BAK,2024-01-15,6:40 am  –  11:30 pm,"Air India, IndiGo",$369
+SIN,BAK,2024-01-15,6:40 am  –  11:30 pm,"Air India, IndiGo",$373
+SIN,BAK,2024-01-15,5:30 am  –  11:30 pm,IndiGo,$374
+SIN,BAK,2024-01-15,6:40 am  –  11:30 pm,"Air India, IndiGo",$391
+SIN,BAK,2024-01-15,7:40 pm  –  8:10 am+1,"IndiGo, Azerbaijan Airlines",$395
+SIN,TUN,2024-01-15,5:00 pm  –  9:30 am+1,SAUDIA,$278
+SIN,TUN,2024-01-15,11:55 pm  –  11:55 am+1,Lufthansa,$613
+SIN,TUN,2024-01-15,11:45 pm  –  11:55 am+1,Lufthansa,$622
+SIN,TUN,2024-01-15,9:30 pm  –  12:35 pm+2,Emirates,$677
+SIN,TUN,2024-01-15,9:30 pm  –  12:35 pm+2,Emirates,$697
+SIN,TUN,2024-01-15,12:20 pm  –  12:35 pm+2,Emirates,$697
+SIN,TUN,2024-01-15,9:20 pm  –  12:35 pm+2,"Malaysia Airlines, Emirates",$700
+SIN,TUN,2024-01-15,11:45 pm  –  11:55 am+2,Lufthansa,$706
+SIN,TUN,2024-01-15,11:45 pm  –  11:55 am+2,Lufthansa,$706
+SIN,TUN,2024-01-15,11:45 pm  –  11:55 am+2,Lufthansa,$706
+SIN,TUN,2024-01-15,11:45 pm  –  11:55 am+2,Lufthansa,$706
+SIN,TUN,2024-01-15,11:45 pm  –  11:55 am+2,Lufthansa,$706
+SIN,TUN,2024-01-15,9:30 pm  –  12:35 pm+2,"Batik Air, Emirates",$709
+SIN,TUN,2024-01-15,4:25 pm  –  10:35 am+1,"Sichuan Airlines, ITA Airways",$710
+SIN,TUN,2024-01-15,9:20 pm  –  12:35 pm+2,"Malaysia Airlines, Emirates",$720
+SIN,MAD,2024-01-15,7:15 pm  –  9:20 pm+1,"Etihad Airways, Air Europa",$377
+SIN,MAD,2024-01-15,5:00 pm  –  1:15 pm+1,SAUDIA,$388
+SIN,MAD,2024-01-15,7:15 pm  –  11:50 am+1,"Etihad Airways, Iberia",$402
+SIN,MAD,2024-01-15,7:15 pm  –  2:45 pm+1,"Etihad Airways, Iberia",$402
+SIN,MAD,2024-01-15,7:15 pm  –  4:15 pm+1,"Etihad Airways, Iberia",$402
+SIN,MAD,2024-01-15,7:15 pm  –  1:30 pm+1,"Etihad Airways, Air Europa",$407
+SIN,MAD,2024-01-15,7:15 pm  –  1:10 pm+1,"Etihad Airways, Air Europa",$416
+SIN,MAD,2024-01-15,7:15 pm  –  2:40 pm+1,"Etihad Airways, Iberia",$416
+SIN,MAD,2024-01-15,11:00 pm  –  7:45 pm+1,China Eastern,$421
+SIN,MAD,2024-01-15,12:25 am  –  7:45 pm,China Eastern,$425
+SIN,MAD,2024-01-15,7:15 pm  –  2:55 pm+1,Multiple airlines,$438
+SIN,MAD,2024-01-15,7:15 pm  –  4:00 pm+1,Multiple airlines,$438
+SIN,MAD,2024-01-15,7:15 pm  –  2:00 pm+1,Multiple airlines,$450
+SIN,MAD,2024-01-15,7:15 pm  –  2:30 pm+1,"Etihad Airways, Iberia",$455
+SIN,MAD,2024-01-15,7:15 pm  –  2:55 pm+1,Multiple airlines,$463
+SIN,LHR,2024-01-15,5:50 pm  –  5:15 pm+1,China Southern,$291
+SIN,LHR,2024-01-15,8:45 am  –  5:15 pm+1,China Southern,$291
+SIN,LHR,2024-01-15,11:00 pm  –  1:35 pm+1,China Eastern,$359
+SIN,LHR,2024-01-15,11:35 pm  –  9:55 am+1,Turkish Airlines,$379
+SIN,LHR,2024-01-15,11:35 pm  –  2:40 pm+1,Turkish Airlines,$379
+SIN,LHR,2024-01-15,7:15 pm  –  2:30 pm+1,Etihad Airways,$386
+SIN,LHR,2024-01-15,10:55 am  –  10:10 pm,"Qatar Airways, British Airways",$431
+SIN,LHR,2024-01-15,10:55 am  –  10:10 pm,British Airways,$434
+SIN,LHR,2024-01-15,10:55 am  –  10:10 pm,Qatar Airways,$438
+SIN,LHR,2024-01-15,10:55 am  –  10:10 pm,"British Airways, Qatar Airways",$455
+SIN,LHR,2024-01-15,10:20 am  –  8:50 pm,Turkish Airlines,$467
+SIN,LHR,2024-01-15,8:20 pm  –  6:25 am+1,"Qatar Airways, British Airways",$540
+SIN,LHR,2024-01-15,8:20 pm  –  6:25 am+1,British Airways,$542
+SIN,LHR,2024-01-15,8:20 pm  –  6:25 am+1,Qatar Airways,$547
+SIN,LHR,2024-01-15,9:00 pm  –  1:05 pm+1,Multiple airlines,$559
+SIN,HEL,2024-01-15,11:15 pm  –  2:05 pm+1,Juneyao Airlines,$446
+SIN,HEL,2024-01-15,11:35 pm  –  11:35 am+1,Turkish Airlines,$634
+SIN,HEL,2024-01-15,11:45 pm  –  12:00 pm+1,Lufthansa,$718
+SIN,HEL,2024-01-15,11:55 pm  –  1:05 pm+1,Lufthansa,$737
+SIN,HEL,2024-01-15,11:45 pm  –  1:05 pm+1,Lufthansa,$743
+SIN,HEL,2024-01-15,11:25 pm  –  12:20 pm+1,Qantas Airways,$750
+SIN,HEL,2024-01-15,11:25 pm  –  12:20 pm+1,"Qantas Airways, British Airways",$777
+SIN,HEL,2024-01-15,7:15 pm  –  12:00 pm+1,Etihad Airways,$791
+SIN,HEL,2024-01-15,10:45 pm  –  6:25 am+1,Finnair,$809
+SIN,HEL,2024-01-15,11:05 pm  –  12:20 pm+1,British Airways,$820
+SIN,HEL,2024-01-15,11:05 pm  –  3:15 pm+1,British Airways,$820
+SIN,HEL,2024-01-15,11:25 pm  –  3:15 pm+1,Qantas Airways,$875
+SIN,HEL,2024-01-15,8:20 am  –  1:00 am+1,"Air India, Vistara",$898
+SIN,HEL,2024-01-15,11:25 pm  –  3:15 pm+1,"Qantas Airways, British Airways",$902
+SIN,HEL,2024-01-15,9:20 pm  –  2:20 pm+1,Qatar Airways,$920
+SIN,STO,2024-01-15,11:55 pm  –  4:30 pm+1,Air China,$372
+SIN,STO,2024-01-15,9:30 am  –  4:30 pm+1,Air China,$373
+SIN,STO,2024-01-15,5:50 pm  –  7:00 pm+1,"China Southern, LOT",$460
+SIN,STO,2024-01-15,5:50 pm  –  7:00 pm+1,"China Southern, LOT",$460
+SIN,STO,2024-01-15,5:50 pm  –  10:25 pm+1,"China Southern, LOT",$460
+SIN,STO,2024-01-15,5:50 pm  –  10:25 pm+1,"China Southern, LOT",$460
+SIN,STO,2024-01-15,8:55 am  –  8:55 am+2,XiamenAir,$493
+SIN,STO,2024-01-15,3:45 pm  –  8:55 am+2,XiamenAir,$507
+SIN,STO,2024-01-15,9:00 pm  –  8:25 pm+1,Multiple airlines,$511
+SIN,STO,2024-01-15,7:40 pm  –  8:25 pm+1,Multiple airlines,$511
+SIN,STO,2024-01-15,6:45 pm  –  8:25 pm+1,Multiple airlines,$511
+SIN,STO,2024-01-15,4:35 pm  –  8:25 pm+1,Multiple airlines,$511
+SIN,STO,2024-01-15,2:50 pm  –  8:25 pm+1,Multiple airlines,$511
+SIN,STO,2024-01-15,2:30 pm  –  8:25 pm+1,Multiple airlines,$511
+SIN,STO,2024-01-15,11:35 pm  –  4:25 pm+1,"Turkish Airlines, Norwegian",$512
+SIN,OSL,2024-01-15,8:55 am  –  8:35 am+2,XiamenAir,$493
+SIN,OSL,2024-01-15,8:55 am  –  4:15 pm+2,XiamenAir,$493
+SIN,OSL,2024-01-15,3:45 pm  –  8:35 am+2,XiamenAir,$507
+SIN,OSL,2024-01-15,3:45 pm  –  4:15 pm+2,XiamenAir,$507
+SIN,OSL,2024-01-15,2:00 am  –  1:30 pm,Qatar Airways,$525
+SIN,OSL,2024-01-15,8:20 pm  –  1:30 pm+1,Qatar Airways,$525
+SIN,OSL,2024-01-15,10:55 am  –  1:30 pm+1,Qatar Airways,$528
+SIN,OSL,2024-01-15,11:00 pm  –  8:40 pm+1,"China Eastern, Scandinavian Airlines",$545
+SIN,OSL,2024-01-15,11:00 pm  –  8:50 pm+1,"China Eastern, Norwegian",$547
+SIN,OSL,2024-01-15,12:25 am  –  4:35 pm+1,"China Eastern, Finnair",$552
+SIN,OSL,2024-01-15,12:25 am  –  8:10 pm+1,"China Eastern, Finnair",$552
+SIN,OSL,2024-01-15,8:55 am  –  1:30 pm+1,"XiamenAir, Qatar Airways",$557
+SIN,OSL,2024-01-15,11:35 pm  –  5:15 pm+1,Turkish Airlines,$560
+SIN,OSL,2024-01-15,10:20 am  –  11:00 am+1,Turkish Airlines,$560
+SIN,OSL,2024-01-15,10:20 am  –  5:15 pm+1,Turkish Airlines,$560
+SIN,BRU,2024-01-15,7:15 pm  –  6:35 am+1,Etihad Airways,$300
+SIN,BRU,2024-01-15,7:15 pm  –  6:20 pm+1,"Etihad Airways, Brussels Airlines",$457
+SIN,BRU,2024-01-15,7:15 pm  –  7:35 pm+1,"Etihad Airways, Air Malta",$458
+SIN,BRU,2024-01-15,5:00 pm  –  6:20 pm+1,"SAUDIA, Brussels Airlines",$496
+SIN,BRU,2024-01-15,7:15 pm  –  10:00 am+1,"Etihad Airways, SWISS",$501
+SIN,BRU,2024-01-15,7:15 pm  –  6:20 pm+1,"Etihad Airways, SWISS",$501
+SIN,BRU,2024-01-15,7:15 pm  –  7:10 pm+1,"Etihad Airways, Brussels Airlines",$501
+SIN,BRU,2024-01-15,7:15 pm  –  10:00 am+1,"Etihad Airways, Brussels Airlines",$502
+SIN,BRU,2024-01-15,7:15 pm  –  7:10 pm+1,"Etihad Airways, SWISS",$502
+SIN,BRU,2024-01-15,7:15 pm  –  5:30 pm+1,"Etihad Airways, ITA Airways",$509
+SIN,BRU,2024-01-15,4:35 pm  –  6:35 am+1,"AirAsia, Etihad Airways",$510
+SIN,BRU,2024-01-15,2:50 pm  –  6:35 am+1,"AirAsia, Etihad Airways",$510
+SIN,BRU,2024-01-15,2:30 pm  –  6:35 am+1,"AirAsia, Etihad Airways",$510
+SIN,BRU,2024-01-15,12:10 pm  –  6:35 am+1,"AirAsia, Etihad Airways",$515
+SIN,BRU,2024-01-15,12:55 pm  –  6:35 am+1,"Jetstar Asia, Etihad Airways",$516
+SIN,DUB,2024-01-15,5:50 pm  –  9:05 pm+1,"China Southern, Aer Lingus",$410
+SIN,DUB,2024-01-15,7:15 pm  –  11:00 am+1,"Etihad Airways, Aer Lingus",$443
+SIN,DUB,2024-01-15,5:50 pm  –  8:05 pm+1,"China Southern, Aer Lingus",$443
+SIN,DUB,2024-01-15,5:50 pm  –  12:05 pm+1,"China Southern, Aer Lingus",$454
+SIN,DUB,2024-01-15,11:00 pm  –  8:45 pm+1,"China Eastern, Aer Lingus",$477
+SIN,DUB,2024-01-15,7:15 pm  –  12:25 pm+1,"Etihad Airways, Aer Lingus",$480
+SIN,DUB,2024-01-15,11:00 pm  –  9:05 pm+1,"China Eastern, Aer Lingus",$485
+SIN,DUB,2024-01-15,7:15 pm  –  8:45 pm+1,"Etihad Airways, Aer Lingus",$498
+SIN,DUB,2024-01-15,11:35 pm  –  8:45 pm+1,"Turkish Airlines, Aer Lingus",$506
+SIN,DUB,2024-01-15,11:35 pm  –  8:45 pm+1,"Turkish Airlines, Aer Lingus",$506
+SIN,DUB,2024-01-15,11:35 pm  –  8:45 pm+1,"Turkish Airlines, Aer Lingus",$506
+SIN,DUB,2024-01-15,11:35 pm  –  8:45 pm+1,"Turkish Airlines, Aer Lingus",$506
+SIN,DUB,2024-01-15,9:00 pm  –  8:45 pm+1,Multiple airlines,$514
+SIN,DUB,2024-01-15,7:40 pm  –  8:45 pm+1,Multiple airlines,$514
+SIN,DUB,2024-01-15,6:45 pm  –  8:45 pm+1,Multiple airlines,$514
+SIN,LUX,2024-01-15,8:20 pm  –  4:25 pm+1,"Qatar Airways, Luxair",$548
+SIN,LUX,2024-01-15,10:55 am  –  4:25 pm+1,"Qatar Airways, Luxair",$551
+SIN,LUX,2024-01-15,12:05 am  –  10:10 am,SWISS,$589
+SIN,LUX,2024-01-15,12:05 am  –  6:10 pm,SWISS,$589
+SIN,LUX,2024-01-15,11:45 pm  –  9:00 am+1,Lufthansa,$591
+SIN,LUX,2024-01-15,11:45 pm  –  4:30 pm+1,Lufthansa,$591
+SIN,LUX,2024-01-15,8:20 pm  –  9:05 pm+1,"Qatar Airways, Luxair",$601
+SIN,LUX,2024-01-15,10:55 am  –  9:05 pm+1,"Qatar Airways, Luxair",$610
+SIN,LUX,2024-01-15,11:55 pm  –  10:10 am+1,Lufthansa,$611
+SIN,LUX,2024-01-15,11:55 pm  –  1:45 pm+1,Lufthansa,$611
+SIN,LUX,2024-01-15,11:55 pm  –  6:05 pm+1,Lufthansa,$611
+SIN,LUX,2024-01-15,8:20 pm  –  10:20 pm+1,"Qatar Airways, Luxair",$616
+SIN,LUX,2024-01-15,10:55 am  –  10:20 pm+1,"Qatar Airways, Luxair",$616
+SIN,LUX,2024-01-15,8:20 pm  –  9:05 pm+1,"Qatar Airways, Luxair",$621
+SIN,LUX,2024-01-15,10:55 am  –  9:05 pm+1,"Qatar Airways, Luxair",$624
+SIN,AMS,2024-01-15,11:00 pm  –  5:15 pm+1,China Eastern,$296
+SIN,AMS,2024-01-15,4:15 pm  –  5:15 pm+1,China Eastern,$296
+SIN,AMS,2024-01-15,10:10 am  –  5:15 pm+1,China Eastern,$296
+SIN,AMS,2024-01-15,8:30 pm  –  5:15 pm+1,"Citilink, China Eastern",$326
+SIN,AMS,2024-01-15,9:15 pm  –  5:15 pm+1,"Indonesia AirAsia, China Eastern",$341
+SIN,AMS,2024-01-15,2:35 pm  –  5:15 pm+1,"Indonesia AirAsia, China Eastern",$341
+SIN,AMS,2024-01-15,3:45 pm  –  5:40 pm+1,XiamenAir,$356
+SIN,AMS,2024-01-15,8:55 am  –  5:40 pm+1,XiamenAir,$356
+SIN,AMS,2024-01-15,10:35 pm  –  5:15 pm+1,"AirAsia, China Eastern",$362
+SIN,AMS,2024-01-15,8:30 pm  –  5:15 pm+1,"Jetstar Asia, China Eastern",$362
+SIN,AMS,2024-01-15,7:40 pm  –  5:15 pm+1,"Jetstar Asia, China Eastern",$367
+SIN,AMS,2024-01-15,9:00 pm  –  5:15 pm+1,"AirAsia, China Eastern",$368
+SIN,AMS,2024-01-15,6:45 pm  –  5:15 pm+1,"AirAsia, China Eastern",$368
+SIN,AMS,2024-01-15,4:35 pm  –  5:15 pm+1,"AirAsia, China Eastern",$368
+SIN,AMS,2024-01-15,2:50 pm  –  5:15 pm+1,"AirAsia, China Eastern",$368
+SIN,VIE,2024-01-15,7:15 pm  –  6:15 am+1,Etihad Airways,$300
+SIN,VIE,2024-01-15,9:30 am  –  6:05 am+1,Air China,$375
+SIN,VIE,2024-01-15,11:35 pm  –  8:30 am+1,Turkish Airlines,$430
+SIN,VIE,2024-01-15,10:20 am  –  9:50 pm,Turkish Airlines,$430
+SIN,VIE,2024-01-15,11:35 pm  –  1:05 pm+1,Turkish Airlines,$430
+SIN,VIE,2024-01-15,11:35 pm  –  6:15 pm+1,Turkish Airlines,$430
+SIN,VIE,2024-01-15,10:20 am  –  8:30 am+1,Turkish Airlines,$430
+SIN,VIE,2024-01-15,11:35 pm  –  9:50 pm+1,Turkish Airlines,$430
+SIN,VIE,2024-01-15,10:20 am  –  1:05 pm+1,Turkish Airlines,$430
+SIN,VIE,2024-01-15,9:45 pm  –  1:50 am+2,Multiple airlines,$458
+SIN,VIE,2024-01-15,9:45 pm  –  1:50 am+2,Multiple airlines,$481
+SIN,VIE,2024-01-15,11:25 pm  –  1:50 am+2,Multiple airlines,$487
+SIN,VIE,2024-01-15,7:40 pm  –  1:50 am+2,Multiple airlines,$487
+SIN,VIE,2024-01-15,6:00 am  –  10:50 pm+1,Multiple airlines,$488
+SIN,VIE,2024-01-15,7:40 pm  –  1:50 am+2,Multiple airlines,$489
+SIN,FRA,2024-01-15,12:40 pm  –  5:45 am+2,China Eastern,$373
+SIN,FRA,2024-01-15,12:40 pm  –  5:45 am+2,China Eastern,$373
+SIN,FRA,2024-01-15,11:55 pm  –  5:15 pm+1,Air China,$375
+SIN,FRA,2024-01-15,5:30 pm  –  5:05 pm+1,Air China,$375
+SIN,FRA,2024-01-15,11:55 pm  –  6:15 am+2,Air China,$375
+SIN,FRA,2024-01-15,9:30 am  –  5:15 pm+1,Air China,$375
+SIN,FRA,2024-01-15,11:00 pm  –  5:45 am+2,China Eastern,$431
+SIN,FRA,2024-01-15,12:25 am  –  5:45 am+1,China Eastern,$434
+SIN,FRA,2024-01-15,8:20 pm  –  6:35 am+1,Qatar Airways,$452
+SIN,FRA,2024-01-15,8:20 pm  –  1:25 pm+1,Qatar Airways,$452
+SIN,FRA,2024-01-15,2:00 am  –  1:25 pm,Qatar Airways,$455
+SIN,FRA,2024-01-15,2:00 am  –  7:10 pm,Qatar Airways,$455
+SIN,FRA,2024-01-15,10:55 am  –  6:35 am+1,Qatar Airways,$455
+SIN,FRA,2024-01-15,8:20 pm  –  7:10 pm+1,Qatar Airways,$455
+SIN,FRA,2024-01-15,10:55 am  –  1:25 pm+1,Qatar Airways,$455
+SIN,BUD,2024-01-15,12:25 am  –  12:25 am+1,"China Eastern, Wizz Air",$396
+SIN,BUD,2024-01-15,11:00 pm  –  12:20 am+2,"China Eastern, Wizz Air",$453
+SIN,BUD,2024-01-15,9:45 pm  –  1:20 am+2,Multiple airlines,$458
+SIN,BUD,2024-01-15,4:15 pm  –  12:00 pm+1,"China Eastern, Wizz Air",$465
+SIN,BUD,2024-01-15,11:55 pm  –  12:20 am+2,"Air China, Wizz Air",$467
+SIN,BUD,2024-01-15,11:00 pm  –  11:25 pm+1,"China Eastern, Wizz Air",$468
+SIN,BUD,2024-01-15,8:20 am  –  1:20 am+2,Multiple airlines,$475
+SIN,BUD,2024-01-15,8:20 am  –  1:20 am+2,Multiple airlines,$480
+SIN,BUD,2024-01-15,9:45 pm  –  1:20 am+2,Multiple airlines,$481
+SIN,BUD,2024-01-15,10:55 am  –  1:50 am+1,"Qatar Airways, Wizz Air",$492
+SIN,BUD,2024-01-15,7:15 pm  –  2:45 pm+1,"Etihad Airways, Air Serbia",$502
+SIN,BUD,2024-01-15,5:50 pm  –  12:10 pm+1,"China Southern, LOT",$534
+SIN,BUD,2024-01-15,7:15 am  –  12:25 am+1,Multiple airlines,$535
+SIN,BUD,2024-01-15,10:55 am  –  1:50 am+1,"Qatar Airways, Wizz Air",$536
+SIN,BUD,2024-01-15,11:35 pm  –  2:40 pm+1,"Turkish Airlines, Wizz Air",$538
+SIN,BTS,2024-01-15,7:15 pm  –  8:41 am+1,"Etihad Airways, FlixBus",$343
+SIN,BTS,2024-01-15,7:15 pm  –  3:40 pm+2,Multiple airlines,$448
+SIN,BTS,2024-01-15,11:00 pm  –  3:40 pm+2,"China Eastern, Wizz Air UK",$449
+SIN,BTS,2024-01-15,5:00 pm  –  3:40 pm+2,Multiple airlines,$453
+SIN,BTS,2024-01-15,7:15 pm  –  3:40 pm+2,Multiple airlines,$465
+SIN,BTS,2024-01-15,7:15 pm  –  3:40 pm+2,Multiple airlines,$467
+SIN,BTS,2024-01-15,4:00 pm  –  3:40 pm+2,"Air China, Wizz Air UK",$467
+SIN,BTS,2024-01-15,10:35 pm  –  3:40 pm+2,Multiple airlines,$468
+SIN,BTS,2024-01-15,6:45 pm  –  3:40 pm+2,Multiple airlines,$472
+SIN,BTS,2024-01-15,6:45 pm  –  3:40 pm+2,Multiple airlines,$472
+SIN,BTS,2024-01-15,4:35 pm  –  3:40 pm+2,Multiple airlines,$472
+SIN,BTS,2024-01-15,11:35 pm  –  3:40 pm+2,"Turkish Airlines, Wizz Air UK",$476
+SIN,BTS,2024-01-15,7:40 pm  –  3:40 pm+2,Multiple airlines,$477
+SIN,BTS,2024-01-15,7:40 pm  –  3:40 pm+2,Multiple airlines,$477
+SIN,BTS,2024-01-15,11:00 pm  –  3:40 pm+2,Multiple airlines,$491
+SIN,ZRH,2024-01-15,7:15 pm  –  6:30 am+1,Etihad Airways,$300
+SIN,ZRH,2024-01-15,6:00 am  –  7:05 pm,"Malaysia Airlines, Oman Air",$428
+SIN,ZRH,2024-01-15,7:15 pm  –  4:50 pm+1,"Etihad Airways, Air Malta",$456
+SIN,ZRH,2024-01-15,11:35 pm  –  9:50 am+1,Turkish Airlines,$459
+SIN,ZRH,2024-01-15,11:35 pm  –  1:35 pm+1,Turkish Airlines,$459
+SIN,ZRH,2024-01-15,11:35 pm  –  6:00 pm+1,Turkish Airlines,$459
+SIN,ZRH,2024-01-15,11:35 pm  –  10:10 pm+1,Turkish Airlines,$459
+SIN,ZRH,2024-01-15,10:20 am  –  9:50 am+1,Turkish Airlines,$459
+SIN,ZRH,2024-01-15,10:20 am  –  1:35 pm+1,Turkish Airlines,$459
+SIN,ZRH,2024-01-15,10:20 am  –  6:00 pm+1,Turkish Airlines,$459
+SIN,ZRH,2024-01-15,7:15 pm  –  7:45 pm+1,"Etihad Airways, Scandinavian Airlines",$478
+SIN,ZRH,2024-01-15,8:20 pm  –  1:40 pm+1,Qatar Airways,$480
+SIN,ZRH,2024-01-15,8:20 pm  –  7:00 am+1,Qatar Airways,$481
+SIN,ZRH,2024-01-15,2:00 am  –  1:40 pm,Qatar Airways,$483
+SIN,ZRH,2024-01-15,10:55 am  –  7:00 am+1,Qatar Airways,$483
+SIN,ATH,2024-01-15,11:35 pm  –  8:15 pm+1,Turkish Airlines,$371
+SIN,ATH,2024-01-15,10:20 am  –  8:30 am+1,Turkish Airlines,$371
+SIN,ATH,2024-01-15,11:35 pm  –  8:30 am+1,Turkish Airlines,$372
+SIN,ATH,2024-01-15,10:20 am  –  8:15 pm,Turkish Airlines,$372
+SIN,ATH,2024-01-15,11:35 pm  –  2:30 pm+1,Turkish Airlines,$372
+SIN,ATH,2024-01-15,8:20 pm  –  11:50 am+1,Qatar Airways,$432
+SIN,ATH,2024-01-15,2:00 am  –  5:55 pm,Qatar Airways,$432
+SIN,ATH,2024-01-15,7:15 pm  –  5:00 pm+1,"Etihad Airways, Pegasus Airlines",$443
+SIN,ATH,2024-01-15,9:20 pm  –  11:50 am+1,Qatar Airways,$487
+SIN,ATH,2024-01-15,7:30 pm  –  11:50 am+1,Qatar Airways,$487
+SIN,ATH,2024-01-15,5:25 pm  –  11:50 am+1,Qatar Airways,$487
+SIN,ATH,2024-01-15,5:25 pm  –  11:50 am+1,Qatar Airways,$487
+SIN,ATH,2024-01-15,1:40 pm  –  11:50 am+1,Qatar Airways,$487
+SIN,ATH,2024-01-15,1:40 pm  –  11:50 am+1,Qatar Airways,$487
+SIN,ATH,2024-01-15,7:15 am  –  6:10 pm+1,Multiple airlines,$487
+SIN,MLA,2024-01-15,7:15 pm  –  10:30 pm+1,"Etihad Airways, Air Malta",$355
+SIN,MLA,2024-01-15,4:25 pm  –  11:30 am+1,"Sichuan Airlines, Air Malta",$397
+SIN,MLA,2024-01-15,7:15 pm  –  12:50 pm+1,"Etihad Airways, Air Malta",$404
+SIN,MLA,2024-01-15,11:35 pm  –  4:10 pm+1,"Turkish Airlines, Air Malta",$453
+SIN,MLA,2024-01-15,7:40 pm  –  2:40 pm+1,Multiple airlines,$524
+SIN,MLA,2024-01-15,8:20 pm  –  11:30 am+1,"Qatar Airways, Air Malta",$527
+SIN,MLA,2024-01-15,11:35 pm  –  5:05 pm+1,"Turkish Airlines, Air Malta",$531
+SIN,MLA,2024-01-15,7:15 am  –  10:30 pm,Multiple airlines,$536
+SIN,MLA,2024-01-15,6:00 am  –  10:30 pm,Multiple airlines,$540
+SIN,MLA,2024-01-15,8:20 pm  –  2:40 pm+1,"Qatar Airways, Air Malta",$552
+SIN,MLA,2024-01-15,2:00 am  –  9:10 pm,"Qatar Airways, Air Malta",$552
+SIN,MLA,2024-01-15,10:55 am  –  10:30 pm,"Qatar Airways, Air Malta",$554
+SIN,MLA,2024-01-15,8:20 pm  –  11:30 am+1,Qatar Airways,$559
+SIN,MLA,2024-01-15,11:35 pm  –  12:50 pm+1,"Turkish Airlines, Air Malta",$560
+SIN,MLA,2024-01-15,11:45 pm  –  2:40 pm+1,Lufthansa,$571
+SIN,LIS,2024-01-15,10:20 am  –  10:35 am+1,Turkish Airlines,$541
+SIN,LIS,2024-01-15,10:20 am  –  3:20 pm+1,Turkish Airlines,$541
+SIN,LIS,2024-01-15,12:05 am  –  11:30 am,SWISS,$580
+SIN,LIS,2024-01-15,12:05 am  –  2:35 pm,SWISS,$580
+SIN,LIS,2024-01-15,11:45 pm  –  1:20 pm+1,Lufthansa,$581
+SIN,LIS,2024-01-15,11:55 pm  –  11:15 am+1,Lufthansa,$600
+SIN,LIS,2024-01-15,11:55 pm  –  3:00 pm+1,Lufthansa,$600
+SIN,LIS,2024-01-15,12:05 am  –  1:30 pm,SWISS,$610
+SIN,LIS,2024-01-15,12:05 am  –  1:30 pm,SWISS,$610
+SIN,LIS,2024-01-15,10:55 am  –  9:55 am+1,Qatar Airways,$633
+SIN,LIS,2024-01-15,12:05 am  –  8:05 am+1,SWISS,$634
+SIN,LIS,2024-01-15,11:45 pm  –  11:15 am+1,Lufthansa,$667
+SIN,LIS,2024-01-15,11:45 pm  –  3:00 pm+1,Lufthansa,$667
+SIN,LIS,2024-01-15,11:45 pm  –  3:00 pm+1,Lufthansa,$667
+SIN,LIS,2024-01-15,12:05 am  –  12:45 pm+1,SWISS,$671
+SIN,LJU,2024-01-15,7:15 pm  –  2:34 pm+1,"Etihad Airways, FlixBus",$365
+SIN,LJU,2024-01-15,10:20 am  –  6:40 pm,Turkish Airlines,$583
+SIN,LJU,2024-01-15,11:35 pm  –  8:20 am+1,Turkish Airlines,$583
+SIN,LJU,2024-01-15,7:15 pm  –  2:10 pm+1,"Etihad Airways, SWISS",$665
+SIN,LJU,2024-01-15,6:45 pm  –  8:20 am+1,"AirAsia, Turkish Airlines",$673
+SIN,LJU,2024-01-15,4:35 pm  –  8:20 am+1,"AirAsia, Turkish Airlines",$673
+SIN,LJU,2024-01-15,7:15 am  –  6:40 pm,"Jetstar Asia, Turkish Airlines",$674
+SIN,LJU,2024-01-15,7:40 pm  –  8:20 am+1,"Jetstar Asia, Turkish Airlines",$678
+SIN,LJU,2024-01-15,7:30 pm  –  8:20 am+1,"Malaysia Airlines, Turkish Airlines",$704
+SIN,LJU,2024-01-15,12:05 am  –  2:05 pm,SWISS,$729
+SIN,LJU,2024-01-15,11:55 pm  –  6:40 pm+1,Multiple airlines,$737
+SIN,LJU,2024-01-15,5:00 pm  –  8:20 am+1,"Batik Air, Turkish Airlines",$742
+SIN,LJU,2024-01-15,11:55 pm  –  10:00 am+1,Lufthansa,$749
+SIN,LJU,2024-01-15,11:45 pm  –  10:00 am+1,Lufthansa,$758
+SIN,LJU,2024-01-15,9:00 pm  –  8:20 am+1,"Thai Airways, Turkish Airlines",$815
+SIN,CPH,2024-01-15,7:15 pm  –  10:40 pm+1,"Etihad Airways, Austrian Airlines",$414
+SIN,CPH,2024-01-15,7:15 pm  –  9:05 am+1,"Etihad Airways, Austrian Airlines",$467
+SIN,CPH,2024-01-15,11:35 pm  –  10:00 am+1,Turkish Airlines,$471
+SIN,CPH,2024-01-15,11:35 pm  –  1:15 pm+1,Turkish Airlines,$471
+SIN,CPH,2024-01-15,11:35 pm  –  5:05 pm+1,Turkish Airlines,$471
+SIN,CPH,2024-01-15,7:15 pm  –  12:10 pm+1,"Etihad Airways, Scandinavian Airlines",$488
+SIN,CPH,2024-01-15,7:15 pm  –  2:00 pm+1,"Etihad Airways, SWISS",$494
+SIN,CPH,2024-01-15,7:15 pm  –  2:00 pm+1,"Etihad Airways, SWISS",$494
+SIN,CPH,2024-01-15,7:15 pm  –  12:05 pm+1,"Etihad Airways, Scandinavian Airlines",$498
+SIN,CPH,2024-01-15,7:15 pm  –  12:35 pm+1,"Etihad Airways, Lufthansa",$503
+SIN,CPH,2024-01-15,10:55 am  –  8:25 pm,Qatar Airways,$517
+SIN,CPH,2024-01-15,2:00 am  –  8:25 pm,Qatar Airways,$517
+SIN,CPH,2024-01-15,5:50 pm  –  1:20 pm+1,"China Southern, Scandinavian Airlines",$525
+SIN,CPH,2024-01-15,2:00 am  –  1:10 pm,Qatar Airways,$542
+SIN,CPH,2024-01-15,11:35 pm  –  2:15 pm+1,"Turkish Airlines, Norwegian",$543
+SIN,TLL,2024-01-15,11:35 pm  –  5:50 pm+1,Turkish Airlines,$581
+SIN,TLL,2024-01-15,10:20 am  –  5:50 pm+1,Turkish Airlines,$581
+SIN,TLL,2024-01-15,8:20 pm  –  4:15 pm+1,"Qatar Airways, Scandinavian Airlines",$654
+SIN,TLL,2024-01-15,11:55 pm  –  5:10 pm+1,Lufthansa,$749
+SIN,TLL,2024-01-15,11:55 pm  –  11:55 pm+1,Lufthansa,$762
+SIN,TLL,2024-01-15,10:45 pm  –  8:00 am+1,Finnair,$784
+SIN,TLL,2024-01-15,10:45 pm  –  10:10 am+1,Finnair,$784
+SIN,TLL,2024-01-15,10:45 pm  –  2:15 pm+1,Finnair,$784
+SIN,TLL,2024-01-15,10:45 pm  –  3:10 pm+1,Finnair,$784
+SIN,TLL,2024-01-15,10:45 pm  –  6:00 pm+1,Finnair,$784
+SIN,TLL,2024-01-15,10:45 pm  –  12:25 am+2,Finnair,$784
+SIN,TLL,2024-01-15,11:45 pm  –  5:10 pm+1,Lufthansa,$816
+SIN,TLL,2024-01-15,11:45 pm  –  5:10 pm+1,Lufthansa,$816
+SIN,TLL,2024-01-15,11:45 pm  –  11:55 pm+1,Lufthansa,$816
+SIN,TLL,2024-01-15,11:45 pm  –  11:55 pm+1,Lufthansa,$816
+SIN,REK,2024-01-15,11:55 pm  –  2:10 pm+1,Lufthansa,$751
+SIN,REK,2024-01-15,11:45 pm  –  2:10 pm+1,Lufthansa,$759
+SIN,REK,2024-01-15,11:05 pm  –  10:55 am+1,British Airways,$766
+SIN,REK,2024-01-15,11:45 pm  –  2:10 pm+1,Lufthansa,$876
+SIN,REK,2024-01-15,10:55 am  –  10:55 am+1,Qatar Airways,$884
+SIN,REK,2024-01-15,10:55 am  –  10:55 am+1,Qatar Airways,$884
+SIN,REK,2024-01-15,2:00 am  –  10:55 am+1,Qatar Airways,$884
+SIN,REK,2024-01-15,2:00 am  –  10:55 am+1,Qatar Airways,$884
+SIN,REK,2024-01-15,2:00 am  –  10:55 am+1,Qatar Airways,$884
+SIN,REK,2024-01-15,8:20 pm  –  10:45 am+2,Qatar Airways,$884
+SIN,REK,2024-01-15,8:20 pm  –  10:45 am+2,Qatar Airways,$884
+SIN,REK,2024-01-15,8:20 pm  –  10:45 am+2,Qatar Airways,$884
+SIN,REK,2024-01-15,2:00 am  –  10:55 am+1,Qatar Airways,$887
+SIN,REK,2024-01-15,8:20 pm  –  10:45 am+2,Qatar Airways,$887
+SIN,REK,2024-01-15,8:20 pm  –  10:45 am+2,Qatar Airways,$887
+SIN,RIX,2024-01-15,9:00 pm  –  3:00 pm+1,"Emirates, airBaltic",$681
+SIN,RIX,2024-01-15,11:35 pm  –  5:55 pm+1,Turkish Airlines,$732
+SIN,RIX,2024-01-15,10:20 am  –  5:55 pm+1,Turkish Airlines,$732
+SIN,RIX,2024-01-15,8:20 pm  –  10:45 am+1,"Qatar Airways, airBaltic",$748
+SIN,RIX,2024-01-15,11:55 pm  –  2:05 pm+1,Lufthansa,$749
+SIN,RIX,2024-01-15,8:20 pm  –  11:10 am+1,"Qatar Airways, airBaltic",$780
+SIN,RIX,2024-01-15,10:45 pm  –  8:55 am+1,Finnair,$784
+SIN,RIX,2024-01-15,10:45 pm  –  1:10 pm+1,Finnair,$784
+SIN,RIX,2024-01-15,10:45 pm  –  5:40 pm+1,Finnair,$784
+SIN,RIX,2024-01-15,11:45 pm  –  2:05 pm+1,Lufthansa,$823
+SIN,RIX,2024-01-15,8:20 pm  –  12:05 pm+1,"Qatar Airways, airBaltic",$840
+SIN,RIX,2024-01-15,11:05 pm  –  7:05 pm+1,British Airways,$893
+SIN,RIX,2024-01-15,9:00 pm  –  12:05 pm+1,Austrian Airlines,$925
+SIN,RIX,2024-01-15,11:05 pm  –  2:10 pm+1,British Airways,$927
+SIN,RIX,2024-01-15,11:05 pm  –  5:40 pm+1,British Airways,$955
+SIN,VNO,2024-01-15,11:35 pm  –  7:05 pm+1,Turkish Airlines,$582
+SIN,VNO,2024-01-15,10:20 am  –  11:05 am+1,Turkish Airlines,$582
+SIN,VNO,2024-01-15,10:20 am  –  7:05 pm+1,Turkish Airlines,$582
+SIN,VNO,2024-01-15,11:55 pm  –  11:45 pm+1,Lufthansa,$763
+SIN,VNO,2024-01-15,10:45 pm  –  9:20 am+1,Finnair,$784
+SIN,VNO,2024-01-15,10:45 pm  –  12:55 pm+1,Finnair,$784
+SIN,VNO,2024-01-15,3:55 pm  –  11:05 am+1,"Thai Airways, Turkish Airlines",$885
+SIN,VNO,2024-01-15,9:00 pm  –  7:05 pm+1,"Thai Airways, Turkish Airlines",$885
+SIN,VNO,2024-01-15,12:25 pm  –  11:05 am+1,"Thai Airways, Turkish Airlines",$885
+SIN,VNO,2024-01-15,9:00 pm  –  11:05 am+1,"Thai Airways, Turkish Airlines",$886
+SIN,VNO,2024-01-15,10:45 pm  –  6:15 pm+1,Finnair,$940
+SIN,VNO,2024-01-15,8:20 pm  –  5:25 pm+1,"Qatar Airways, Scandinavian Airlines",$945
+SIN,VNO,2024-01-15,2:00 am  –  10:00 pm,"Qatar Airways, airBaltic","$1,033"
+SIN,VNO,2024-01-15,8:20 pm  –  10:00 pm+1,"Qatar Airways, airBaltic","$1,043"
+SIN,VNO,2024-01-15,10:55 am  –  10:00 pm+1,"Qatar Airways, airBaltic","$1,045"
+SIN,SYD,2024-01-15,5:50 pm  –  9:20 pm+1,"Indonesia AirAsia, Virgin Australia",$353
+SIN,SYD,2024-01-15,4:15 pm  –  8:25 pm+1,"Indonesia AirAsia, Virgin Australia",$360
+SIN,SYD,2024-01-15,4:15 pm  –  8:55 pm+1,"Indonesia AirAsia, Virgin Australia",$360
+SIN,SYD,2024-01-15,4:15 pm  –  9:20 pm+1,"Indonesia AirAsia, Virgin Australia",$361
+SIN,SYD,2024-01-15,12:15 pm  –  8:25 pm+1,"Indonesia AirAsia, Virgin Australia",$368
+SIN,SYD,2024-01-15,12:15 pm  –  8:55 pm+1,"Indonesia AirAsia, Virgin Australia",$368
+SIN,SYD,2024-01-15,12:15 pm  –  9:20 pm+1,"Indonesia AirAsia, Virgin Australia",$369
+SIN,SYD,2024-01-15,4:30 pm  –  8:25 pm+1,"Batik Air, Virgin Australia",$371
+SIN,SYD,2024-01-15,10:35 am  –  7:25 am+1,"Indonesia AirAsia, Virgin Australia",$376
+SIN,SYD,2024-01-15,10:40 am  –  7:25 am+1,"Scoot, Virgin Australia",$402
+SIN,SYD,2024-01-15,2:15 pm  –  10:15 am+1,Philippine Airlines,$408
+SIN,SYD,2024-01-15,10:35 am  –  10:15 am+1,Philippine Airlines,$408
+SIN,SYD,2024-01-15,12:20 am  –  10:15 am+1,Philippine Airlines,$408
+SIN,SYD,2024-01-15,3:35 pm  –  7:25 am+1,"Jetstar Asia, Jetstar",$517
+SIN,SYD,2024-01-15,8:00 pm  –  10:15 am+2,Philippine Airlines,$520
+SIN,ALG,2024-01-15,7:15 pm  –  3:45 pm+1,"Etihad Airways, TUI Fly Belgium",$392
+SIN,ALG,2024-01-15,7:15 pm  –  5:05 pm+1,"Etihad Airways, ITA Airways",$481
+SIN,ALG,2024-01-15,7:15 pm  –  5:05 pm+1,"Etihad Airways, ITA Airways",$500
+SIN,ALG,2024-01-15,5:00 pm  –  8:35 pm+1,"SAUDIA, Air Algerie",$502
+SIN,ALG,2024-01-15,5:00 pm  –  1:40 pm+1,"SAUDIA, Tunisair",$524
+SIN,ALG,2024-01-15,7:15 pm  –  5:05 pm+1,"Etihad Airways, ITA Airways",$568
+SIN,ALG,2024-01-15,10:10 am  –  1:40 pm+1,"China Eastern, SAUDIA",$580
+SIN,ALG,2024-01-15,9:00 pm  –  8:40 pm+1,Multiple airlines,$599
+SIN,ALG,2024-01-15,7:40 pm  –  8:40 pm+1,Multiple airlines,$599
+SIN,ALG,2024-01-15,6:45 pm  –  8:40 pm+1,Multiple airlines,$599
+SIN,ALG,2024-01-15,4:35 pm  –  8:40 pm+1,Multiple airlines,$599
+SIN,ALG,2024-01-15,2:50 pm  –  8:40 pm+1,Multiple airlines,$599
+SIN,ALG,2024-01-15,11:45 pm  –  12:35 am+2,Lufthansa,$609
+SIN,ALG,2024-01-15,11:45 pm  –  12:35 am+2,Lufthansa,$609
+SIN,ALG,2024-01-15,11:45 pm  –  12:35 am+2,Lufthansa,$609
+SIN,BJL,2024-01-15,8:20 pm  –  1:30 am+2,Qatar Airways,$773
+SIN,BJL,2024-01-15,10:55 am  –  1:30 am+2,Qatar Airways,$773
+SIN,BJL,2024-01-15,2:00 am  –  1:30 am+2,Qatar Airways,$775
+SIN,BJL,2024-01-15,8:20 pm  –  1:30 am+2,"Qatar Airways, Royal Air Maroc",$820
+SIN,BJL,2024-01-15,10:55 am  –  1:30 am+2,"Qatar Airways, Royal Air Maroc",$820
+SIN,BJL,2024-01-15,2:00 am  –  1:30 am+2,"Qatar Airways, Royal Air Maroc",$822
+SIN,BJL,2024-01-15,2:00 am  –  5:50 pm,Ethiopian Air,"$1,763"
+SIN,BJL,2024-01-15,2:00 am  –  6:00 pm+1,Ethiopian Air,"$1,971"
+SIN,BJL,2024-01-15,2:00 am  –  1:30 am+1,"Qatar Airways, Royal Air Maroc","$2,131"
+SIN,BJL,2024-01-15,12:05 am  –  7:10 pm,SWISS,"$2,631"
+SIN,BJL,2024-01-15,12:05 am  –  7:10 pm,SWISS,"$2,631"
+SIN,BJL,2024-01-15,12:05 am  –  7:10 pm,SWISS,"$2,631"
+SIN,BJL,2024-01-15,12:05 am  –  7:10 pm,SWISS,"$2,631"
+SIN,BJL,2024-01-15,12:05 am  –  4:30 pm+1,SWISS,"$2,644"
+SIN,BJL,2024-01-15,12:05 am  –  4:30 pm+1,SWISS,"$2,644"
+SIN,LOS,2024-01-15,5:00 pm  –  9:00 am+2,"SAUDIA, Qatar Airways",$592
+SIN,LOS,2024-01-15,5:00 pm  –  4:10 pm+1,"SAUDIA, Qatar Airways",$625
+SIN,LOS,2024-01-15,11:00 am  –  4:10 pm+1,"IndiGo, Qatar Airways",$662
+SIN,LOS,2024-01-15,7:15 pm  –  4:10 pm+1,"Etihad Airways, Qatar Airways",$704
+SIN,LOS,2024-01-15,9:00 pm  –  4:10 pm+1,"Emirates, Qatar Airways",$759
+SIN,LOS,2024-01-15,9:00 pm  –  12:25 pm+1,"Emirates, Ethiopian Air",$765
+SIN,LOS,2024-01-15,5:00 pm  –  12:25 pm+1,"Batik Air, Ethiopian Air",$784
+SIN,LOS,2024-01-15,5:25 pm  –  12:25 pm+1,Multiple airlines,$786
+SIN,LOS,2024-01-15,9:00 pm  –  12:25 pm+1,"Thai Vietjet Air, Ethiopian Air",$904
+SIN,LOS,2024-01-15,11:55 pm  –  5:45 pm+1,Lufthansa,$935
+SIN,LOS,2024-01-15,12:05 am  –  5:45 pm,SWISS,$945
+SIN,LOS,2024-01-15,12:05 am  –  5:45 pm,SWISS,$945
+SIN,LOS,2024-01-15,11:45 pm  –  5:45 pm+1,Lufthansa,$945
+SIN,LOS,2024-01-15,11:45 pm  –  5:45 pm+1,Lufthansa,$945
+SIN,LOS,2024-01-15,11:45 pm  –  5:45 pm+1,Lufthansa,$945
+SIN,ADD,2024-01-15,5:00 pm  –  4:15 am+1,SAUDIA,$326
+SIN,ADD,2024-01-15,7:00 am  –  12:40 pm+1,Emirates,$802
+SIN,ADD,2024-01-15,7:00 am  –  12:40 pm+1,Emirates,$802
+SIN,ADD,2024-01-15,7:00 am  –  12:40 pm+1,Emirates,$802
+SIN,ADD,2024-01-15,11:20 am  –  12:40 pm+2,Emirates,$802
+SIN,ADD,2024-01-15,7:10 pm  –  12:40 pm+1,Emirates,$853
+SIN,ADD,2024-01-15,7:10 pm  –  12:40 pm+1,Emirates,$853
+SIN,ADD,2024-01-15,7:10 pm  –  12:40 pm+1,Emirates,$853
+SIN,ADD,2024-01-15,7:10 pm  –  12:40 pm+1,"Jetstar Asia, Emirates",$853
+SIN,ADD,2024-01-15,7:10 pm  –  12:40 pm+1,"Jetstar Asia, Emirates",$853
+SIN,ADD,2024-01-15,7:10 pm  –  7:30 pm+1,Multiple airlines,$853
+SIN,ADD,2024-01-15,7:10 pm  –  12:40 pm+2,Emirates,$874
+SIN,ADD,2024-01-15,7:10 pm  –  12:40 pm+2,Emirates,$874
+SIN,ADD,2024-01-15,10:20 am  –  12:25 am+1,Turkish Airlines,$885
+SIN,ADD,2024-01-15,11:35 pm  –  12:10 am+2,Turkish Airlines,$885
+SIN,NBO,2024-01-15,7:40 pm  –  5:40 am+1,IndiGo,$336
+SIN,NBO,2024-01-15,11:00 am  –  5:40 am+1,IndiGo,$366
+SIN,NBO,2024-01-15,11:00 am  –  5:40 am+1,IndiGo,$372
+SIN,NBO,2024-01-15,11:00 am  –  5:40 am+1,IndiGo,$374
+SIN,NBO,2024-01-15,11:00 am  –  5:40 am+1,IndiGo,$374
+SIN,NBO,2024-01-15,7:45 pm  –  5:40 am+1,"Air India, IndiGo",$399
+SIN,NBO,2024-01-15,11:00 am  –  5:40 am+1,IndiGo,$419
+SIN,NBO,2024-01-15,11:00 am  –  5:40 am+1,IndiGo,$422
+SIN,NBO,2024-01-15,11:00 am  –  5:40 am+1,IndiGo,$426
+SIN,NBO,2024-01-15,11:00 am  –  5:40 am+1,IndiGo,$431
+SIN,NBO,2024-01-15,11:00 am  –  5:40 am+1,"IndiGo, Air India",$439
+SIN,NBO,2024-01-15,11:00 am  –  5:40 am+1,IndiGo,$440
+SIN,NBO,2024-01-15,2:55 pm  –  5:40 am+1,"VietJet Air, IndiGo",$442
+SIN,NBO,2024-01-15,11:50 am  –  5:40 am+1,"Indonesia AirAsia, IndiGo",$481
+SIN,NBO,2024-01-15,4:35 pm  –  5:40 am+1,Multiple airlines,$513
+SIN,DAR,2024-01-15,11:00 am  –  3:25 am+2,"IndiGo, Oman Air",$508
+SIN,DAR,2024-01-15,11:15 pm  –  3:25 am+2,"Air India, Oman Air",$514
+SIN,DAR,2024-01-15,7:45 pm  –  3:25 am+2,"Air India, Oman Air",$514
+SIN,DAR,2024-01-15,2:55 pm  –  3:25 am+2,"VietJet Air, Oman Air",$534
+SIN,DAR,2024-01-15,11:25 pm  –  3:25 am+2,"IndiGo, Oman Air",$549
+SIN,DAR,2024-01-15,7:40 pm  –  3:25 am+2,"IndiGo, Oman Air",$549
+SIN,DAR,2024-01-15,7:40 pm  –  3:25 am+2,"IndiGo, Oman Air",$549
+SIN,DAR,2024-01-15,9:00 am  –  3:25 am+2,"Air India, Oman Air",$551
+SIN,DAR,2024-01-15,12:20 pm  –  3:25 am+2,"Batik Air, Oman Air",$575
+SIN,DAR,2024-01-15,3:45 pm  –  1:55 pm+1,"XiamenAir, Qatar Airways",$582
+SIN,DAR,2024-01-15,5:00 pm  –  3:25 am+2,"Batik Air, Oman Air",$594
+SIN,DAR,2024-01-15,11:00 am  –  1:55 pm+1,"IndiGo, Qatar Airways",$696
+SIN,DAR,2024-01-15,7:45 pm  –  1:55 pm+1,"Air India, Qatar Airways",$699
+SIN,DAR,2024-01-15,8:20 pm  –  3:50 pm+1,Oman Air,$728
+SIN,DAR,2024-01-15,8:20 pm  –  3:25 am+2,Oman Air,$728
+SIN,HRE,2024-01-15,3:45 pm  –  5:30 pm+1,"XiamenAir, Qatar Airways",$635
+SIN,HRE,2024-01-15,9:00 pm  –  3:40 pm+1,"Emirates, Airlink",$802
+SIN,HRE,2024-01-15,9:00 pm  –  5:50 pm+1,"Emirates, Airlink",$802
+SIN,HRE,2024-01-15,9:00 pm  –  5:50 pm+1,Emirates,$802
+SIN,HRE,2024-01-15,9:00 pm  –  8:25 pm+1,"Emirates, Airlink",$802
+SIN,HRE,2024-01-15,9:00 pm  –  8:25 pm+1,Emirates,$802
+SIN,HRE,2024-01-15,9:35 am  –  3:40 pm+1,"Emirates, Airlink",$802
+SIN,HRE,2024-01-15,12:30 am  –  8:25 pm,"Emirates, Airlink",$805
+SIN,HRE,2024-01-15,12:30 am  –  8:25 pm,Emirates,$805
+SIN,HRE,2024-01-15,9:00 pm  –  8:25 pm+1,"Emirates, Airlink",$813
+SIN,HRE,2024-01-15,9:00 pm  –  8:25 pm+1,Emirates,$813
+SIN,HRE,2024-01-15,9:35 am  –  3:40 pm+1,"Emirates, Airlink",$813
+SIN,HRE,2024-01-15,12:30 am  –  5:50 pm+1,Emirates,$816
+SIN,HRE,2024-01-15,12:30 am  –  5:50 pm+1,Emirates,$816
+SIN,HRE,2024-01-15,12:30 am  –  8:25 pm+1,Emirates,$816
+SIN,DEL,2024-01-15,8:20 am  –  11:35 am,Air India,$119
+SIN,DEL,2024-01-15,11:00 am  –  2:00 am+1,IndiGo,$154
+SIN,DEL,2024-01-15,11:00 am  –  5:20 am+1,IndiGo,$154
+SIN,DEL,2024-01-15,11:00 am  –  12:05 am+1,IndiGo,$156
+SIN,DEL,2024-01-15,9:30 am  –  1:00 pm,Vistara,$157
+SIN,DEL,2024-01-15,9:00 am  –  7:45 pm,Air India,$162
+SIN,DEL,2024-01-15,6:40 am  –  7:15 am+1,"Air India, IndiGo",$163
+SIN,DEL,2024-01-15,11:00 pm  –  2:50 am+1,Air India,$166
+SIN,DEL,2024-01-15,4:15 am  –  10:45 am,IndiGo,$170
+SIN,DEL,2024-01-15,11:00 am  –  6:50 pm,IndiGo,$170
+SIN,DEL,2024-01-15,5:30 am  –  1:25 pm,IndiGo,$170
+SIN,DEL,2024-01-15,4:15 am  –  12:20 pm,IndiGo,$170
+SIN,DEL,2024-01-15,7:40 pm  –  4:35 am+1,IndiGo,$170
+SIN,DEL,2024-01-15,11:25 pm  –  11:30 am+1,IndiGo,$170
+SIN,DEL,2024-01-15,11:15 pm  –  4:35 pm+2,"Air India, IndiGo",$172
+WAW,SIN,2024-01-13,10:55 pm  –  9:40 pm+2,"LOT, Qatar Airways","$4,742"
+WAW,SIN,2024-01-13,10:55 pm  –  9:40 pm+2,"LOT, Qatar Airways","$4,761"
+WAW,SIN,2024-01-13,10:55 pm  –  9:15 am+3,"LOT, Qatar Airways","$8,102"
+WAW,SIN,2024-01-16,8:10 am  –  5:20 pm+1,Multiple airlines,$386
+WAW,SIN,2024-01-16,8:10 am  –  5:20 pm+2,Multiple airlines,$392
+WAW,SIN,2024-01-16,8:10 am  –  7:00 am+2,Multiple airlines,$404
+WAW,SIN,2024-01-16,8:10 am  –  8:10 am+2,Multiple airlines,$411
+WAW,SIN,2024-01-16,8:10 am  –  7:45 am+2,Multiple airlines,$428
+WAW,SIN,2024-01-16,8:10 am  –  7:45 am+2,"Wizz Air, Air India",$435
+WAW,SIN,2024-01-16,5:30 pm  –  5:20 pm+2,Multiple airlines,$443
+WAW,SIN,2024-01-16,8:10 am  –  10:00 pm+1,Multiple airlines,$444
+WAW,SIN,2024-01-16,3:15 pm  –  5:20 pm+2,Multiple airlines,$449
+WAW,SIN,2024-01-16,6:15 pm  –  5:20 pm+2,Multiple airlines,$458
+WAW,SIN,2024-01-16,6:05 am  –  5:20 pm+1,Multiple airlines,$461
+WAW,SIN,2024-01-16,8:10 am  –  9:45 pm+1,Multiple airlines,$461
+WAW,SIN,2024-01-16,6:05 am  –  5:20 pm+1,Multiple airlines,$465
+WAW,SIN,2024-01-16,10:30 am  –  5:20 pm+2,Multiple airlines,$465
+WAW,SIN,2024-01-16,4:55 pm  –  5:20 pm+2,Multiple airlines,$468
+WAW,MNL,2024-01-16,6:05 am  –  12:10 am+2,"Lufthansa, Air China",$722
+WAW,MNL,2024-01-16,2:45 pm  –  12:10 am+2,"Lufthansa, Air China",$729
+WAW,MNL,2024-01-16,12:50 pm  –  4:35 pm+1,"British Airways, Cathay Pacific",$785
+WAW,MNL,2024-01-16,12:50 pm  –  6:35 pm+1,"British Airways, Cathay Pacific",$785
+WAW,MNL,2024-01-16,7:30 am  –  5:50 pm+1,"LOT, EVA Air",$850
+WAW,MNL,2024-01-16,7:30 am  –  10:50 pm+1,"LOT, EVA Air",$850
+WAW,MNL,2024-01-16,8:15 pm  –  12:05 pm+2,"LOT, China Airlines",$851
+WAW,MNL,2024-01-16,7:20 am  –  11:45 am+1,"LOT, EVA Air",$862
+WAW,MNL,2024-01-16,7:20 am  –  5:50 pm+1,"LOT, EVA Air",$862
+WAW,MNL,2024-01-16,7:20 am  –  10:50 pm+1,"LOT, EVA Air",$862
+WAW,MNL,2024-01-16,7:35 am  –  11:20 am+1,"LOT, Cathay Pacific",$896
+WAW,MNL,2024-01-16,3:30 pm  –  10:35 pm+1,"LOT, Cathay Pacific",$896
+WAW,MNL,2024-01-16,7:35 am  –  4:35 pm+1,"LOT, Cathay Pacific",$896
+WAW,MNL,2024-01-16,7:45 am  –  11:20 am+1,"LOT, Cathay Pacific",$897
+WAW,MNL,2024-01-16,7:45 am  –  4:35 pm+1,"LOT, Cathay Pacific",$897
+WAW,DXB,2024-01-16,8:10 am  –  1:20 am+1,"Wizz Air, flynas",$215
+WAW,DXB,2024-01-16,8:10 am  –  6:15 am+1,"Wizz Air, flynas",$262
+WAW,DXB,2024-01-16,8:10 am  –  3:00 am+1,"Wizz Air, SAUDIA",$306
+WAW,DXB,2024-01-16,8:10 am  –  12:20 am+1,"Wizz Air, flydubai",$315
+WAW,DXB,2024-01-16,8:10 am  –  5:10 am+1,"Wizz Air, flydubai",$315
+WAW,DXB,2024-01-16,8:10 am  –  2:45 am+1,"Wizz Air, SunExpress",$354
+WAW,DXB,2024-01-16,12:50 pm  –  10:40 am+1,Multiple airlines,$354
+WAW,DXB,2024-01-16,8:10 am  –  4:10 am+1,"Wizz Air, Gulf Air",$364
+WAW,DXB,2024-01-16,5:30 pm  –  1:40 pm+1,Multiple airlines,$382
+WAW,DXB,2024-01-16,8:10 am  –  6:30 am+1,"Wizz Air, flydubai",$407
+WAW,DXB,2024-01-16,7:55 pm  –  7:30 am+1,"LOT, flydubai",$452
+WAW,DXB,2024-01-16,10:55 pm  –  8:55 pm+1,"LOT, flydubai",$479
+WAW,DXB,2024-01-16,12:50 pm  –  7:30 am+1,"LOT, flydubai",$481
+WAW,DXB,2024-01-16,5:20 pm  –  9:10 am+1,"LOT, Egypt Air",$505
+WAW,DXB,2024-01-16,1:25 pm  –  7:30 am+1,Lufthansa,$528
+WAW,BER,2024-01-16,5:50 am  –  1:40 pm,FlixBus,$28
+WAW,BER,2024-01-16,9:15 am  –  10:35 am,LOT,$217
+WAW,BER,2024-01-16,12:50 pm  –  6:55 pm,British Airways,$236
+WAW,BER,2024-01-16,12:45 pm  –  5:40 pm,KLM,$252
+WAW,BER,2024-01-16,4:50 pm  –  9:55 pm,KLM,$252
+WAW,BER,2024-01-16,4:50 pm  –  9:05 pm,KLM,$296
+WAW,BER,2024-01-16,6:05 am  –  11:05 am,KLM,$296
+WAW,BER,2024-01-16,2:35 pm  –  6:55 pm,SWISS,$297
+WAW,BER,2024-01-16,1:25 pm  –  6:10 pm,Lufthansa,$299
+WAW,BER,2024-01-16,10:10 am  –  2:25 pm,Austrian Airlines,$302
+WAW,BER,2024-01-16,10:10 am  –  4:20 pm,Austrian Airlines,$302
+WAW,BER,2024-01-16,2:45 pm  –  7:55 pm,Lufthansa,$308
+WAW,BER,2024-01-16,6:05 am  –  12:00 pm,Lufthansa,$358
+WAW,BER,2024-01-16,6:50 am  –  10:35 am,Austrian Airlines,$361
+WAW,BER,2024-01-16,9:45 am  –  2:05 pm,SWISS,$394
+WAW,PRG,2024-01-16,10:45 am  –  7:55 pm,FlixBus,$33
+WAW,PRG,2024-01-16,7:45 pm  –  10:15 am+1,British Airways,$253
+WAW,PRG,2024-01-16,2:35 pm  –  10:20 pm,SWISS,$281
+WAW,PRG,2024-01-16,7:25 pm  –  10:40 pm,Austrian Airlines,$286
+WAW,PRG,2024-01-16,2:45 pm  –  10:05 pm,Lufthansa,$292
+WAW,PRG,2024-01-16,1:25 pm  –  10:35 pm,Lufthansa,$292
+WAW,PRG,2024-01-16,12:50 pm  –  10:50 pm,British Airways,$292
+WAW,PRG,2024-01-16,10:10 am  –  10:40 pm,Austrian Airlines,$292
+WAW,PRG,2024-01-16,7:25 pm  –  10:30 am+1,Austrian Airlines,$292
+WAW,PRG,2024-01-16,7:25 pm  –  4:00 pm+1,Austrian Airlines,$292
+WAW,PRG,2024-01-16,10:10 am  –  10:30 am+1,Austrian Airlines,$292
+WAW,PRG,2024-01-16,4:50 pm  –  10:15 pm,KLM,$318
+WAW,PRG,2024-01-16,12:45 pm  –  10:15 pm,KLM,$318
+WAW,PRG,2024-01-16,6:05 am  –  1:05 pm,Lufthansa,$339
+WAW,PRG,2024-01-16,6:50 am  –  10:30 am,Austrian Airlines,$342
+WAW,PAR,2024-01-16,3:15 pm  –  2:30 pm+1,Sindbad,$80
+WAW,PAR,2024-01-16,1:35 pm  –  11:45 pm,"Wizz Air, Iberia",$256
+WAW,PAR,2024-01-16,3:50 pm  –  10:10 pm,"Wizz Air, Vueling",$263
+WAW,PAR,2024-01-16,4:50 pm  –  9:45 pm,KLM,$268
+WAW,PAR,2024-01-16,12:45 pm  –  5:50 pm,KLM,$268
+WAW,PAR,2024-01-16,12:45 pm  –  7:10 pm,KLM,$268
+WAW,PAR,2024-01-16,6:05 am  –  12:35 pm,"Wizz Air, Vueling",$279
+WAW,PAR,2024-01-16,6:05 am  –  2:25 pm,"Wizz Air, Vueling",$279
+WAW,PAR,2024-01-16,1:25 pm  –  7:15 pm,Lufthansa,$297
+WAW,PAR,2024-01-16,1:25 pm  –  11:00 pm,Lufthansa,$297
+WAW,PAR,2024-01-16,7:35 am  –  6:30 pm,"LOT, Vueling",$298
+WAW,PAR,2024-01-16,12:50 pm  –  8:35 pm,"British Airways, Vueling",$299
+WAW,PAR,2024-01-16,10:10 am  –  7:25 pm,Austrian Airlines,$300
+WAW,PAR,2024-01-16,1:15 pm  –  10:15 pm,"LOT, Lufthansa",$305
+WAW,PAR,2024-01-16,2:45 pm  –  10:15 pm,Lufthansa,$306
+WAW,ROM,2024-01-16,5:30 pm  –  7:55 pm,Wizz Air,$114
+WAW,ROM,2024-01-16,6:05 am  –  8:30 am,Wizz Air,$141
+WAW,ROM,2024-01-16,8:30 am  –  10:40 am,LOT,$183
+WAW,ROM,2024-01-16,4:50 pm  –  11:10 pm,KLM,$251
+WAW,ROM,2024-01-16,12:45 pm  –  7:10 pm,KLM,$251
+WAW,ROM,2024-01-16,12:45 pm  –  11:10 pm,KLM,$251
+WAW,ROM,2024-01-16,7:45 pm  –  10:40 am+1,British Airways,$257
+WAW,ROM,2024-01-16,2:35 pm  –  7:15 pm,SWISS,$278
+WAW,ROM,2024-01-16,1:25 pm  –  7:00 pm,Lufthansa,$278
+WAW,ROM,2024-01-16,2:35 pm  –  8:50 am+1,SWISS,$278
+WAW,ROM,2024-01-16,2:35 pm  –  2:00 pm+1,SWISS,$278
+WAW,ROM,2024-01-16,10:10 am  –  7:15 pm,Austrian Airlines,$279
+WAW,ROM,2024-01-16,1:25 pm  –  10:40 pm,Lufthansa,$279
+WAW,ROM,2024-01-16,7:25 pm  –  9:30 am+1,Austrian Airlines,$279
+WAW,ROM,2024-01-16,10:10 am  –  9:30 am+1,Austrian Airlines,$279
+WAW,TYO,2024-01-16,6:05 am  –  8:55 pm+1,"Wizz Air, China Eastern",$567
+WAW,TYO,2024-01-16,5:50 am  –  1:40 pm+1,"Wizz Air, Air China",$587
+WAW,TYO,2024-01-16,10:50 pm  –  7:30 pm+1,LOT,$712
+WAW,TYO,2024-01-16,6:05 am  –  12:50 pm+1,"Lufthansa, Air China",$723
+WAW,TYO,2024-01-16,2:45 pm  –  8:45 pm+1,"Lufthansa, Air China",$730
+WAW,TYO,2024-01-16,2:45 pm  –  9:30 pm+1,"Lufthansa, Air China",$730
+WAW,TYO,2024-01-16,10:10 am  –  12:50 pm+1,"Austrian Airlines, Air China",$740
+WAW,TYO,2024-01-16,7:55 pm  –  7:45 pm+1,"LOT, Turkish Airlines",$809
+WAW,TYO,2024-01-16,10:10 am  –  4:00 pm+1,Multiple airlines,$854
+WAW,TYO,2024-01-16,10:10 am  –  5:00 pm+1,Multiple airlines,$857
+WAW,TYO,2024-01-16,10:10 am  –  4:00 pm+1,Multiple airlines,$869
+WAW,TYO,2024-01-16,7:35 am  –  1:45 pm+1,"LOT, Cathay Pacific",$870
+WAW,TYO,2024-01-16,11:50 am  –  11:20 am+1,"LOT, Asiana Airlines",$886
+WAW,TYO,2024-01-16,11:50 am  –  11:20 am+1,"LOT, ANA",$908
+WAW,TYO,2024-01-16,9:15 am  –  5:55 pm+1,"LOT, Qatar Airways",$928
+WAW,BJS,2024-01-16,6:05 am  –  2:05 pm+1,"Wizz Air, Sichuan Airlines",$470
+WAW,BJS,2024-01-16,7:15 pm  –  4:15 pm+2,"Finnair, Turkish Airlines",$492
+WAW,BJS,2024-01-16,5:30 pm  –  2:45 pm+2,"Wizz Air, China Southern",$549
+WAW,BJS,2024-01-16,5:30 pm  –  4:00 pm+2,"Wizz Air, China Southern",$549
+WAW,BJS,2024-01-16,5:50 am  –  11:55 am+1,"Wizz Air, Air China",$563
+WAW,BJS,2024-01-16,11:55 am  –  3:30 pm+1,"Wizz Air, China Southern",$571
+WAW,BJS,2024-01-16,10:40 am  –  4:15 pm+1,"LOT, Turkish Airlines",$594
+WAW,BJS,2024-01-16,6:05 am  –  9:20 pm+1,"Wizz Air, China Eastern",$594
+WAW,BJS,2024-01-16,6:05 am  –  9:25 pm+1,"Wizz Air, China Eastern",$594
+WAW,BJS,2024-01-16,6:05 am  –  9:50 pm+1,"Wizz Air, China Eastern",$594
+WAW,BJS,2024-01-16,11:00 pm  –  4:15 pm+2,"LOT, Turkish Airlines",$594
+WAW,BJS,2024-01-16,6:50 am  –  6:50 am+1,"Austrian Airlines, Azerbaijan Airlines",$609
+WAW,BJS,2024-01-16,7:20 am  –  6:50 am+1,"LOT, Azerbaijan Airlines",$610
+WAW,BJS,2024-01-16,3:30 pm  –  3:30 pm+1,"LOT, China Southern",$615
+WAW,BJS,2024-01-16,6:05 am  –  4:15 pm+1,Multiple airlines,$632
+WAW,HKG,2024-01-16,8:10 am  –  6:15 am+2,Multiple airlines,$415
+WAW,HKG,2024-01-16,12:50 pm  –  1:20 pm+1,"British Airways, Cathay Pacific",$572
+WAW,HKG,2024-01-16,12:50 pm  –  2:30 pm+1,"British Airways, Cathay Pacific",$572
+WAW,HKG,2024-01-16,12:50 pm  –  6:45 pm+1,"British Airways, Cathay Pacific",$572
+WAW,HKG,2024-01-16,7:50 am  –  1:20 pm+1,"British Airways, Cathay Pacific",$583
+WAW,HKG,2024-01-16,7:50 am  –  2:30 pm+1,"British Airways, Cathay Pacific",$583
+WAW,HKG,2024-01-16,12:50 pm  –  2:40 pm+1,British Airways,$617
+WAW,HKG,2024-01-16,12:50 pm  –  5:45 pm+1,British Airways,$617
+WAW,HKG,2024-01-16,7:50 am  –  2:40 pm+1,British Airways,$617
+WAW,HKG,2024-01-16,11:55 am  –  4:45 pm+1,"Wizz Air, Air China",$662
+WAW,HKG,2024-01-16,8:10 am  –  4:45 pm+1,Multiple airlines,$662
+WAW,HKG,2024-01-16,8:10 am  –  4:45 pm+1,Multiple airlines,$662
+WAW,HKG,2024-01-16,12:50 pm  –  8:50 pm+1,"British Airways, Air China",$663
+WAW,HKG,2024-01-16,12:50 pm  –  8:50 pm+1,"British Airways, Air China",$663
+WAW,HKG,2024-01-16,2:50 pm  –  9:30 pm+1,"LOT, Qatar Airways",$665
+WAW,SEL,2024-01-16,1:05 pm  –  12:20 pm+1,Finnair,$649
+WAW,SEL,2024-01-16,7:15 pm  –  12:20 pm+2,Finnair,$649
+WAW,SEL,2024-01-16,6:05 am  –  11:50 am+1,"Lufthansa, Air China",$723
+WAW,SEL,2024-01-16,2:45 pm  –  4:50 pm+1,"Lufthansa, Air China",$730
+WAW,SEL,2024-01-16,7:20 pm  –  6:20 pm+1,Turkish Airlines,$764
+WAW,SEL,2024-01-16,5:00 pm  –  11:25 am+2,"LOT, Etihad Airways",$923
+WAW,SEL,2024-01-16,7:20 am  –  11:25 am+2,"LOT, Etihad Airways",$923
+WAW,SEL,2024-01-16,8:40 pm  –  11:25 am+2,"LOT, Etihad Airways",$932
+WAW,SEL,2024-01-16,5:00 pm  –  11:25 am+2,"LOT, Etihad Airways",$932
+WAW,SEL,2024-01-16,5:00 pm  –  11:25 am+2,"LOT, Etihad Airways",$947
+WAW,SEL,2024-01-16,8:40 pm  –  11:25 am+3,"LOT, Etihad Airways",$947
+WAW,SEL,2024-01-16,4:50 pm  –  3:35 pm+1,KLM,$951
+WAW,SEL,2024-01-16,12:45 pm  –  3:35 pm+1,KLM,$951
+WAW,SEL,2024-01-16,6:05 am  –  3:35 pm+1,KLM,$951
+WAW,SEL,2024-01-16,7:20 am  –  11:25 am+1,"LOT, Etihad Airways",$953
+WAW,BAK,2024-01-16,8:10 am  –  2:15 am+2,Multiple airlines,$393
+WAW,BAK,2024-01-16,2:45 pm  –  3:05 am+1,Lufthansa,$397
+WAW,BAK,2024-01-16,8:10 am  –  1:50 am+2,Multiple airlines,$418
+WAW,BAK,2024-01-16,1:15 pm  –  3:05 am+1,"LOT, Lufthansa",$447
+WAW,BAK,2024-01-16,1:25 pm  –  3:05 am+1,Lufthansa,$449
+WAW,BAK,2024-01-16,7:20 pm  –  1:50 am+2,Turkish Airlines,$464
+WAW,BAK,2024-01-16,7:20 pm  –  6:10 am+1,Turkish Airlines,$465
+WAW,BAK,2024-01-16,7:20 pm  –  12:45 pm+1,Turkish Airlines,$465
+WAW,BAK,2024-01-16,7:20 pm  –  8:55 pm+1,Turkish Airlines,$465
+WAW,BAK,2024-01-16,10:10 am  –  3:05 am+1,"Austrian Airlines, Lufthansa",$508
+WAW,BAK,2024-01-16,10:10 am  –  3:05 am+1,"Austrian Airlines, Lufthansa",$508
+WAW,BAK,2024-01-16,7:25 pm  –  8:55 pm+1,Multiple airlines,$508
+WAW,BAK,2024-01-16,8:35 pm  –  11:15 am+1,flydubai,$598
+WAW,BAK,2024-01-16,5:50 am  –  1:50 am+1,"Wizz Air, Turkish Airlines",$646
+WAW,BAK,2024-01-16,7:55 pm  –  6:10 am+1,"LOT, Turkish Airlines",$673
+WAW,TUN,2024-01-16,5:50 am  –  3:35 pm,"Wizz Air, Nouvelair",$215
+WAW,TUN,2024-01-16,5:50 am  –  8:00 pm,Multiple airlines,$230
+WAW,TUN,2024-01-16,5:50 am  –  8:50 pm,"Wizz Air, Tunisair",$242
+WAW,TUN,2024-01-16,5:30 pm  –  11:35 am+1,"Wizz Air, Tunisair",$259
+WAW,TUN,2024-01-16,6:05 am  –  6:05 pm,"Wizz Air, ITA Airways",$283
+WAW,TUN,2024-01-16,6:00 pm  –  10:35 am+1,"Wizz Air, ITA Airways",$290
+WAW,TUN,2024-01-16,5:30 pm  –  10:35 am+1,"Wizz Air, ITA Airways",$297
+WAW,TUN,2024-01-16,10:55 pm  –  11:35 am+1,Multiple airlines,$307
+WAW,TUN,2024-01-16,7:35 am  –  8:50 pm,"LOT, Tunisair",$308
+WAW,TUN,2024-01-16,7:05 am  –  6:05 pm,"Wizz Air, ITA Airways",$311
+WAW,TUN,2024-01-16,6:15 am  –  6:05 pm,"Wizz Air, ITA Airways",$315
+WAW,TUN,2024-01-16,8:30 am  –  6:05 pm,"LOT, ITA Airways",$321
+WAW,TUN,2024-01-16,9:10 am  –  4:00 pm+1,"FlixBus, Transavia",$322
+WAW,TUN,2024-01-16,7:55 pm  –  11:35 am+1,Multiple airlines,$323
+WAW,TUN,2024-01-16,6:00 pm  –  11:35 am+1,Multiple airlines,$327
+WAW,MAD,2024-01-16,8:10 am  –  7:30 pm,Wizz Air,$127
+WAW,MAD,2024-01-16,1:35 pm  –  5:25 pm,Wizz Air,$152
+WAW,MAD,2024-01-16,6:00 pm  –  8:50 am+1,"Wizz Air, Wizz Air Malta",$155
+WAW,MAD,2024-01-16,2:35 pm  –  8:55 pm,"SWISS, Air Europa",$160
+WAW,MAD,2024-01-16,3:50 pm  –  10:00 pm,"Wizz Air, Air Europa",$165
+WAW,MAD,2024-01-16,2:05 pm  –  10:50 pm,"Wizz Air, Iberia",$168
+WAW,MAD,2024-01-16,3:50 pm  –  10:00 pm,"Wizz Air, Vueling",$178
+WAW,MAD,2024-01-16,10:05 am  –  6:10 pm+1,"Scandinavian Airlines, Air Europa",$182
+WAW,MAD,2024-01-16,8:40 pm  –  11:35 pm+1,LOT,$193
+WAW,MAD,2024-01-16,10:05 am  –  10:20 pm,"Scandinavian Airlines, Air Europa",$202
+WAW,MAD,2024-01-16,10:05 am  –  12:00 pm+1,"Scandinavian Airlines, Air Europa",$214
+WAW,MAD,2024-01-16,4:50 pm  –  11:25 pm,KLM,$235
+WAW,MAD,2024-01-16,12:45 pm  –  7:35 pm,KLM,$235
+WAW,MAD,2024-01-16,12:45 pm  –  11:25 pm,KLM,$235
+WAW,MAD,2024-01-16,4:50 pm  –  10:15 am+1,KLM,$235
+WAW,LHR,2024-01-16,7:45 pm  –  9:25 pm,British Airways,$95
+WAW,LHR,2024-01-16,10:05 am  –  5:40 pm,Scandinavian Airlines,$113
+WAW,LHR,2024-01-16,7:30 pm  –  7:35 am+1,"FlixBus, Wizz Air",$116
+WAW,LHR,2024-01-16,12:50 pm  –  2:40 pm,British Airways,$130
+WAW,LHR,2024-01-16,8:15 pm  –  10:00 pm,LOT,$138
+WAW,LHR,2024-01-16,3:30 pm  –  5:20 pm,LOT,$138
+WAW,LHR,2024-01-16,7:35 am  –  9:35 am,LOT,$138
+WAW,LHR,2024-01-16,7:50 am  –  9:40 am,British Airways,$198
+WAW,LHR,2024-01-16,12:45 pm  –  5:40 pm,"Wizz Air, Scandinavian Airlines",$213
+WAW,LHR,2024-01-16,12:45 pm  –  9:40 pm,"Wizz Air, Scandinavian Airlines",$213
+WAW,LHR,2024-01-16,12:15 pm  –  9:35 pm,"Wizz Air, Scandinavian Airlines",$226
+WAW,LHR,2024-01-16,12:15 pm  –  8:55 pm,"Wizz Air, British Airways",$237
+WAW,LHR,2024-01-16,12:45 pm  –  9:20 pm,"Wizz Air, Scandinavian Airlines",$248
+WAW,LHR,2024-01-16,7:05 am  –  4:05 pm,"Wizz Air, ITA Airways",$257
+WAW,LHR,2024-01-16,8:05 am  –  5:55 pm,Scandinavian Airlines,$260
+WAW,HEL,2024-01-16,12:15 pm  –  11:15 pm,"Wizz Air, Finnair",$207
+WAW,HEL,2024-01-16,10:05 am  –  5:40 pm,Scandinavian Airlines,$268
+WAW,HEL,2024-01-16,6:05 am  –  1:10 pm,KLM,$276
+WAW,HEL,2024-01-16,4:50 pm  –  12:05 am+1,KLM,$276
+WAW,HEL,2024-01-16,7:15 pm  –  10:00 pm,Finnair,$283
+WAW,HEL,2024-01-16,8:05 am  –  12:55 pm,Scandinavian Airlines,$283
+WAW,HEL,2024-01-16,12:45 pm  –  7:30 pm,"Wizz Air, Finnair",$285
+WAW,HEL,2024-01-16,6:05 am  –  12:00 pm,Lufthansa,$339
+WAW,HEL,2024-01-16,10:05 am  –  3:40 pm,"Scandinavian Airlines, Finnair",$342
+WAW,HEL,2024-01-16,5:45 am  –  11:35 am,"Wizz Air, Finnair",$343
+WAW,HEL,2024-01-16,1:05 pm  –  3:45 pm,Finnair,$353
+WAW,HEL,2024-01-16,7:10 am  –  3:40 pm,Multiple airlines,$383
+WAW,HEL,2024-01-16,10:40 am  –  7:20 pm,"LOT, Finnair",$405
+WAW,HEL,2024-01-16,8:05 am  –  3:50 pm,Scandinavian Airlines,$406
+WAW,HEL,2024-01-16,11:00 pm  –  6:30 am+1,"LOT, Finnair",$450
+WAW,STO,2024-01-16,7:15 pm  –  12:35 pm+1,Finnair,$116
+WAW,STO,2024-01-16,7:15 pm  –  7:45 am+1,Finnair,$121
+WAW,STO,2024-01-16,7:15 pm  –  11:55 pm,Finnair,$124
+WAW,STO,2024-01-16,1:05 pm  –  11:55 pm,Finnair,$129
+WAW,STO,2024-01-16,7:15 pm  –  10:25 am+1,Finnair,$129
+WAW,STO,2024-01-16,8:10 am  –  9:20 pm,Wizz Air,$135
+WAW,STO,2024-01-16,1:05 pm  –  5:30 pm,Finnair,$145
+WAW,STO,2024-01-16,1:05 pm  –  8:20 pm,Finnair,$145
+WAW,STO,2024-01-16,10:30 am  –  3:00 pm,"LOT, Wizz Air",$154
+WAW,STO,2024-01-16,7:15 pm  –  8:20 pm+1,Finnair,$166
+WAW,STO,2024-01-16,7:15 pm  –  1:35 pm+1,Finnair,$167
+WAW,STO,2024-01-16,7:15 pm  –  4:10 pm+1,Finnair,$169
+WAW,STO,2024-01-16,10:55 pm  –  3:05 pm+1,"LOT, Wizz Air",$182
+WAW,STO,2024-01-16,3:25 pm  –  8:45 pm,"LOT, Wizz Air",$184
+WAW,STO,2024-01-16,11:05 pm  –  7:55 am+1,"LOT, Wizz Air",$187
+WAW,OSL,2024-01-16,12:15 pm  –  2:20 pm,Wizz Air,$88
+WAW,OSL,2024-01-16,1:05 pm  –  8:10 pm,Finnair,$188
+WAW,OSL,2024-01-16,1:25 pm  –  8:20 pm,"LOT, Wizz Air",$192
+WAW,OSL,2024-01-16,11:05 pm  –  8:15 am+1,"LOT, Wizz Air",$192
+WAW,OSL,2024-01-16,6:50 pm  –  10:05 pm,Scandinavian Airlines,$194
+WAW,OSL,2024-01-16,3:20 pm  –  8:20 pm,"LOT, Wizz Air",$208
+WAW,OSL,2024-01-16,12:45 pm  –  5:40 pm,KLM,$235
+WAW,OSL,2024-01-16,4:50 pm  –  10:35 pm,KLM,$235
+WAW,OSL,2024-01-16,10:30 am  –  5:50 pm,"LOT, Norwegian",$253
+WAW,OSL,2024-01-16,11:55 am  –  8:40 pm,"Wizz Air, Scandinavian Airlines",$258
+WAW,OSL,2024-01-16,7:40 am  –  9:50 am,LOT,$267
+WAW,OSL,2024-01-16,4:50 pm  –  10:25 pm,KLM,$276
+WAW,OSL,2024-01-16,12:45 pm  –  6:20 pm,KLM,$276
+WAW,OSL,2024-01-16,6:05 am  –  11:55 am,KLM,$276
+WAW,OSL,2024-01-16,2:35 pm  –  7:50 pm,SWISS,$279
+WAW,BRU,2024-01-16,6:25 am  –  8:35 am,Wizz Air,$139
+WAW,BRU,2024-01-16,11:55 am  –  3:06 am+1,Multiple airlines,$167
+WAW,BRU,2024-01-16,12:45 pm  –  7:08 pm,KLM,$250
+WAW,BRU,2024-01-16,5:50 am  –  1:55 pm,"Wizz Air, British Airways",$253
+WAW,BRU,2024-01-16,4:50 pm  –  10:20 pm,KLM,$272
+WAW,BRU,2024-01-16,5:50 am  –  1:10 pm,"Wizz Air, Brussels Airlines",$281
+WAW,BRU,2024-01-16,10:05 am  –  3:10 pm,Scandinavian Airlines,$283
+WAW,BRU,2024-01-16,1:35 pm  –  10:30 pm,"Wizz Air, Iberia",$287
+WAW,BRU,2024-01-16,11:55 am  –  7:55 pm,"Wizz Air, Brussels Airlines",$292
+WAW,BRU,2024-01-16,1:35 pm  –  10:30 pm,"Wizz Air, Vueling",$314
+WAW,BRU,2024-01-16,6:05 am  –  10:00 am,KLM,$317
+WAW,BRU,2024-01-16,6:05 am  –  2:15 pm,KLM,$317
+WAW,BRU,2024-01-16,10:50 am  –  6:05 pm,"LOT, Wizz Air",$318
+WAW,BRU,2024-01-16,8:10 am  –  5:00 pm,"Wizz Air, Austrian Airlines",$321
+WAW,BRU,2024-01-16,7:35 am  –  1:10 pm,"LOT, Brussels Airlines",$322
+WAW,DUB,2024-01-16,5:50 am  –  2:25 pm,"Wizz Air, Aer Lingus",$161
+WAW,DUB,2024-01-16,11:55 am  –  8:45 pm,"Wizz Air, Aer Lingus",$178
+WAW,DUB,2024-01-16,5:50 am  –  5:45 pm,"Wizz Air, Aer Lingus",$182
+WAW,DUB,2024-01-16,11:55 am  –  9:05 pm,"Wizz Air, Aer Lingus",$186
+WAW,DUB,2024-01-16,6:55 am  –  2:10 pm,"Wizz Air, Aer Lingus",$200
+WAW,DUB,2024-01-16,7:15 pm  –  9:00 am+1,Finnair,$214
+WAW,DUB,2024-01-16,10:05 am  –  9:05 pm,"Scandinavian Airlines, Aer Lingus",$219
+WAW,DUB,2024-01-16,11:55 am  –  10:05 pm,"Wizz Air, Aer Lingus",$220
+WAW,DUB,2024-01-16,5:50 am  –  1:35 pm,"Wizz Air, Aer Lingus",$228
+WAW,DUB,2024-01-16,2:45 pm  –  9:00 am+1,"LOT, Vueling",$229
+WAW,DUB,2024-01-16,7:05 am  –  9:00 am+1,Multiple airlines,$229
+WAW,DUB,2024-01-16,11:55 am  –  8:05 pm,"Wizz Air, Aer Lingus",$232
+WAW,DUB,2024-01-16,3:30 pm  –  9:05 pm,"LOT, Aer Lingus",$237
+WAW,DUB,2024-01-16,7:35 am  –  9:05 pm,"LOT, Aer Lingus",$237
+WAW,DUB,2024-01-16,1:35 pm  –  9:00 am+1,"Wizz Air, Vueling",$243
+WAW,LUX,2024-01-16,3:15 pm  –  12:30 pm+1,Sindbad,$75
+WAW,LUX,2024-01-16,5:00 pm  –  9:05 pm,LOT,$175
+WAW,LUX,2024-01-16,7:20 am  –  9:05 pm,LOT,$176
+WAW,LUX,2024-01-16,7:20 am  –  11:25 am,LOT,$192
+WAW,LUX,2024-01-16,5:20 pm  –  10:35 pm,LOT,$193
+WAW,LUX,2024-01-16,7:20 am  –  10:35 pm,LOT,$193
+WAW,LUX,2024-01-16,6:05 am  –  4:40 pm,"Wizz Air, Wizz Air Malta",$202
+WAW,LUX,2024-01-16,8:00 am  –  10:20 pm,"LOT, Luxair",$231
+WAW,LUX,2024-01-16,8:30 am  –  4:40 pm,"LOT, Wizz Air Malta",$247
+WAW,LUX,2024-01-16,2:35 pm  –  6:45 pm,SWISS,$252
+WAW,LUX,2024-01-16,9:15 am  –  10:25 pm,"LOT, Luxair",$252
+WAW,LUX,2024-01-16,12:45 pm  –  10:20 pm,"Wizz Air, Luxair",$277
+WAW,LUX,2024-01-16,7:20 am  –  11:25 am,"LOT, Luxair",$283
+WAW,LUX,2024-01-16,12:45 pm  –  10:20 pm,"Wizz Air, Scandinavian Airlines",$289
+WAW,LUX,2024-01-16,7:00 pm  –  10:10 am+1,Lufthansa,$294
+WAW,AMS,2024-01-16,11:55 am  –  8:35 pm,"Wizz Air, easyJet",$153
+WAW,AMS,2024-01-16,11:55 am  –  5:20 pm,"Wizz Air, easyJet",$156
+WAW,AMS,2024-01-16,5:50 am  –  3:10 pm,"Wizz Air, easyJet",$158
+WAW,AMS,2024-01-16,11:55 am  –  8:40 pm,"Wizz Air, easyJet",$160
+WAW,AMS,2024-01-16,12:50 pm  –  8:35 pm,"British Airways, easyJet",$196
+WAW,AMS,2024-01-16,12:50 pm  –  8:40 pm,"British Airways, easyJet",$199
+WAW,AMS,2024-01-16,12:50 pm  –  10:15 pm,"British Airways, easyJet",$212
+WAW,AMS,2024-01-16,6:10 am  –  2:20 pm,"Wizz Air, easyJet",$233
+WAW,AMS,2024-01-16,12:45 pm  –  4:50 pm,"Wizz Air, Scandinavian Airlines",$242
+WAW,AMS,2024-01-16,10:05 am  –  2:15 pm,Scandinavian Airlines,$250
+WAW,AMS,2024-01-16,10:05 am  –  4:50 pm,Scandinavian Airlines,$250
+WAW,AMS,2024-01-16,7:50 am  –  5:20 pm,"British Airways, easyJet",$275
+WAW,AMS,2024-01-16,8:15 pm  –  10:30 pm,LOT,$280
+WAW,AMS,2024-01-16,7:20 am  –  9:40 am,LOT,$280
+WAW,AMS,2024-01-16,12:50 pm  –  8:10 pm,British Airways,$297
+WAW,VIE,2024-01-16,5:50 am  –  10:35 pm,"Wizz Air, Wizz Air Malta",$154
+WAW,VIE,2024-01-16,11:55 am  –  10:35 pm,"Wizz Air, Wizz Air Malta",$170
+WAW,VIE,2024-01-16,5:20 pm  –  6:45 pm,LOT,$224
+WAW,VIE,2024-01-16,7:20 am  –  8:45 am,LOT,$224
+WAW,VIE,2024-01-16,7:25 pm  –  8:45 pm,Austrian Airlines,$225
+WAW,VIE,2024-01-16,10:10 am  –  11:30 am,Austrian Airlines,$225
+WAW,VIE,2024-01-16,6:50 am  –  8:10 am,Austrian Airlines,$225
+WAW,VIE,2024-01-16,8:15 pm  –  11:50 am+1,"LOT, Wizz Air Malta",$225
+WAW,VIE,2024-01-16,7:45 pm  –  10:30 am+1,British Airways,$248
+WAW,VIE,2024-01-16,9:45 am  –  2:05 pm,SWISS,$267
+WAW,VIE,2024-01-16,2:35 pm  –  7:10 pm,SWISS,$272
+WAW,VIE,2024-01-16,12:50 pm  –  10:00 pm,British Airways,$272
+WAW,VIE,2024-01-16,6:05 am  –  9:45 am,Lufthansa,$274
+WAW,VIE,2024-01-16,2:35 pm  –  8:45 pm,SWISS,$281
+WAW,VIE,2024-01-16,9:45 am  –  4:25 pm,SWISS,$281
+WAW,FRA,2024-01-16,4:45 pm  –  2:30 pm+1,FlixBus,$56
+WAW,FRA,2024-01-16,7:15 pm  –  9:25 am+1,Finnair,$214
+WAW,FRA,2024-01-16,8:40 pm  –  10:40 pm,LOT,$263
+WAW,FRA,2024-01-16,5:00 pm  –  7:05 pm,LOT,$263
+WAW,FRA,2024-01-16,7:50 am  –  2:05 pm,British Airways,$274
+WAW,FRA,2024-01-16,7:45 pm  –  9:40 am+1,British Airways,$275
+WAW,FRA,2024-01-16,1:05 pm  –  6:35 pm,Finnair,$290
+WAW,FRA,2024-01-16,2:45 pm  –  4:40 pm,Lufthansa,$297
+WAW,FRA,2024-01-16,7:00 pm  –  8:55 pm,Lufthansa,$297
+WAW,FRA,2024-01-16,6:05 am  –  12:05 pm,Lufthansa,$299
+WAW,FRA,2024-01-16,12:45 pm  –  5:15 pm,KLM,$301
+WAW,FRA,2024-01-16,4:50 pm  –  10:25 pm,KLM,$301
+WAW,FRA,2024-01-16,12:45 pm  –  10:25 pm,KLM,$301
+WAW,FRA,2024-01-16,6:55 am  –  8:50 am,Lufthansa,$307
+WAW,FRA,2024-01-16,7:45 am  –  9:45 am,LOT,$308
+WAW,BUD,2024-01-16,8:10 am  –  9:30 am,Wizz Air,$58
+WAW,BUD,2024-01-16,12:50 pm  –  7:35 pm,Wizz Air,$139
+WAW,BUD,2024-01-16,5:50 am  –  12:05 pm,Wizz Air,$147
+WAW,BUD,2024-01-16,12:50 pm  –  8:30 pm,"Wizz Air, easyJet",$159
+WAW,BUD,2024-01-16,11:55 am  –  11:25 pm,Wizz Air,$163
+WAW,BUD,2024-01-16,5:30 pm  –  12:20 am+1,Wizz Air,$172
+WAW,BUD,2024-01-16,6:30 am  –  3:20 pm,Wizz Air,$184
+WAW,BUD,2024-01-16,10:05 am  –  11:20 pm,"Scandinavian Airlines, Wizz Air",$188
+WAW,BUD,2024-01-16,8:15 pm  –  12:05 pm+1,"LOT, Wizz Air",$194
+WAW,BUD,2024-01-16,3:50 pm  –  5:10 pm,LOT,$196
+WAW,BUD,2024-01-16,10:50 am  –  12:10 pm,LOT,$196
+WAW,BUD,2024-01-16,7:45 am  –  9:05 am,LOT,$196
+WAW,BUD,2024-01-16,3:50 pm  –  11:20 pm,Wizz Air,$203
+WAW,BUD,2024-01-16,1:35 pm  –  11:30 pm,Wizz Air,$227
+WAW,BUD,2024-01-16,7:05 am  –  10:45 pm+1,"Wizz Air, ITA Airways",$228
+WAW,BTS,2024-01-16,1:15 am  –  1:45 pm,"FlixBus, Regiojet",$53
+WAW,BTS,2024-01-16,6:25 am  –  6:35 pm,Wizz Air,$299
+WAW,BTS,2024-01-16,7:20 am  –  6:35 pm,Multiple airlines,$507
+WAW,BTS,2024-01-16,6:50 am  –  6:35 pm,Multiple airlines,$507
+WAW,BTS,2024-01-16,6:50 am  –  6:35 pm,"Austrian Airlines, Wizz Air",$525
+WAW,BTS,2024-01-16,6:05 am  –  6:35 pm,"Lufthansa, Wizz Air",$604
+WAW,BTS,2024-01-16,7:20 am  –  6:35 pm,Multiple airlines,$621
+WAW,BTS,2024-01-16,6:05 am  –  6:35 pm,Multiple airlines,$656
+WAW,BTS,2024-01-16,7:45 am  –  6:35 pm,Multiple airlines,$732
+WAW,BTS,2024-01-16,7:45 am  –  6:35 pm,"Lufthansa, Wizz Air","$1,143"
+WAW,ZRH,2024-01-16,10:05 pm  –  9:10 pm+1,FlixBus,$60
+WAW,ZRH,2024-01-16,2:35 pm  –  4:35 pm,SWISS,$93
+WAW,ZRH,2024-01-16,9:45 am  –  11:40 am,SWISS,$151
+WAW,ZRH,2024-01-16,5:00 pm  –  7:05 pm,LOT,$177
+WAW,ZRH,2024-01-16,6:05 am  –  10:10 am,Lufthansa,$198
+WAW,ZRH,2024-01-16,1:25 pm  –  7:35 pm,Lufthansa,$198
+WAW,ZRH,2024-01-16,6:05 am  –  12:55 pm,Lufthansa,$205
+WAW,ZRH,2024-01-16,10:10 am  –  2:20 pm,Austrian Airlines,$207
+WAW,ZRH,2024-01-16,6:50 am  –  11:10 am,Austrian Airlines,$207
+WAW,ZRH,2024-01-16,10:10 am  –  4:25 pm,Austrian Airlines,$207
+WAW,ZRH,2024-01-16,6:50 am  –  2:20 pm,Austrian Airlines,$212
+WAW,ZRH,2024-01-16,10:10 am  –  6:40 pm,Austrian Airlines,$212
+WAW,ZRH,2024-01-16,6:50 am  –  4:25 pm,Austrian Airlines,$212
+WAW,ZRH,2024-01-16,10:10 am  –  7:50 pm,Austrian Airlines,$212
+WAW,ZRH,2024-01-16,10:10 am  –  9:40 pm,Austrian Airlines,$212
+WAW,ATH,2024-01-16,6:15 pm  –  9:45 pm,Aegean Airlines,$140
+WAW,ATH,2024-01-16,3:15 pm  –  6:45 pm,Sky Express,$142
+WAW,ATH,2024-01-16,5:50 am  –  6:45 pm,"Wizz Air, Sky Express",$184
+WAW,ATH,2024-01-16,4:55 pm  –  11:10 pm,"LOT, Wizz Air",$191
+WAW,ATH,2024-01-16,2:45 pm  –  10:25 pm,Aegean Airlines,$197
+WAW,ATH,2024-01-16,11:55 am  –  8:40 am+1,"Wizz Air, Pegasus Airlines",$202
+WAW,ATH,2024-01-16,1:30 pm  –  11:10 pm,"LOT, Wizz Air",$205
+WAW,ATH,2024-01-16,6:05 am  –  2:35 pm,Aegean Airlines,$232
+WAW,ATH,2024-01-16,6:05 am  –  1:35 pm,"Wizz Air, Volotea",$233
+WAW,ATH,2024-01-16,6:05 am  –  9:30 pm,"Wizz Air, Volotea",$233
+WAW,ATH,2024-01-16,2:45 pm  –  3:10 pm+1,Aegean Airlines,$238
+WAW,ATH,2024-01-16,8:10 am  –  8:40 am+1,"Wizz Air, Pegasus Airlines",$238
+WAW,ATH,2024-01-16,6:05 am  –  12:05 pm,Aegean Airlines,$239
+WAW,ATH,2024-01-16,7:35 am  –  6:45 pm,"LOT, Sky Express",$257
+WAW,ATH,2024-01-16,12:50 pm  –  11:15 pm,British Airways,$265
+WAW,MLA,2024-01-16,6:30 am  –  9:35 am,Wizz Air,$110
+WAW,MLA,2024-01-16,5:50 am  –  4:10 pm,"Wizz Air, Air Malta",$150
+WAW,MLA,2024-01-16,7:20 am  –  2:40 pm,"LOT, Air Malta",$174
+WAW,MLA,2024-01-16,7:20 am  –  9:10 pm,"LOT, Air Malta",$174
+WAW,MLA,2024-01-16,8:40 pm  –  2:40 pm+1,"LOT, Air Malta",$175
+WAW,MLA,2024-01-16,8:40 pm  –  9:10 pm+1,"LOT, Air Malta",$175
+WAW,MLA,2024-01-16,5:30 pm  –  10:30 pm,"Wizz Air, Air Malta",$180
+WAW,MLA,2024-01-16,11:55 am  –  12:40 am+1,"Wizz Air, Air Malta",$182
+WAW,MLA,2024-01-16,2:35 pm  –  8:00 pm,"SWISS, Air Malta",$186
+WAW,MLA,2024-01-16,5:00 pm  –  2:40 pm+1,"LOT, Air Malta",$197
+WAW,MLA,2024-01-16,1:30 pm  –  8:55 pm,"LOT, Wizz Air",$205
+WAW,MLA,2024-01-16,6:05 am  –  11:30 am,"Wizz Air, Air Malta",$210
+WAW,MLA,2024-01-16,10:05 am  –  12:40 am+1,"Scandinavian Airlines, Air Malta",$215
+WAW,MLA,2024-01-16,7:20 am  –  12:50 pm,"LOT, Air Malta",$222
+WAW,MLA,2024-01-16,8:30 am  –  10:30 pm,"LOT, Air Malta",$250
+WAW,LIS,2024-01-16,1:25 pm  –  4:45 pm,Wizz Air,$129
+WAW,LIS,2024-01-16,8:10 am  –  10:10 pm,"Wizz Air, TAP AIR PORTUGAL",$176
+WAW,LIS,2024-01-16,3:50 pm  –  10:10 pm,"Wizz Air, TAP AIR PORTUGAL",$181
+WAW,LIS,2024-01-16,7:05 am  –  4:05 pm,"Wizz Air, Iberia",$186
+WAW,LIS,2024-01-16,6:00 pm  –  8:15 am+1,"Wizz Air, TAP AIR PORTUGAL",$189
+WAW,LIS,2024-01-16,3:50 pm  –  6:50 am+1,"Wizz Air, Air Europa",$193
+WAW,LIS,2024-01-16,2:05 pm  –  2:30 pm+1,"Wizz Air, FlixBus",$198
+WAW,LIS,2024-01-16,5:50 am  –  7:15 pm,"Wizz Air, TAP AIR PORTUGAL",$199
+WAW,LIS,2024-01-16,6:10 am  –  3:15 pm,"Wizz Air, Air Europa",$214
+WAW,LIS,2024-01-16,6:10 am  –  7:10 pm,"Wizz Air, Air Europa",$217
+WAW,LIS,2024-01-16,5:50 am  –  4:25 pm,"Wizz Air, TAP AIR PORTUGAL",$220
+WAW,LIS,2024-01-16,12:45 pm  –  9:15 pm,"Wizz Air, TAP AIR PORTUGAL",$228
+WAW,LIS,2024-01-16,5:30 pm  –  7:45 am+1,Multiple airlines,$231
+WAW,LIS,2024-01-16,7:45 pm  –  8:40 am+1,"British Airways, TAP AIR PORTUGAL",$236
+WAW,LIS,2024-01-16,2:35 pm  –  8:05 pm,"SWISS, TAP AIR PORTUGAL",$238
+WAW,LJU,2024-01-16,7:45 pm  –  4:10 pm+1,British Airways,$223
+WAW,LJU,2024-01-16,2:50 pm  –  4:30 pm,LOT,$232
+WAW,LJU,2024-01-16,5:00 pm  –  2:20 pm+1,"LOT, SWISS",$241
+WAW,LJU,2024-01-16,8:10 am  –  8:55 am+1,"Wizz Air, Air Serbia",$253
+WAW,LJU,2024-01-16,7:40 am  –  2:10 pm,"LOT, SWISS",$254
+WAW,LJU,2024-01-16,12:50 pm  –  4:10 pm+1,British Airways,$255
+WAW,LJU,2024-01-16,8:10 am  –  7:50 pm,"Wizz Air, Air Serbia",$263
+WAW,LJU,2024-01-16,2:45 pm  –  9:50 pm,Lufthansa,$299
+WAW,LJU,2024-01-16,2:35 pm  –  2:20 pm+1,SWISS,$299
+WAW,LJU,2024-01-16,5:50 am  –  7:50 pm,"Wizz Air, Air Serbia",$307
+WAW,LJU,2024-01-16,8:40 pm  –  10:05 am+1,Lufthansa,$309
+WAW,LJU,2024-01-16,7:00 pm  –  10:05 am+1,Lufthansa,$315
+WAW,LJU,2024-01-16,2:45 pm  –  10:05 am+1,Lufthansa,$323
+WAW,LJU,2024-01-16,7:00 pm  –  9:30 pm+1,Lufthansa,$324
+WAW,LJU,2024-01-16,10:55 pm  –  10:05 am+1,"LOT, Lufthansa",$326
+WAW,CPH,2024-01-16,12:45 pm  –  2:20 pm,Wizz Air,$66
+WAW,CPH,2024-01-16,8:10 am  –  1:00 pm,Wizz Air,$127
+WAW,CPH,2024-01-16,6:50 pm  –  8:15 pm,Scandinavian Airlines,$134
+WAW,CPH,2024-01-16,10:05 am  –  11:30 am,Scandinavian Airlines,$145
+WAW,CPH,2024-01-16,7:10 am  –  11:25 am,"LOT, Wizz Air",$159
+WAW,CPH,2024-01-16,1:05 pm  –  6:35 pm,Finnair,$227
+WAW,CPH,2024-01-16,4:50 pm  –  10:30 pm,KLM,$251
+WAW,CPH,2024-01-16,8:00 am  –  9:35 am,LOT,$265
+WAW,CPH,2024-01-16,7:45 am  –  1:00 pm,"LOT, Wizz Air",$283
+WAW,CPH,2024-01-16,2:35 pm  –  7:10 pm,SWISS,$295
+WAW,CPH,2024-01-16,4:50 pm  –  9:00 pm,KLM,$296
+WAW,CPH,2024-01-16,5:45 am  –  10:30 am,"Wizz Air, Scandinavian Airlines",$301
+WAW,CPH,2024-01-16,7:00 pm  –  11:30 pm,Lufthansa,$304
+WAW,CPH,2024-01-16,10:35 am  –  4:20 pm,"LOT, Scandinavian Airlines",$312
+WAW,CPH,2024-01-16,1:15 pm  –  4:20 pm,"LOT, Scandinavian Airlines",$329
+WAW,TLL,2024-01-16,8:50 pm  –  9:40 pm+1,LUX Express,$47
+WAW,TLL,2024-01-16,7:15 pm  –  12:25 am+1,Finnair,$127
+WAW,TLL,2024-01-16,7:15 pm  –  8:00 am+1,Finnair,$127
+WAW,TLL,2024-01-16,7:15 pm  –  10:10 am+1,Finnair,$127
+WAW,TLL,2024-01-16,1:05 pm  –  6:00 pm,Finnair,$139
+WAW,TLL,2024-01-16,1:05 pm  –  12:25 am+1,Finnair,$139
+WAW,TLL,2024-01-16,7:15 pm  –  2:15 pm+1,Finnair,$178
+WAW,TLL,2024-01-16,7:15 pm  –  3:10 pm+1,Finnair,$178
+WAW,TLL,2024-01-16,7:15 pm  –  9:40 pm+1,Finnair,$178
+WAW,TLL,2024-01-16,1:05 pm  –  8:00 am+1,Finnair,$189
+WAW,TLL,2024-01-16,1:05 pm  –  10:10 am+1,Finnair,$189
+WAW,TLL,2024-01-16,1:05 pm  –  2:15 pm+1,Finnair,$189
+WAW,TLL,2024-01-16,1:05 pm  –  3:10 pm+1,Finnair,$189
+WAW,TLL,2024-01-16,1:05 pm  –  5:00 pm,Finnair,$248
+WAW,TLL,2024-01-16,10:40 am  –  1:20 pm,LOT,$277
+WAW,REK,2024-01-16,7:15 pm  –  9:15 am+1,Finnair,$206
+WAW,REK,2024-01-16,1:05 pm  –  9:15 am+1,Finnair,$301
+WAW,REK,2024-01-16,2:35 pm  –  1:10 pm+1,SWISS,$393
+WAW,REK,2024-01-16,7:45 pm  –  10:45 am+1,British Airways,$425
+WAW,REK,2024-01-16,8:35 pm  –  3:15 pm+1,Scandinavian Airlines,$444
+WAW,REK,2024-01-16,5:10 pm  –  3:15 pm+1,Scandinavian Airlines,$444
+WAW,REK,2024-01-16,9:45 am  –  1:10 pm+1,SWISS,$453
+WAW,REK,2024-01-16,6:50 pm  –  3:30 pm+1,Scandinavian Airlines,$457
+WAW,REK,2024-01-16,7:40 am  –  3:15 pm+1,Scandinavian Airlines,$473
+WAW,REK,2024-01-16,7:40 am  –  3:15 pm+1,Scandinavian Airlines,$473
+WAW,REK,2024-01-16,7:40 am  –  3:30 pm+1,Scandinavian Airlines,$486
+WAW,REK,2024-01-16,7:40 am  –  3:30 pm+1,Scandinavian Airlines,$486
+WAW,REK,2024-01-16,12:50 pm  –  10:45 am+1,British Airways,$487
+WAW,REK,2024-01-16,8:40 pm  –  1:10 pm+1,Lufthansa,$495
+WAW,REK,2024-01-16,8:05 am  –  3:15 pm,Scandinavian Airlines,$504
+WAW,RIX,2024-01-16,7:15 pm  –  8:55 am+1,Finnair,$155
+WAW,RIX,2024-01-16,7:15 pm  –  1:10 pm+1,Finnair,$155
+WAW,RIX,2024-01-16,1:05 pm  –  5:40 pm,Finnair,$176
+WAW,RIX,2024-01-16,7:15 pm  –  9:05 pm+1,Finnair,$200
+WAW,RIX,2024-01-16,1:05 pm  –  8:55 am+1,Finnair,$221
+WAW,RIX,2024-01-16,1:05 pm  –  1:10 pm+1,Finnair,$221
+WAW,RIX,2024-01-16,10:40 am  –  1:00 pm,LOT,$242
+WAW,RIX,2024-01-16,5:45 am  –  1:10 pm+1,"Wizz Air, Finnair",$247
+WAW,RIX,2024-01-16,12:15 pm  –  10:25 pm,"Wizz Air, airBaltic",$263
+WAW,RIX,2024-01-16,6:50 pm  –  10:45 am+1,"Scandinavian Airlines, airBaltic",$264
+WAW,RIX,2024-01-16,1:05 pm  –  10:10 pm,"Finnair, airBaltic",$265
+WAW,RIX,2024-01-16,7:25 pm  –  10:20 pm+1,Austrian Airlines,$266
+WAW,RIX,2024-01-16,10:55 pm  –  8:55 am+2,"LOT, Finnair",$266
+WAW,RIX,2024-01-16,6:50 am  –  12:05 pm,"Austrian Airlines, airBaltic",$267
+WAW,RIX,2024-01-16,7:25 pm  –  10:20 pm+1,"Austrian Airlines, airBaltic",$268
+WAW,VNO,2024-01-16,3:25 pm  –  10:55 pm,FlixBus,$21
+WAW,VNO,2024-01-16,7:15 am  –  9:25 am,LOT,$203
+WAW,VNO,2024-01-16,6:50 pm  –  11:35 pm,Scandinavian Airlines,$257
+WAW,VNO,2024-01-16,10:05 am  –  3:10 pm,Scandinavian Airlines,$257
+WAW,VNO,2024-01-16,4:25 pm  –  6:30 pm,LOT,$268
+WAW,VNO,2024-01-16,12:00 pm  –  2:05 pm,LOT,$268
+WAW,VNO,2024-01-16,10:55 pm  –  1:00 am+1,LOT,$268
+WAW,VNO,2024-01-16,2:10 pm  –  4:15 pm,LOT,$311
+WAW,VNO,2024-01-16,10:40 am  –  2:40 pm,airBaltic,$366
+WAW,VNO,2024-01-16,1:05 pm  –  6:15 pm,Finnair,$917
+WAW,SYD,2024-01-16,7:15 pm  –  8:50 pm+2,Finnair,"$1,333"
+WAW,SYD,2024-01-16,1:05 pm  –  8:50 pm+2,Finnair,"$1,343"
+WAW,SYD,2024-01-16,7:15 pm  –  8:50 pm+2,"Finnair, Cathay Pacific","$1,461"
+WAW,SYD,2024-01-16,1:05 pm  –  8:50 pm+2,"Finnair, Cathay Pacific","$1,461"
+WAW,SYD,2024-01-16,12:50 pm  –  7:25 am+2,"British Airways, Cathay Pacific","$1,501"
+WAW,SYD,2024-01-16,12:50 pm  –  7:25 am+2,"British Airways, Cathay Pacific","$1,501"
+WAW,SYD,2024-01-16,12:50 pm  –  12:00 pm+2,"British Airways, Cathay Pacific","$1,501"
+WAW,SYD,2024-01-16,12:50 pm  –  12:00 pm+2,"British Airways, Cathay Pacific","$1,501"
+WAW,SYD,2024-01-16,12:50 pm  –  12:00 pm+2,"British Airways, Cathay Pacific","$1,501"
+WAW,SYD,2024-01-16,7:50 am  –  7:25 am+2,"British Airways, Cathay Pacific","$1,501"
+WAW,SYD,2024-01-16,7:50 am  –  7:25 am+2,"British Airways, Cathay Pacific","$1,501"
+WAW,SYD,2024-01-16,7:50 am  –  12:00 pm+2,"British Airways, Cathay Pacific","$1,501"
+WAW,SYD,2024-01-16,7:50 am  –  12:00 pm+2,"British Airways, Cathay Pacific","$1,501"
+WAW,SYD,2024-01-16,7:50 am  –  12:00 pm+2,"British Airways, Cathay Pacific","$1,501"
+WAW,SYD,2024-01-16,4:50 pm  –  7:25 am+2,KLM,"$1,565"
+WAW,ALG,2024-01-16,7:00 pm  –  12:35 am+1,Lufthansa,$315
+WAW,ALG,2024-01-16,2:45 pm  –  12:35 am+1,Lufthansa,$315
+WAW,ALG,2024-01-16,7:00 pm  –  11:40 am+1,Lufthansa,$346
+WAW,ALG,2024-01-16,2:45 pm  –  11:40 am+1,Lufthansa,$346
+WAW,ALG,2024-01-16,8:40 pm  –  11:40 am+1,Lufthansa,$367
+WAW,ALG,2024-01-16,1:25 pm  –  12:35 am+1,Lufthansa,$368
+WAW,ALG,2024-01-16,1:25 pm  –  12:35 am+1,Lufthansa,$368
+WAW,ALG,2024-01-16,3:20 pm  –  12:35 am+1,"LOT, Lufthansa",$502
+WAW,ALG,2024-01-16,7:20 pm  –  9:05 am+1,Turkish Airlines,$503
+WAW,ALG,2024-01-16,7:20 pm  –  4:15 pm+1,Turkish Airlines,$503
+WAW,ALG,2024-01-16,7:20 pm  –  11:25 pm+1,Turkish Airlines,$503
+WAW,ALG,2024-01-16,6:35 am  –  11:30 pm,Air France,$545
+WAW,ALG,2024-01-16,6:55 am  –  12:35 am+1,Lufthansa,$546
+WAW,ALG,2024-01-16,1:05 pm  –  11:30 pm,Air France,$673
+WAW,ALG,2024-01-16,12:45 pm  –  11:30 pm,KLM,$706
+WAW,BJL,2024-01-16,6:25 am  –  1:30 am+1,"Wizz Air, Royal Air Maroc",$550
+WAW,BJL,2024-01-16,5:50 am  –  1:30 am+1,"Wizz Air, Royal Air Maroc",$577
+WAW,BJL,2024-01-16,5:20 pm  –  1:30 am+2,Multiple airlines,$592
+WAW,BJL,2024-01-16,5:50 am  –  1:30 am+1,"Wizz Air, Royal Air Maroc",$618
+WAW,BJL,2024-01-16,6:05 am  –  1:30 am+1,"Wizz Air, Royal Air Maroc",$627
+WAW,BJL,2024-01-16,7:35 am  –  1:30 am+1,"LOT, Royal Air Maroc",$637
+WAW,BJL,2024-01-16,8:30 am  –  5:45 am+1,Multiple airlines,$653
+WAW,BJL,2024-01-16,8:30 am  –  1:30 am+1,"LOT, Royal Air Maroc",$659
+WAW,BJL,2024-01-16,7:35 am  –  1:30 am+1,"LOT, Royal Air Maroc",$677
+WAW,BJL,2024-01-16,10:05 am  –  1:30 am+1,"Scandinavian Airlines, Royal Air Maroc",$684
+WAW,BJL,2024-01-16,6:10 am  –  1:30 am+1,"Wizz Air, Royal Air Maroc",$697
+WAW,BJL,2024-01-16,7:20 am  –  1:30 am+1,"LOT, Royal Air Maroc",$701
+WAW,BJL,2024-01-16,10:05 am  –  1:30 am+1,"Scandinavian Airlines, Royal Air Maroc",$709
+WAW,BJL,2024-01-16,7:45 am  –  1:30 am+1,Multiple airlines,$722
+WAW,BJL,2024-01-16,7:30 am  –  1:30 am+1,Multiple airlines,$736
+WAW,LOS,2024-01-16,2:45 pm  –  12:25 pm+1,Ethiopian Air,$710
+WAW,LOS,2024-01-16,5:20 pm  –  1:45 pm+1,Egypt Air,$885
+WAW,LOS,2024-01-16,7:25 pm  –  12:25 pm+1,Ethiopian Air,$900
+WAW,LOS,2024-01-16,6:05 am  –  8:35 pm,KLM,$994
+WAW,LOS,2024-01-16,7:30 am  –  1:45 pm+1,Egypt Air,"$1,025"
+WAW,LOS,2024-01-16,7:30 am  –  1:45 pm+1,Egypt Air,"$1,025"
+WAW,LOS,2024-01-16,2:35 pm  –  5:45 pm+1,SWISS,"$1,107"
+WAW,LOS,2024-01-16,2:35 pm  –  5:45 pm+1,SWISS,"$1,107"
+WAW,LOS,2024-01-16,6:35 am  –  9:00 pm,Air France,"$1,113"
+WAW,LOS,2024-01-16,2:35 pm  –  5:45 pm+1,SWISS,"$1,123"
+WAW,LOS,2024-01-16,2:35 pm  –  5:45 pm+1,SWISS,"$1,123"
+WAW,LOS,2024-01-16,2:35 pm  –  5:45 pm+1,SWISS,"$1,123"
+WAW,LOS,2024-01-16,6:35 am  –  8:35 pm,Air France,"$1,124"
+WAW,LOS,2024-01-16,8:40 pm  –  5:45 pm+1,Lufthansa,"$1,192"
+WAW,LOS,2024-01-16,6:05 am  –  9:00 pm,KLM,"$1,193"
+WAW,ADD,2024-01-16,8:10 am  –  4:20 am+1,"Wizz Air, flynas",$289
+WAW,ADD,2024-01-16,8:10 am  –  7:05 am+1,"Wizz Air, Ethiopian Air",$425
+WAW,ADD,2024-01-16,8:10 am  –  4:10 am+1,"Wizz Air, Egypt Air",$480
+WAW,ADD,2024-01-16,7:20 am  –  4:20 am+1,Multiple airlines,$480
+WAW,ADD,2024-01-16,6:50 am  –  4:20 am+1,Multiple airlines,$480
+WAW,ADD,2024-01-16,8:10 am  –  4:10 am+1,"Wizz Air, Egypt Air",$532
+WAW,ADD,2024-01-16,6:05 am  –  4:10 am+1,"Wizz Air, Egypt Air",$561
+WAW,ADD,2024-01-16,10:30 am  –  4:10 am+1,Multiple airlines,$572
+WAW,ADD,2024-01-16,10:30 am  –  7:30 am+1,Multiple airlines,$579
+WAW,ADD,2024-01-16,6:05 am  –  12:10 am+1,"Wizz Air, Turkish Airlines",$581
+WAW,ADD,2024-01-16,8:30 am  –  7:25 am+1,Multiple airlines,$586
+WAW,ADD,2024-01-16,10:05 am  –  7:20 am+1,"Scandinavian Airlines, Ethiopian Air",$589
+WAW,ADD,2024-01-16,8:30 am  –  4:10 am+1,"LOT, Egypt Air",$594
+WAW,ADD,2024-01-16,10:30 am  –  7:20 am+1,Multiple airlines,$614
+WAW,ADD,2024-01-16,8:35 pm  –  7:30 pm+1,flydubai,$618
+WAW,NBO,2024-01-16,8:10 am  –  3:50 am+2,"Wizz Air, Egypt Air",$374
+WAW,NBO,2024-01-16,8:10 am  –  3:50 am+2,"Wizz Air, Egypt Air",$374
+WAW,NBO,2024-01-16,8:10 am  –  12:05 am+2,"Wizz Air, Qatar Airways",$439
+WAW,NBO,2024-01-16,8:10 am  –  7:35 am+2,"Wizz Air, Qatar Airways",$439
+WAW,NBO,2024-01-16,6:05 am  –  12:40 am+2,Multiple airlines,$504
+WAW,NBO,2024-01-16,6:05 am  –  12:05 am+2,Multiple airlines,$509
+WAW,NBO,2024-01-16,7:45 am  –  3:50 am+2,Multiple airlines,$530
+WAW,NBO,2024-01-16,8:10 am  –  7:35 am+1,"Wizz Air, Qatar Airways",$534
+WAW,NBO,2024-01-16,6:05 am  –  3:50 am+1,"Wizz Air, Egypt Air",$548
+WAW,NBO,2024-01-16,8:10 am  –  5:15 am+1,"Wizz Air, SAUDIA",$565
+WAW,NBO,2024-01-16,8:30 am  –  3:50 am+1,"LOT, Egypt Air",$581
+WAW,NBO,2024-01-16,7:05 am  –  5:00 am+1,Multiple airlines,$632
+WAW,NBO,2024-01-16,6:05 am  –  7:35 am+1,Multiple airlines,$638
+WAW,NBO,2024-01-16,6:10 am  –  5:15 am+1,"Wizz Air, SAUDIA",$642
+WAW,NBO,2024-01-16,9:15 am  –  3:50 am+1,"LOT, Egypt Air",$653
+WAW,DAR,2024-01-16,8:10 am  –  4:40 am+1,"Wizz Air, Egypt Air",$441
+WAW,DAR,2024-01-16,5:50 am  –  4:40 am+1,"Wizz Air, Egypt Air",$534
+WAW,DAR,2024-01-16,5:50 am  –  4:40 am+1,"Wizz Air, Egypt Air",$568
+WAW,DAR,2024-01-16,5:50 am  –  4:40 am+1,Multiple airlines,$575
+WAW,DAR,2024-01-16,10:50 am  –  4:40 am+1,"LOT, Egypt Air",$587
+WAW,DAR,2024-01-16,7:45 am  –  4:40 am+1,"LOT, Egypt Air",$587
+WAW,DAR,2024-01-16,6:05 am  –  4:40 am+1,"Wizz Air, Egypt Air",$593
+WAW,DAR,2024-01-16,8:35 pm  –  4:20 pm+1,flydubai,$602
+WAW,DAR,2024-01-16,7:35 am  –  4:40 am+1,"LOT, Egypt Air",$629
+WAW,DAR,2024-01-16,6:00 pm  –  4:20 pm+1,"Wizz Air, flydubai",$632
+WAW,DAR,2024-01-16,8:30 am  –  4:40 am+1,"LOT, Egypt Air",$637
+WAW,DAR,2024-01-16,5:20 pm  –  12:35 pm+1,"LOT, Ethiopian Air",$641
+WAW,DAR,2024-01-16,7:25 pm  –  12:35 pm+1,Ethiopian Air,$643
+WAW,DAR,2024-01-16,10:10 am  –  4:40 am+1,"Austrian Airlines, Egypt Air",$655
+WAW,DAR,2024-01-16,7:20 am  –  4:40 am+1,"LOT, Egypt Air",$655
+WAW,HRE,2024-01-16,8:10 am  –  5:50 pm+1,Multiple airlines,$547
+WAW,HRE,2024-01-16,8:10 am  –  11:35 am+1,Multiple airlines,$560
+WAW,HRE,2024-01-16,8:10 am  –  12:35 pm+1,Multiple airlines,$563
+WAW,HRE,2024-01-16,8:10 am  –  3:40 pm+1,Multiple airlines,$563
+WAW,HRE,2024-01-16,8:10 am  –  8:25 pm+1,Multiple airlines,$563
+WAW,HRE,2024-01-16,8:10 am  –  6:35 pm+1,Multiple airlines,$582
+WAW,HRE,2024-01-16,10:50 am  –  5:50 pm+1,Multiple airlines,$690
+WAW,HRE,2024-01-16,7:45 am  –  5:50 pm+1,Multiple airlines,$690
+WAW,HRE,2024-01-16,10:50 am  –  11:35 am+1,Multiple airlines,$704
+WAW,HRE,2024-01-16,7:45 am  –  11:35 am+1,Multiple airlines,$704
+WAW,HRE,2024-01-16,10:50 am  –  12:35 pm+1,Multiple airlines,$706
+WAW,HRE,2024-01-16,10:50 am  –  3:40 pm+1,Multiple airlines,$706
+WAW,HRE,2024-01-16,7:45 am  –  12:35 pm+1,Multiple airlines,$706
+WAW,HRE,2024-01-16,7:45 am  –  3:40 pm+1,Multiple airlines,$706
+WAW,HRE,2024-01-16,10:50 am  –  8:25 pm+1,Multiple airlines,$706
+WAW,DEL,2024-01-16,8:10 am  –  11:30 am+1,"Wizz Air, flynas",$239
+WAW,DEL,2024-01-16,8:10 am  –  5:35 am+1,"Wizz Air, IndiGo",$315
+WAW,DEL,2024-01-16,8:10 am  –  7:10 am+1,Multiple airlines,$329
+WAW,DEL,2024-01-16,8:10 am  –  8:05 am+1,Multiple airlines,$329
+WAW,DEL,2024-01-16,6:05 am  –  6:45 am+1,Multiple airlines,$365
+WAW,DEL,2024-01-16,8:10 am  –  7:55 am+1,Multiple airlines,$374
+WAW,DEL,2024-01-16,8:10 am  –  8:40 am+1,Multiple airlines,$377
+WAW,DEL,2024-01-16,8:10 am  –  6:45 am+1,Multiple airlines,$393
+WAW,DEL,2024-01-16,8:30 am  –  6:45 am+1,Multiple airlines,$411
+WAW,DEL,2024-01-16,8:10 am  –  5:25 am+1,"Wizz Air, IndiGo",$449
+WAW,DEL,2024-01-16,5:00 pm  –  3:15 pm+1,"LOT, Etihad Airways",$489
+WAW,DEL,2024-01-16,7:20 am  –  7:35 am+1,"LOT, Etihad Airways",$489
+WAW,DEL,2024-01-16,6:05 am  –  4:40 am+1,"Wizz Air, IndiGo",$493
+WAW,DEL,2024-01-16,10:30 am  –  7:50 am+1,Multiple airlines,$496
+WAW,DEL,2024-01-16,3:50 pm  –  8:05 am+1,"LOT, IndiGo",$529
+MNL,WAW,2024-01-16,6:50 pm  –  10:40 am+1,"EVA Air, LOT",$918
+MNL,WAW,2024-01-16,1:10 pm  –  8:40 am+1,"Thai Airways, Turkish Airlines",$926
+MNL,WAW,2024-01-16,12:50 pm  –  10:40 am+1,"EVA Air, LOT",$964
+MNL,WAW,2024-01-16,6:50 pm  –  2:15 pm+1,"EVA Air, Austrian Airlines",$980
+MNL,WAW,2024-01-16,6:50 pm  –  6:45 pm+1,"EVA Air, Austrian Airlines",$980
+MNL,WAW,2024-01-16,6:50 pm  –  10:40 pm+1,"EVA Air, Austrian Airlines",$980
+MNL,WAW,2024-01-16,11:50 pm  –  12:05 pm+1,Qatar Airways,"$1,026"
+MNL,WAW,2024-01-16,12:50 pm  –  2:15 pm+1,"EVA Air, Austrian Airlines","$1,026"
+MNL,WAW,2024-01-16,12:50 pm  –  6:45 pm+1,"EVA Air, Austrian Airlines","$1,026"
+MNL,WAW,2024-01-16,3:00 pm  –  9:25 am+1,"Philippine Airlines, Austrian Airlines","$1,028"
+MNL,WAW,2024-01-16,1:10 pm  –  9:25 am+1,"Thai Airways, Austrian Airlines","$1,054"
+MNL,WAW,2024-01-16,7:05 pm  –  10:30 pm+1,"Philippine Airlines, Lufthansa","$1,054"
+MNL,WAW,2024-01-16,2:50 pm  –  10:30 pm+1,"Philippine Airlines, Lufthansa","$1,062"
+MNL,WAW,2024-01-16,2:50 pm  –  8:30 am+2,"Philippine Airlines, Lufthansa","$1,070"
+MNL,WAW,2024-01-16,6:30 pm  –  6:35 am+1,Qatar Airways,"$1,176"
+MNL,SIN,2024-01-16,7:55 pm  –  11:55 pm,Cebu Pacific,$162
+MNL,SIN,2024-01-16,2:10 pm  –  6:10 pm,Cebu Pacific,$187
+MNL,SIN,2024-01-16,5:25 am  –  9:25 am,Cebu Pacific,$187
+MNL,SIN,2024-01-16,12:00 pm  –  11:55 pm,China Southern,$198
+MNL,SIN,2024-01-16,7:30 pm  –  11:30 pm,Scoot,$212
+MNL,SIN,2024-01-16,3:30 pm  –  11:55 pm,Cebu Pacific,$217
+MNL,SIN,2024-01-16,1:55 pm  –  11:55 pm,Cebu Pacific,$217
+MNL,SIN,2024-01-16,5:55 am  –  2:25 pm,"Philippine Airlines, Scoot",$218
+MNL,SIN,2024-01-16,4:30 am  –  2:25 pm,"Philippine Airlines, Scoot",$218
+MNL,SIN,2024-01-16,4:20 am  –  2:25 pm,"Philippine Airlines, Scoot",$218
+MNL,SIN,2024-01-16,6:00 am  –  2:25 pm,"Philippines AirAsia, Scoot",$220
+MNL,SIN,2024-01-16,4:10 pm  –  11:55 pm,Cebu Pacific,$225
+MNL,SIN,2024-01-16,3:00 am  –  3:10 pm,"Greater Bay Airlines, Scoot",$228
+MNL,SIN,2024-01-16,2:00 pm  –  11:55 pm,"Philippine Airlines, Cebu Pacific",$229
+MNL,SIN,2024-01-16,3:50 am  –  2:25 pm,"Philippine Airlines, Scoot",$231
+MNL,DXB,2024-01-16,9:20 pm  –  11:15 pm+1,"XiamenAir, Air China",$335
+MNL,DXB,2024-01-16,4:55 am  –  7:15 pm,China Eastern,$393
+MNL,DXB,2024-01-16,3:45 pm  –  9:40 pm,Cebu Pacific,$408
+MNL,DXB,2024-01-16,8:55 am  –  2:55 pm,Cebu Pacific,$408
+MNL,DXB,2024-01-16,12:00 pm  –  12:05 am+1,China Southern,$412
+MNL,DXB,2024-01-16,12:25 pm  –  6:25 pm,Philippine Airlines,$481
+MNL,DXB,2024-01-16,7:10 am  –  6:45 pm,Singapore Airlines,$506
+MNL,DXB,2024-01-16,7:55 pm  –  9:15 am+1,"Cebu Pacific, IndiGo",$523
+MNL,DXB,2024-01-16,7:30 pm  –  9:15 am+1,"Scoot, IndiGo",$541
+MNL,DXB,2024-01-16,2:30 am  –  7:15 pm,"Air China, China Eastern",$542
+MNL,DXB,2024-01-16,3:00 am  –  7:15 pm,"Greater Bay Airlines, China Eastern",$552
+MNL,DXB,2024-01-16,1:10 pm  –  4:10 am+1,"Thai Airways, Gulf Air",$555
+MNL,DXB,2024-01-16,8:35 pm  –  10:15 am+1,"HK Express, Qatar Airways",$559
+MNL,DXB,2024-01-16,2:10 pm  –  4:10 am+1,"Cebu Pacific, Gulf Air",$565
+MNL,DXB,2024-01-16,7:30 pm  –  4:10 am+1,"Scoot, Emirates",$587
+MNL,BER,2024-01-16,3:45 pm  –  10:55 am+1,"Cebu Pacific, Pegasus Airlines",$604
+MNL,BER,2024-01-16,7:30 pm  –  9:20 am+1,Scoot,$629
+MNL,BER,2024-01-16,12:00 pm  –  10:55 am+1,"China Southern, Pegasus Airlines",$645
+MNL,BER,2024-01-16,8:20 pm  –  9:30 pm+1,"Cebu Pacific, Turkish Airlines",$723
+MNL,BER,2024-01-16,5:40 pm  –  1:25 pm+1,"Philippines AirAsia, Qatar Airways",$749
+MNL,BER,2024-01-16,7:55 pm  –  1:25 pm+1,"Cebu Pacific, Qatar Airways",$778
+MNL,BER,2024-01-16,3:35 pm  –  8:00 am+1,"Cebu Pacific, Finnair",$792
+MNL,BER,2024-01-16,7:00 am  –  10:35 pm,"Philippine Airlines, Lufthansa",$821
+MNL,BER,2024-01-16,2:10 pm  –  6:50 am+1,"Cebu Pacific, Qatar Airways",$823
+MNL,BER,2024-01-16,4:55 am  –  9:55 pm,China Eastern,$860
+MNL,BER,2024-01-16,5:40 pm  –  9:20 am+1,"Jetstar Asia, Scoot",$875
+MNL,BER,2024-01-16,4:55 am  –  9:55 pm,China Eastern,$936
+MNL,BER,2024-01-16,3:45 pm  –  6:50 am+1,"Cebu Pacific, Qatar Airways",$948
+MNL,BER,2024-01-16,11:50 pm  –  6:50 am+2,Qatar Airways,$991
+MNL,BER,2024-01-16,6:50 pm  –  2:25 pm+1,"EVA Air, Austrian Airlines","$1,054"
+MNL,PRG,2024-01-16,10:55 am  –  7:55 am+1,China Airlines,$646
+MNL,PRG,2024-01-16,12:55 am  –  10:05 pm,"Philippine Airlines, Lufthansa",$809
+MNL,PRG,2024-01-16,12:30 pm  –  4:10 pm+1,Korean Air,$938
+MNL,PRG,2024-01-16,11:50 pm  –  1:00 pm+1,Qatar Airways,$996
+MNL,PRG,2024-01-16,1:10 pm  –  9:45 am+1,"Thai Airways, Lufthansa","$1,042"
+MNL,PRG,2024-01-16,1:10 pm  –  11:10 am+1,"Thai Airways, Lufthansa","$1,042"
+MNL,PRG,2024-01-16,2:10 am  –  4:05 pm,Gulf Air,"$1,047"
+MNL,PRG,2024-01-16,11:20 pm  –  4:10 pm+1,Korean Air,"$1,052"
+MNL,PRG,2024-01-16,2:50 pm  –  9:55 pm+1,"Philippine Airlines, Lufthansa","$1,062"
+MNL,PRG,2024-01-16,6:30 pm  –  1:00 pm+1,Qatar Airways,"$1,198"
+MNL,PRG,2024-01-16,6:30 pm  –  6:35 am+1,Qatar Airways,"$1,229"
+MNL,PRG,2024-01-16,7:00 pm  –  8:40 am+1,"Philippine Airlines, Turkish Airlines","$1,263"
+MNL,PRG,2024-01-16,4:55 pm  –  7:55 am+1,China Airlines,"$1,275"
+MNL,PRG,2024-01-16,6:30 pm  –  9:45 am+1,"Qatar Airways, Lufthansa","$1,356"
+MNL,PRG,2024-01-16,6:30 pm  –  11:10 am+1,"Qatar Airways, Lufthansa","$1,356"
+MNL,PAR,2024-01-16,9:20 pm  –  1:15 pm+2,"XiamenAir, SAUDIA",$421
+MNL,PAR,2024-01-16,4:55 am  –  5:30 am+1,"China Eastern, FlixBus",$471
+MNL,PAR,2024-01-16,7:55 pm  –  5:55 pm+1,"Cebu Pacific, Air India",$503
+MNL,PAR,2024-01-16,7:30 pm  –  5:55 pm+1,"Scoot, Air India",$559
+MNL,PAR,2024-01-16,11:05 pm  –  10:05 pm+1,Multiple airlines,$582
+MNL,PAR,2024-01-16,9:10 pm  –  5:55 pm+1,"Jetstar Asia, Air India",$604
+MNL,PAR,2024-01-16,3:35 pm  –  1:15 pm+1,"Cebu Pacific, Qatar Airways",$632
+MNL,PAR,2024-01-16,5:50 am  –  8:55 pm,Philippine Airlines,$659
+MNL,PAR,2024-01-16,1:10 pm  –  6:45 am+1,"Thai Airways, Gulf Air",$676
+MNL,PAR,2024-01-16,6:55 am  –  6:00 am+1,"Philippines AirAsia, China Eastern",$676
+MNL,PAR,2024-01-16,11:25 am  –  6:45 am+1,Gulf Air,$691
+MNL,PAR,2024-01-16,12:35 pm  –  7:35 am+1,Cathay Pacific,$701
+MNL,PAR,2024-01-16,1:10 pm  –  6:50 am+1,Thai Airways,$710
+MNL,PAR,2024-01-16,4:55 am  –  6:05 pm,China Eastern,$760
+MNL,PAR,2024-01-16,7:15 pm  –  6:50 am+1,"Philippine Airlines, Thai Airways",$793
+MNL,ROM,2024-01-16,10:50 pm  –  6:15 pm+1,"Philippine Airlines, China Eastern",$360
+MNL,ROM,2024-01-16,9:30 pm  –  6:15 pm+1,"Philippine Airlines, China Eastern",$360
+MNL,ROM,2024-01-16,9:15 pm  –  6:15 pm+1,"Philippine Airlines, China Eastern",$360
+MNL,ROM,2024-01-16,8:00 pm  –  6:15 pm+1,"Cebu Pacific, China Eastern",$366
+MNL,ROM,2024-01-16,6:25 pm  –  6:15 pm+1,"Cebu Pacific, China Eastern",$366
+MNL,ROM,2024-01-16,8:35 pm  –  6:15 pm+1,"Philippine Airlines, China Eastern",$373
+MNL,ROM,2024-01-16,9:45 pm  –  6:15 pm+1,"Cebu Pacific, China Eastern",$376
+MNL,ROM,2024-01-16,9:55 pm  –  6:15 pm+1,"Philippines AirAsia, China Eastern",$379
+MNL,ROM,2024-01-16,10:35 pm  –  6:15 pm+1,"Cebgo, China Eastern",$387
+MNL,ROM,2024-01-16,10:50 pm  –  6:15 pm+1,"Cebu Pacific, China Eastern",$476
+MNL,ROM,2024-01-16,8:35 am  –  7:30 am+1,"Philippines AirAsia, Air China",$487
+MNL,ROM,2024-01-16,11:05 pm  –  5:50 pm+1,"Philippines AirAsia, Air China",$494
+MNL,ROM,2024-01-16,8:15 pm  –  5:50 pm+1,"Cebu Pacific, Air China",$495
+MNL,ROM,2024-01-16,10:10 am  –  7:30 am+1,"Philippine Airlines, Air China",$514
+MNL,ROM,2024-01-16,8:35 am  –  7:30 am+1,"Philippines AirAsia, Air China",$540
+MNL,TYO,2024-01-16,3:00 am  –  2:30 pm,Greater Bay Airlines,$223
+MNL,TYO,2024-01-16,3:00 am  –  8:05 pm,"Greater Bay Airlines, Hong Kong Airlines",$224
+MNL,TYO,2024-01-16,2:35 pm  –  7:45 pm,ZIPAIR,$232
+MNL,TYO,2024-01-16,3:00 am  –  6:05 pm,"Greater Bay Airlines, HK Express",$237
+MNL,TYO,2024-01-16,3:00 am  –  4:10 pm,Greater Bay Airlines,$244
+MNL,TYO,2024-01-16,3:00 am  –  7:05 pm,"Greater Bay Airlines, HK Express",$244
+MNL,TYO,2024-01-16,6:55 am  –  7:55 pm,"Jetstar Asia, Jetstar Japan",$245
+MNL,TYO,2024-01-16,3:35 pm  –  12:40 am+1,"Cebu Pacific, HK Express",$252
+MNL,TYO,2024-01-16,3:00 am  –  3:55 pm,"Greater Bay Airlines, HK Express",$252
+MNL,TYO,2024-01-16,8:30 am  –  7:55 pm,"Philippines AirAsia, Jetstar Japan",$253
+MNL,TYO,2024-01-16,6:55 am  –  4:00 pm,"Jetstar Asia, Jetstar Japan",$256
+MNL,TYO,2024-01-16,8:00 pm  –  8:10 am+1,Cebu Pacific,$263
+MNL,TYO,2024-01-16,6:25 pm  –  8:10 am+1,Cebu Pacific,$263
+MNL,TYO,2024-01-16,8:35 am  –  8:05 pm,"Philippines AirAsia, Hong Kong Airlines",$265
+MNL,TYO,2024-01-16,3:00 am  –  2:35 pm,"Greater Bay Airlines, HK Express",$266
+MNL,BJS,2024-01-16,9:20 pm  –  10:00 am+1,XiamenAir,$101
+MNL,BJS,2024-01-16,9:20 pm  –  11:55 am+1,XiamenAir,$101
+MNL,BJS,2024-01-16,9:20 pm  –  1:55 pm+1,XiamenAir,$101
+MNL,BJS,2024-01-16,6:00 pm  –  11:10 am+1,XiamenAir,$101
+MNL,BJS,2024-01-16,9:20 pm  –  6:00 pm+1,XiamenAir,$101
+MNL,BJS,2024-01-16,9:20 pm  –  8:00 pm+1,XiamenAir,$101
+MNL,BJS,2024-01-16,9:20 pm  –  11:50 pm+1,XiamenAir,$101
+MNL,BJS,2024-01-16,6:00 pm  –  10:00 pm+1,XiamenAir,$101
+MNL,BJS,2024-01-16,2:15 pm  –  11:50 pm,XiamenAir,$112
+MNL,BJS,2024-01-16,2:15 pm  –  10:00 am+1,XiamenAir,$112
+MNL,BJS,2024-01-16,2:15 pm  –  11:55 am+1,XiamenAir,$112
+MNL,BJS,2024-01-16,2:15 pm  –  1:55 pm+1,XiamenAir,$112
+MNL,BJS,2024-01-16,2:15 pm  –  6:00 pm+1,XiamenAir,$112
+MNL,BJS,2024-01-16,2:30 am  –  10:25 am,Shenzhen Airlines,$211
+MNL,BJS,2024-01-16,2:30 am  –  1:15 pm,Shenzhen Airlines,$211
+MNL,HKG,2024-01-16,10:55 am  –  4:25 pm,China Airlines,$270
+MNL,HKG,2024-01-16,10:55 am  –  6:55 pm,China Airlines,$270
+MNL,HKG,2024-01-16,10:55 am  –  8:10 pm,China Airlines,$270
+MNL,HKG,2024-01-16,10:55 am  –  12:20 am+1,China Airlines,$270
+MNL,HKG,2024-01-16,3:40 am  –  8:50 am,EVA Air,$283
+MNL,HKG,2024-01-16,3:40 am  –  12:10 pm,EVA Air,$283
+MNL,HKG,2024-01-16,3:40 am  –  2:10 pm,EVA Air,$283
+MNL,HKG,2024-01-16,3:40 am  –  4:15 pm,EVA Air,$283
+MNL,HKG,2024-01-16,3:40 am  –  6:30 pm,EVA Air,$283
+MNL,HKG,2024-01-16,3:40 am  –  8:05 pm,EVA Air,$283
+MNL,HKG,2024-01-16,3:40 am  –  8:50 pm,EVA Air,$283
+MNL,HKG,2024-01-16,11:15 pm  –  12:30 am+2,Jeju Air,$292
+MNL,HKG,2024-01-16,3:40 am  –  10:05 am,EVA Air,$328
+MNL,HKG,2024-01-16,6:50 pm  –  8:50 am+1,EVA Air,$328
+MNL,HKG,2024-01-16,6:50 pm  –  12:10 pm+1,EVA Air,$328
+MNL,SEL,2024-01-16,9:20 pm  –  12:35 pm+1,XiamenAir,$113
+MNL,SEL,2024-01-16,2:15 pm  –  12:35 pm+1,XiamenAir,$125
+MNL,SEL,2024-01-16,5:40 pm  –  10:40 pm,Philippines AirAsia,$158
+MNL,SEL,2024-01-16,6:55 am  –  12:10 pm,Philippines AirAsia,$158
+MNL,SEL,2024-01-16,11:15 pm  –  4:10 am+1,Jeju Air,$176
+MNL,SEL,2024-01-16,2:15 am  –  7:30 am,Cebu Pacific,$177
+MNL,SEL,2024-01-16,5:50 pm  –  11:10 pm,Cebu Pacific,$177
+MNL,SEL,2024-01-16,11:15 pm  –  4:10 am+1,Hahn Air Systems,$187
+MNL,SEL,2024-01-16,3:00 am  –  12:55 pm,Greater Bay Airlines,$199
+MNL,SEL,2024-01-16,9:20 pm  –  2:25 pm+1,"XiamenAir, Shandong Airlines",$200
+MNL,SEL,2024-01-16,3:00 am  –  11:40 am,"Greater Bay Airlines, HK Express",$217
+MNL,SEL,2024-01-16,10:50 pm  –  7:20 am+1,"Philippine Airlines, Jin Air",$236
+MNL,SEL,2024-01-16,9:30 pm  –  7:20 am+1,"Philippine Airlines, Jin Air",$236
+MNL,SEL,2024-01-16,6:40 pm  –  7:20 am+1,"Philippine Airlines, Jin Air",$236
+MNL,SEL,2024-01-16,11:05 pm  –  12:15 pm+1,Multiple airlines,$256
+MNL,BAK,2024-01-16,9:20 pm  –  8:45 pm+1,"XiamenAir, China Southern",$402
+MNL,BAK,2024-01-16,6:00 pm  –  8:45 pm+1,"XiamenAir, China Southern",$402
+MNL,BAK,2024-01-16,9:20 pm  –  5:00 am+2,Multiple airlines,$445
+MNL,BAK,2024-01-16,11:40 pm  –  8:45 pm+1,"Philippines AirAsia, China Southern",$459
+MNL,BAK,2024-01-16,11:40 pm  –  8:45 pm+1,"Philippines AirAsia, China Southern",$477
+MNL,BAK,2024-01-16,11:40 pm  –  8:45 pm+1,"Philippines AirAsia, China Southern",$477
+MNL,BAK,2024-01-16,9:20 pm  –  8:45 pm+1,"XiamenAir, China Southern",$478
+MNL,BAK,2024-01-16,9:20 pm  –  8:45 pm+1,"XiamenAir, China Southern",$478
+MNL,BAK,2024-01-16,9:20 pm  –  8:45 pm+1,"XiamenAir, China Southern",$479
+MNL,BAK,2024-01-16,9:20 pm  –  8:45 pm+1,"XiamenAir, China Southern",$491
+MNL,BAK,2024-01-16,11:15 pm  –  5:00 am+2,Multiple airlines,$530
+MNL,BAK,2024-01-16,11:55 am  –  9:15 am+1,Multiple airlines,$543
+MNL,BAK,2024-01-16,11:55 am  –  10:20 am+1,Multiple airlines,$543
+MNL,BAK,2024-01-16,8:35 am  –  5:50 am+1,Multiple airlines,$634
+MNL,BAK,2024-01-16,10:10 am  –  5:50 am+1,Multiple airlines,$659
+MNL,TUN,2024-01-16,11:50 pm  –  1:20 pm+1,Qatar Airways,"$1,379"
+MNL,TUN,2024-01-16,6:30 pm  –  1:20 pm+1,Qatar Airways,"$1,379"
+MNL,TUN,2024-01-16,6:30 pm  –  10:35 am+1,"Qatar Airways, ITA Airways","$1,516"
+MNL,TUN,2024-01-16,11:50 pm  –  6:15 pm+1,"Qatar Airways, ITA Airways","$1,516"
+MNL,TUN,2024-01-16,5:45 am  –  3:45 pm,Turkish Airlines,"$1,747"
+MNL,TUN,2024-01-16,10:00 pm  –  10:00 am+1,Turkish Airlines,"$1,747"
+MNL,TUN,2024-01-16,10:00 pm  –  3:45 pm+1,Turkish Airlines,"$1,747"
+MNL,TUN,2024-01-16,5:45 am  –  10:00 am+1,Turkish Airlines,"$1,747"
+MNL,TUN,2024-01-16,7:00 pm  –  10:00 am+1,"Philippine Airlines, Turkish Airlines","$1,801"
+MNL,TUN,2024-01-16,3:15 pm  –  10:00 am+1,"Philippine Airlines, Turkish Airlines","$1,801"
+MNL,TUN,2024-01-16,5:40 pm  –  1:20 pm+1,"Jetstar Asia, Qatar Airways","$2,294"
+MNL,TUN,2024-01-16,5:40 pm  –  12:35 pm+1,"Jetstar Asia, Emirates","$2,600"
+MNL,TUN,2024-01-16,10:40 am  –  12:35 pm+1,"Jetstar Asia, Emirates","$2,600"
+MNL,TUN,2024-01-16,5:30 pm  –  12:35 pm+1,Emirates,"$3,056"
+MNL,TUN,2024-01-16,3:25 am  –  12:35 pm+1,Emirates,"$3,056"
+MNL,MAD,2024-01-16,11:50 pm  –  1:55 pm+1,Qatar Airways,"$1,004"
+MNL,MAD,2024-01-16,11:50 pm  –  7:55 pm+1,Qatar Airways,"$1,004"
+MNL,MAD,2024-01-16,6:30 pm  –  1:55 pm+1,Qatar Airways,"$1,122"
+MNL,MAD,2024-01-16,6:30 pm  –  7:55 pm+1,Qatar Airways,"$1,125"
+MNL,MAD,2024-01-16,7:45 pm  –  3:00 pm+1,"Cathay Pacific, Iberia","$1,146"
+MNL,MAD,2024-01-16,7:00 pm  –  10:20 am+1,"Philippine Airlines, Turkish Airlines","$1,169"
+MNL,MAD,2024-01-16,8:25 pm  –  8:10 am+2,Ethiopian Air,"$1,323"
+MNL,MAD,2024-01-16,11:50 pm  –  4:00 pm+1,Qatar Airways,"$1,326"
+MNL,MAD,2024-01-16,11:50 pm  –  5:55 pm+1,Qatar Airways,"$1,326"
+MNL,MAD,2024-01-16,11:50 pm  –  7:30 pm+1,Qatar Airways,"$1,326"
+MNL,MAD,2024-01-16,1:15 pm  –  1:55 pm+1,Malaysia Airlines,"$1,339"
+MNL,MAD,2024-01-16,1:15 pm  –  1:55 pm+1,Malaysia Airlines,"$1,339"
+MNL,MAD,2024-01-16,1:15 pm  –  1:55 pm+1,Malaysia Airlines,"$1,339"
+MNL,MAD,2024-01-16,1:15 pm  –  7:55 pm+1,Malaysia Airlines,"$1,339"
+MNL,MAD,2024-01-16,6:45 pm  –  8:05 am+1,Etihad Airways,"$1,341"
+MNL,LHR,2024-01-16,5:30 pm  –  5:15 pm+1,China Southern,$305
+MNL,LHR,2024-01-16,12:00 pm  –  5:15 pm+1,China Southern,$306
+MNL,LHR,2024-01-16,2:55 am  –  8:10 pm,Air China,$460
+MNL,LHR,2024-01-16,9:20 pm  –  5:50 pm+1,"XiamenAir, Air China",$504
+MNL,LHR,2024-01-16,9:55 pm  –  12:55 pm+1,"Philippines AirAsia, China Eastern",$553
+MNL,LHR,2024-01-16,10:50 pm  –  12:55 pm+1,"Cebu Pacific, China Eastern",$618
+MNL,LHR,2024-01-16,10:55 am  –  4:55 pm+1,China Airlines,$647
+MNL,LHR,2024-01-16,2:30 am  –  8:10 pm,Air China,$659
+MNL,LHR,2024-01-16,2:10 pm  –  6:25 am+1,"Cebu Pacific, Qatar Airways",$692
+MNL,LHR,2024-01-16,6:50 pm  –  7:20 pm+1,EVA Air,$697
+MNL,LHR,2024-01-16,3:45 pm  –  7:20 am+1,"Cebu Pacific, Royal Brunei Airlines",$728
+MNL,LHR,2024-01-16,3:00 am  –  3:00 pm,"Greater Bay Airlines, Cathay Pacific",$757
+MNL,LHR,2024-01-16,7:00 pm  –  5:30 am+1,"Philippine Airlines, Cathay Pacific",$806
+MNL,LHR,2024-01-16,7:00 pm  –  6:20 am+1,"Philippine Airlines, Cathay Pacific",$806
+MNL,LHR,2024-01-16,4:55 am  –  8:50 pm,China Eastern,$811
+MNL,HEL,2024-01-16,12:35 pm  –  2:45 pm+1,Cathay Pacific,$824
+MNL,HEL,2024-01-16,7:45 pm  –  2:45 pm+1,Cathay Pacific,$922
+MNL,HEL,2024-01-16,12:35 pm  –  3:05 pm+1,Cathay Pacific,$949
+MNL,HEL,2024-01-16,12:35 pm  –  2:50 pm+1,Cathay Pacific,$992
+MNL,HEL,2024-01-16,12:35 pm  –  3:15 pm+1,Cathay Pacific,$992
+MNL,HEL,2024-01-16,7:05 pm  –  1:00 am+2,"Philippine Airlines, Lufthansa","$1,052"
+MNL,HEL,2024-01-16,7:05 pm  –  1:00 am+2,"Philippine Airlines, Lufthansa","$1,052"
+MNL,HEL,2024-01-16,12:35 pm  –  5:40 pm+1,"Cathay Pacific, Scandinavian Airlines","$1,066"
+MNL,HEL,2024-01-16,5:45 am  –  5:40 pm+1,"Cathay Pacific, Scandinavian Airlines","$1,066"
+MNL,HEL,2024-01-16,12:35 pm  –  11:25 pm+1,"Cathay Pacific, Scandinavian Airlines","$1,077"
+MNL,HEL,2024-01-16,5:45 am  –  11:25 pm+1,"Cathay Pacific, Scandinavian Airlines","$1,077"
+MNL,HEL,2024-01-16,7:45 pm  –  2:45 pm+1,"Cathay Pacific, Finnair","$1,083"
+MNL,HEL,2024-01-16,12:35 pm  –  11:00 pm+1,"Cathay Pacific, Finnair","$1,101"
+MNL,HEL,2024-01-16,5:45 am  –  11:00 pm+1,"Cathay Pacific, Finnair","$1,101"
+MNL,HEL,2024-01-16,7:45 pm  –  3:05 pm+1,"Cathay Pacific, Finnair","$1,103"
+MNL,STO,2024-01-16,3:35 pm  –  4:30 pm+1,"Cebu Pacific, Air China",$539
+MNL,STO,2024-01-16,4:55 am  –  9:55 am+1,"China Eastern, LOT",$540
+MNL,STO,2024-01-16,3:15 pm  –  4:30 pm+1,"Philippine Airlines, Air China",$585
+MNL,STO,2024-01-16,4:55 am  –  11:55 pm,"China Eastern, Finnair",$609
+MNL,STO,2024-01-16,4:55 am  –  9:00 pm,"China Eastern, Scandinavian Airlines",$649
+MNL,STO,2024-01-16,7:00 pm  –  4:30 pm+1,"Philippine Airlines, Air China",$695
+MNL,STO,2024-01-16,6:20 pm  –  4:30 pm+1,"Cebu Pacific, Air China",$703
+MNL,STO,2024-01-16,11:40 pm  –  4:30 pm+1,"Philippines AirAsia, Air China",$706
+MNL,STO,2024-01-16,2:30 am  –  4:30 pm,Air China,$735
+MNL,STO,2024-01-16,2:30 am  –  4:30 pm,Air China,$735
+MNL,STO,2024-01-16,2:30 am  –  4:30 pm+1,Air China,$741
+MNL,STO,2024-01-16,2:30 am  –  4:30 pm+1,Air China,$741
+MNL,STO,2024-01-16,2:30 am  –  4:30 pm+1,Air China,$741
+MNL,STO,2024-01-16,2:30 am  –  4:30 pm+1,Air China,$741
+MNL,STO,2024-01-16,2:30 am  –  4:30 pm+1,Air China,$741
+MNL,OSL,2024-01-16,4:55 am  –  9:50 am+1,"China Eastern, LOT",$550
+MNL,OSL,2024-01-16,4:55 am  –  8:05 am+1,"China Eastern, Finnair",$639
+MNL,OSL,2024-01-16,8:35 am  –  1:30 pm+1,"Philippines AirAsia, Qatar Airways",$651
+MNL,OSL,2024-01-16,4:55 am  –  10:35 pm,"China Eastern, Scandinavian Airlines",$653
+MNL,OSL,2024-01-16,10:10 am  –  1:30 pm+1,"Philippine Airlines, Qatar Airways",$659
+MNL,OSL,2024-01-16,11:55 am  –  12:35 pm+1,Multiple airlines,$682
+MNL,OSL,2024-01-16,5:40 pm  –  1:30 pm+1,"Philippines AirAsia, Qatar Airways",$702
+MNL,OSL,2024-01-16,3:45 pm  –  12:35 pm+1,"Cebu Pacific, Pegasus Airlines",$748
+MNL,OSL,2024-01-16,9:20 pm  –  8:35 am+2,XiamenAir,$754
+MNL,OSL,2024-01-16,9:20 pm  –  6:20 pm+2,XiamenAir,$754
+MNL,OSL,2024-01-16,5:30 pm  –  11:55 am+2,China Southern,$756
+MNL,OSL,2024-01-16,12:00 pm  –  11:55 am+2,China Southern,$756
+MNL,OSL,2024-01-16,7:55 pm  –  1:30 pm+1,"Cebu Pacific, Qatar Airways",$767
+MNL,OSL,2024-01-16,2:10 pm  –  6:35 am+1,"Cebu Pacific, Qatar Airways",$807
+MNL,OSL,2024-01-16,2:10 pm  –  1:30 pm+1,"Cebu Pacific, Qatar Airways",$807
+MNL,BRU,2024-01-16,4:55 am  –  10:45 pm,"China Eastern, FlixBus",$455
+MNL,BRU,2024-01-16,4:55 am  –  9:45 am+1,"China Eastern, Air Europa",$465
+MNL,BRU,2024-01-16,6:35 am  –  6:35 am+1,Multiple airlines,$572
+MNL,BRU,2024-01-16,3:35 pm  –  2:20 pm+1,Multiple airlines,$627
+MNL,BRU,2024-01-16,7:30 pm  –  1:35 pm+1,Multiple airlines,$648
+MNL,BRU,2024-01-16,7:30 pm  –  10:50 am+1,"Scoot, Aegean Airlines",$672
+MNL,BRU,2024-01-16,9:30 am  –  6:35 am+1,"Philippine Airlines, Etihad Airways",$676
+MNL,BRU,2024-01-16,10:40 am  –  6:35 am+1,"Jetstar Asia, Etihad Airways",$683
+MNL,BRU,2024-01-16,2:10 pm  –  1:45 pm+1,Multiple airlines,$692
+MNL,BRU,2024-01-16,3:45 pm  –  10:35 am+1,"Cebu Pacific, Pegasus Airlines",$700
+MNL,BRU,2024-01-16,3:45 pm  –  1:45 pm+1,"Cebu Pacific, Pegasus Airlines",$700
+MNL,BRU,2024-01-16,3:35 pm  –  12:45 pm+1,"Cebu Pacific, Emirates",$716
+MNL,BRU,2024-01-16,3:35 pm  –  12:45 pm+1,"Cebu Pacific, Emirates",$716
+MNL,BRU,2024-01-16,3:35 pm  –  12:45 pm+1,"Cebu Pacific, Emirates",$725
+MNL,BRU,2024-01-16,3:35 pm  –  12:45 pm+1,"Cebu Pacific, Emirates",$725
+MNL,DUB,2024-01-16,4:55 am  –  10:15 am+1,"China Eastern, Aer Lingus",$540
+MNL,DUB,2024-01-16,4:55 am  –  9:00 pm,"China Eastern, Aer Lingus",$581
+MNL,DUB,2024-01-16,4:55 am  –  1:35 pm+1,"China Eastern, British Airways",$644
+MNL,DUB,2024-01-16,4:55 am  –  5:00 pm+1,"China Eastern, Lufthansa",$670
+MNL,DUB,2024-01-16,4:55 am  –  9:50 am+1,"China Eastern, British Airways",$671
+MNL,DUB,2024-01-16,9:20 pm  –  9:00 pm+1,"XiamenAir, Aer Lingus",$711
+MNL,DUB,2024-01-16,4:55 am  –  12:10 pm+1,"China Eastern, British Airways",$753
+MNL,DUB,2024-01-16,4:55 am  –  12:05 pm+1,"China Eastern, SWISS",$769
+MNL,DUB,2024-01-16,4:55 am  –  10:50 pm,"China Eastern, Lufthansa",$777
+MNL,DUB,2024-01-16,4:55 am  –  10:50 pm,"China Eastern, Lufthansa",$777
+MNL,DUB,2024-01-16,4:55 am  –  3:10 pm+1,"China Eastern, British Airways",$811
+MNL,DUB,2024-01-16,12:25 pm  –  11:20 am+1,"Philippine Airlines, Emirates",$812
+MNL,DUB,2024-01-16,12:55 am  –  10:50 pm,"Philippine Airlines, Lufthansa",$818
+MNL,DUB,2024-01-16,12:35 pm  –  9:50 am+1,"Cathay Pacific, British Airways",$910
+MNL,DUB,2024-01-16,5:45 am  –  9:50 am+1,"Cathay Pacific, British Airways",$910
+MNL,LUX,2024-01-16,2:50 pm  –  10:25 pm+1,"Philippine Airlines, Lufthansa","$1,062"
+MNL,LUX,2024-01-16,2:50 pm  –  1:50 pm+2,"Philippine Airlines, Lufthansa","$1,083"
+MNL,LUX,2024-01-16,7:00 pm  –  10:40 am+1,"Philippine Airlines, Turkish Airlines","$1,289"
+MNL,LUX,2024-01-16,3:15 pm  –  10:40 am+1,"Philippine Airlines, Turkish Airlines","$1,289"
+MNL,LUX,2024-01-16,5:45 am  –  5:00 pm,Turkish Airlines,"$1,325"
+MNL,LUX,2024-01-16,5:45 am  –  10:40 am+1,Turkish Airlines,"$1,325"
+MNL,LUX,2024-01-16,2:25 pm  –  10:25 pm+1,"Philippine Airlines, Lufthansa","$1,399"
+MNL,LUX,2024-01-16,7:00 pm  –  10:10 am+1,"Philippine Airlines, Lufthansa","$1,413"
+MNL,LUX,2024-01-16,11:50 pm  –  10:15 am+2,Qatar Airways,"$1,480"
+MNL,LUX,2024-01-16,11:50 pm  –  10:15 am+2,Qatar Airways,"$1,482"
+MNL,LUX,2024-01-16,11:50 pm  –  10:15 am+2,Qatar Airways,"$1,482"
+MNL,LUX,2024-01-16,11:50 pm  –  10:15 am+2,Qatar Airways,"$1,482"
+MNL,LUX,2024-01-16,10:00 pm  –  10:40 am+1,Turkish Airlines,"$1,515"
+MNL,LUX,2024-01-16,11:50 pm  –  4:15 pm+1,Qatar Airways,"$1,654"
+MNL,LUX,2024-01-16,6:30 pm  –  4:15 pm+1,Qatar Airways,"$1,654"
+MNL,AMS,2024-01-16,4:55 am  –  5:15 pm,China Eastern,$397
+MNL,AMS,2024-01-16,5:30 pm  –  6:35 pm+1,China Southern,$413
+MNL,AMS,2024-01-16,12:00 pm  –  6:35 pm+1,China Southern,$413
+MNL,AMS,2024-01-16,9:20 pm  –  5:40 pm+1,XiamenAir,$524
+MNL,AMS,2024-01-16,8:00 pm  –  5:15 pm+1,"Cebu Pacific, China Eastern",$539
+MNL,AMS,2024-01-16,6:25 pm  –  5:15 pm+1,"Cebu Pacific, China Eastern",$539
+MNL,AMS,2024-01-16,4:10 pm  –  5:15 pm+1,"Cebu Pacific, China Eastern",$539
+MNL,AMS,2024-01-16,3:30 pm  –  5:15 pm+1,"Cebu Pacific, China Eastern",$539
+MNL,AMS,2024-01-16,1:55 pm  –  5:15 pm+1,"Cebu Pacific, China Eastern",$539
+MNL,AMS,2024-01-16,9:45 pm  –  5:15 pm+1,"Cebu Pacific, China Eastern",$549
+MNL,AMS,2024-01-16,9:55 pm  –  5:15 pm+1,"Philippines AirAsia, China Eastern",$553
+MNL,AMS,2024-01-16,10:35 pm  –  5:15 pm+1,"Cebgo, China Eastern",$560
+MNL,AMS,2024-01-16,4:45 pm  –  5:15 pm+1,"Philippine Airlines, China Eastern",$572
+MNL,AMS,2024-01-16,6:20 am  –  6:35 am+1,"Air China, Cathay Pacific",$592
+MNL,AMS,2024-01-16,3:45 pm  –  2:40 pm+1,"Cebu Pacific, Pegasus Airlines",$605
+MNL,VIE,2024-01-16,10:50 pm  –  3:45 pm+2,Multiple airlines,$464
+MNL,VIE,2024-01-16,7:30 pm  –  10:00 am+1,"Scoot, Aegean Airlines",$514
+MNL,VIE,2024-01-16,4:55 am  –  6:05 am+1,Multiple airlines,$587
+MNL,VIE,2024-01-16,3:35 pm  –  1:05 pm+1,Multiple airlines,$589
+MNL,VIE,2024-01-16,7:30 pm  –  2:45 pm+1,"Scoot, Austrian Airlines",$598
+MNL,VIE,2024-01-16,7:30 pm  –  2:05 pm+1,"Scoot, SWISS",$639
+MNL,VIE,2024-01-16,5:25 am  –  1:50 am+1,Multiple airlines,$647
+MNL,VIE,2024-01-16,7:30 pm  –  3:20 pm+1,Multiple airlines,$651
+MNL,VIE,2024-01-16,7:30 pm  –  3:20 pm+1,Multiple airlines,$666
+MNL,VIE,2024-01-16,7:30 pm  –  2:00 pm+1,"Scoot, Pegasus Airlines",$668
+MNL,VIE,2024-01-16,11:55 am  –  6:15 am+1,"Philippine Airlines, Etihad Airways",$678
+MNL,VIE,2024-01-16,8:35 am  –  6:45 am+1,"Philippines AirAsia, Qatar Airways",$683
+MNL,VIE,2024-01-16,3:45 pm  –  1:05 pm+1,"Cebu Pacific, SunExpress",$704
+MNL,VIE,2024-01-16,10:10 am  –  6:45 am+1,"Philippine Airlines, Qatar Airways",$715
+MNL,VIE,2024-01-16,11:05 pm  –  6:50 pm+1,"Philippines AirAsia, Emirates",$716
+MNL,FRA,2024-01-16,2:30 am  –  6:05 am+1,Air China,$533
+MNL,FRA,2024-01-16,4:55 am  –  5:45 am+1,China Eastern,$606
+MNL,FRA,2024-01-16,10:55 am  –  6:25 am+1,China Airlines,$653
+MNL,FRA,2024-01-16,12:35 pm  –  7:05 am+1,Cathay Pacific,$712
+MNL,FRA,2024-01-16,5:45 am  –  7:05 am+1,Cathay Pacific,$712
+MNL,FRA,2024-01-16,12:25 pm  –  7:35 am+1,"Philippine Airlines, Emirates",$748
+MNL,FRA,2024-01-16,11:25 am  –  6:10 am+1,Gulf Air,$751
+MNL,FRA,2024-01-16,2:10 am  –  6:10 am+1,Gulf Air,$751
+MNL,FRA,2024-01-16,12:25 pm  –  12:45 pm+1,"Philippine Airlines, Emirates",$753
+MNL,FRA,2024-01-16,8:15 am  –  6:25 am+1,China Airlines,$776
+MNL,FRA,2024-01-16,12:55 am  –  6:35 pm,"Philippine Airlines, Lufthansa",$779
+MNL,FRA,2024-01-16,1:10 pm  –  7:05 pm+1,Thai Airways,$815
+MNL,FRA,2024-01-16,8:00 am  –  7:05 am+1,Cathay Pacific,$817
+MNL,FRA,2024-01-16,1:10 pm  –  5:55 am+1,Thai Airways,$838
+MNL,FRA,2024-01-16,7:45 pm  –  7:05 am+1,Cathay Pacific,$882
+MNL,BUD,2024-01-16,9:55 pm  –  12:05 am+2,Multiple airlines,$456
+MNL,BUD,2024-01-16,4:45 pm  –  12:05 am+2,Multiple airlines,$486
+MNL,BUD,2024-01-16,6:20 am  –  6:35 am+1,Air China,$489
+MNL,BUD,2024-01-16,6:20 am  –  6:35 am+1,Air China,$489
+MNL,BUD,2024-01-16,6:20 am  –  6:35 am+1,Air China,$489
+MNL,BUD,2024-01-16,2:00 pm  –  12:05 am+2,Multiple airlines,$498
+MNL,BUD,2024-01-16,4:55 am  –  9:05 am+1,"China Eastern, LOT",$514
+MNL,BUD,2024-01-16,2:55 am  –  6:35 am+1,Air China,$532
+MNL,BUD,2024-01-16,2:55 am  –  6:35 am+1,Air China,$532
+MNL,BUD,2024-01-16,2:55 am  –  6:35 am+1,Air China,$532
+MNL,BUD,2024-01-16,2:30 am  –  6:35 am+1,"Air China, Shenzhen Airlines",$534
+MNL,BUD,2024-01-16,3:00 am  –  6:35 am+1,"Greater Bay Airlines, Air China",$542
+MNL,BUD,2024-01-16,2:30 am  –  6:35 am+1,Air China,$559
+MNL,BUD,2024-01-16,2:30 am  –  6:35 am+1,Air China,$559
+MNL,BUD,2024-01-16,2:30 am  –  6:35 am+1,Air China,$560
+MNL,BTS,2024-01-16,7:30 pm  –  12:05 pm+1,Multiple airlines,$520
+MNL,BTS,2024-01-16,5:40 pm  –  3:30 pm+2,Multiple airlines,$545
+MNL,BTS,2024-01-16,6:55 am  –  3:40 pm+1,Multiple airlines,$670
+MNL,BTS,2024-01-16,8:55 am  –  10:02 am+1,Multiple airlines,$700
+MNL,BTS,2024-01-16,2:10 pm  –  3:40 pm+1,Multiple airlines,$737
+MNL,BTS,2024-01-16,2:10 pm  –  3:40 pm+1,Multiple airlines,$745
+MNL,BTS,2024-01-16,8:55 am  –  3:40 pm+1,Multiple airlines,$785
+MNL,BTS,2024-01-16,2:15 pm  –  3:40 pm+1,Multiple airlines,$786
+MNL,BTS,2024-01-16,3:45 pm  –  3:40 pm+1,Multiple airlines,$789
+MNL,BTS,2024-01-16,7:00 pm  –  3:40 pm+1,Multiple airlines,$892
+MNL,BTS,2024-01-16,1:10 pm  –  3:40 pm+1,Multiple airlines,$896
+MNL,BTS,2024-01-16,7:15 pm  –  3:40 pm+1,Multiple airlines,$922
+MNL,BTS,2024-01-16,12:35 pm  –  3:40 pm+1,"Cathay Pacific, Wizz Air UK",$947
+MNL,BTS,2024-01-16,12:25 pm  –  3:40 pm+1,Multiple airlines,$982
+MNL,BTS,2024-01-16,2:50 pm  –  3:40 pm+1,Multiple airlines,"$1,007"
+MNL,ZRH,2024-01-16,1:10 pm  –  6:55 am+1,Thai Airways,$753
+MNL,ZRH,2024-01-16,4:55 am  –  10:10 pm,China Eastern,$902
+MNL,ZRH,2024-01-16,4:55 am  –  10:25 pm,China Eastern,$904
+MNL,ZRH,2024-01-16,4:55 am  –  10:25 pm,China Eastern,$904
+MNL,ZRH,2024-01-16,11:50 pm  –  1:40 pm+1,Qatar Airways,$980
+MNL,ZRH,2024-01-16,3:00 pm  –  8:25 am+1,"Philippine Airlines, Austrian Airlines","$1,028"
+MNL,ZRH,2024-01-16,1:15 pm  –  7:00 am+1,Malaysia Airlines,"$1,056"
+MNL,ZRH,2024-01-16,1:15 pm  –  7:00 am+1,Malaysia Airlines,"$1,056"
+MNL,ZRH,2024-01-16,6:50 pm  –  11:10 am+1,"EVA Air, SWISS","$1,071"
+MNL,ZRH,2024-01-16,6:50 pm  –  2:20 pm+1,"EVA Air, Austrian Airlines","$1,071"
+MNL,ZRH,2024-01-16,6:50 pm  –  6:40 pm+1,"EVA Air, Austrian Airlines","$1,071"
+MNL,ZRH,2024-01-16,7:00 pm  –  9:55 am+1,"Philippine Airlines, Lufthansa","$1,079"
+MNL,ZRH,2024-01-16,6:30 pm  –  7:00 am+1,Qatar Airways,"$1,084"
+MNL,ZRH,2024-01-16,6:30 pm  –  1:40 pm+1,Qatar Airways,"$1,084"
+MNL,ZRH,2024-01-16,9:20 pm  –  10:25 pm+1,XiamenAir,"$1,108"
+MNL,ATH,2024-01-16,2:10 am  –  1:30 pm,Gulf Air,$744
+MNL,ATH,2024-01-16,11:25 am  –  10:25 am+1,Gulf Air,$744
+MNL,ATH,2024-01-16,12:55 am  –  1:10 pm+1,"Philippine Airlines, Lufthansa",$840
+MNL,ATH,2024-01-16,1:10 pm  –  8:30 am+1,Thai Airways,$865
+MNL,ATH,2024-01-16,1:10 pm  –  8:30 am+1,"Thai Airways, Turkish Airlines",$908
+MNL,ATH,2024-01-16,11:50 pm  –  11:50 am+1,Qatar Airways,$936
+MNL,ATH,2024-01-16,11:50 pm  –  5:55 pm+1,Qatar Airways,$936
+MNL,ATH,2024-01-16,2:50 pm  –  1:30 pm+2,"Philippine Airlines, Lufthansa","$1,083"
+MNL,ATH,2024-01-16,2:50 pm  –  3:10 pm+2,"Philippine Airlines, Lufthansa","$1,083"
+MNL,ATH,2024-01-16,6:30 pm  –  11:50 am+1,Qatar Airways,"$1,089"
+MNL,ATH,2024-01-16,6:30 pm  –  5:55 pm+1,Qatar Airways,"$1,092"
+MNL,ATH,2024-01-16,8:25 pm  –  6:40 am+2,Ethiopian Air,"$1,106"
+MNL,ATH,2024-01-16,11:50 pm  –  5:15 pm+1,"Qatar Airways, Aegean Airlines","$1,186"
+MNL,ATH,2024-01-16,11:50 pm  –  5:15 pm+1,"Qatar Airways, Aegean Airlines","$1,203"
+MNL,ATH,2024-01-16,11:30 pm  –  3:05 pm+1,Emirates,"$1,204"
+MNL,MLA,2024-01-16,9:55 pm  –  10:30 pm+1,Multiple airlines,$476
+MNL,MLA,2024-01-16,4:45 pm  –  10:30 pm+1,Multiple airlines,$497
+MNL,MLA,2024-01-16,2:00 pm  –  10:30 pm+1,Multiple airlines,$508
+MNL,MLA,2024-01-16,9:55 pm  –  10:30 pm+1,Multiple airlines,$599
+MNL,MLA,2024-01-16,4:55 am  –  10:30 pm,"China Eastern, Air Malta",$668
+MNL,MLA,2024-01-16,10:55 am  –  11:35 am+1,"China Airlines, Air Malta",$676
+MNL,MLA,2024-01-16,12:35 pm  –  1:15 pm+1,"Cathay Pacific, Air Malta",$783
+MNL,MLA,2024-01-16,1:10 pm  –  1:15 pm+1,"Thai Airways, Air Malta",$799
+MNL,MLA,2024-01-16,5:25 am  –  10:30 pm,Multiple airlines,$804
+MNL,MLA,2024-01-16,11:25 am  –  1:15 pm+1,"Gulf Air, Air Malta",$823
+MNL,MLA,2024-01-16,1:10 pm  –  8:45 am+1,"Thai Airways, Turkish Airlines",$899
+MNL,MLA,2024-01-16,7:45 pm  –  1:15 pm+1,"Cathay Pacific, Air Malta",$960
+MNL,MLA,2024-01-16,8:00 am  –  1:15 pm+1,"Cathay Pacific, Air Malta",$960
+MNL,MLA,2024-01-16,1:10 pm  –  12:50 pm+1,"Thai Airways, Austrian Airlines","$1,002"
+MNL,MLA,2024-01-16,3:00 pm  –  12:50 pm+1,"Philippine Airlines, Austrian Airlines","$1,007"
+MNL,LIS,2024-01-16,4:55 am  –  11:10 pm,"China Eastern, Iberia",$556
+MNL,LIS,2024-01-16,4:55 am  –  9:00 am+1,"China Eastern, TAP AIR PORTUGAL",$560
+MNL,LIS,2024-01-16,4:55 am  –  3:15 pm+1,"China Eastern, Air Europa",$573
+MNL,LIS,2024-01-16,12:25 pm  –  12:00 pm+1,"Philippine Airlines, Emirates",$706
+MNL,LIS,2024-01-16,12:25 pm  –  7:15 pm+1,"Philippine Airlines, Emirates",$706
+MNL,LIS,2024-01-16,4:55 am  –  7:55 pm+1,"China Eastern, Lufthansa",$732
+MNL,LIS,2024-01-16,10:55 am  –  4:40 pm+1,"China Airlines, Vueling",$762
+MNL,LIS,2024-01-16,10:55 am  –  8:25 pm+1,"China Airlines, Vueling",$787
+MNL,LIS,2024-01-16,10:55 am  –  8:25 pm+1,"China Airlines, Vueling",$787
+MNL,LIS,2024-01-16,4:55 am  –  1:20 pm+1,"China Eastern, Lufthansa",$799
+MNL,LIS,2024-01-16,4:55 am  –  2:35 pm+1,"China Eastern, SWISS",$799
+MNL,LIS,2024-01-16,4:55 am  –  2:35 pm+1,"China Eastern, SWISS",$799
+MNL,LIS,2024-01-16,4:55 am  –  3:05 pm+1,"China Eastern, Lufthansa",$832
+MNL,LIS,2024-01-16,12:35 pm  –  4:40 pm+1,"Cathay Pacific, Vueling",$835
+MNL,LIS,2024-01-16,8:00 am  –  4:40 pm+1,"Cathay Pacific, Vueling",$835
+MNL,LJU,2024-01-16,7:30 pm  –  9:25 pm+1,Multiple airlines,$558
+MNL,LJU,2024-01-16,5:40 pm  –  8:15 pm+2,Multiple airlines,$577
+MNL,LJU,2024-01-16,7:30 pm  –  6:40 pm+1,"Scoot, Turkish Airlines",$704
+MNL,LJU,2024-01-16,4:55 am  –  9:50 pm,"China Eastern, Lufthansa",$731
+MNL,LJU,2024-01-16,3:35 pm  –  1:25 pm+1,"Cebu Pacific, Emirates",$780
+MNL,LJU,2024-01-16,7:30 pm  –  6:40 pm+1,Multiple airlines,$785
+MNL,LJU,2024-01-16,3:35 pm  –  1:25 pm+1,"Cebu Pacific, Emirates",$788
+MNL,LJU,2024-01-16,7:30 pm  –  7:50 pm+1,"Scoot, Air Serbia",$818
+MNL,LJU,2024-01-16,7:00 pm  –  1:25 pm+1,"Philippine Airlines, Emirates",$837
+MNL,LJU,2024-01-16,7:55 pm  –  6:40 pm+1,Multiple airlines,$837
+MNL,LJU,2024-01-16,8:35 pm  –  6:40 pm+1,Multiple airlines,$885
+MNL,LJU,2024-01-16,8:35 am  –  10:05 am+1,Multiple airlines,$886
+MNL,LJU,2024-01-16,8:55 am  –  8:55 am+1,Multiple airlines,$889
+MNL,LJU,2024-01-16,8:35 pm  –  9:30 pm+1,Multiple airlines,$908
+MNL,LJU,2024-01-16,10:10 am  –  10:05 am+1,Multiple airlines,$918
+MNL,CPH,2024-01-16,12:55 am  –  11:30 pm,"Philippine Airlines, Lufthansa",$818
+MNL,CPH,2024-01-16,11:50 pm  –  1:10 pm+1,Qatar Airways,$986
+MNL,CPH,2024-01-16,11:50 pm  –  8:25 pm+1,Qatar Airways,$986
+MNL,CPH,2024-01-16,12:35 pm  –  1:15 pm+1,"Cathay Pacific, British Airways",$992
+MNL,CPH,2024-01-16,12:35 pm  –  2:20 pm+1,"Cathay Pacific, British Airways",$992
+MNL,CPH,2024-01-16,2:50 pm  –  11:45 pm+1,"Philippine Airlines, Lufthansa","$1,062"
+MNL,CPH,2024-01-16,6:30 pm  –  6:40 am+1,Qatar Airways,"$1,068"
+MNL,CPH,2024-01-16,6:30 pm  –  1:10 pm+1,Qatar Airways,"$1,167"
+MNL,CPH,2024-01-16,6:30 pm  –  8:25 pm+1,Qatar Airways,"$1,170"
+MNL,CPH,2024-01-16,2:10 am  –  10:00 am+1,Gulf Air,"$1,212"
+MNL,CPH,2024-01-16,2:10 am  –  1:15 pm+1,Gulf Air,"$1,212"
+MNL,CPH,2024-01-16,6:20 am  –  8:20 pm,"Air China, Scandinavian Airlines","$1,268"
+MNL,CPH,2024-01-16,6:45 pm  –  6:30 am+1,Etihad Airways,"$1,338"
+MNL,CPH,2024-01-16,6:45 pm  –  12:35 pm+1,Etihad Airways,"$1,401"
+MNL,CPH,2024-01-16,6:45 pm  –  1:20 pm+1,Etihad Airways,"$1,401"
+MNL,TLL,2024-01-16,4:55 am  –  1:40 am+1,"China Eastern, LOT",$668
+MNL,TLL,2024-01-16,4:55 am  –  12:15 am+1,"China Eastern, airBaltic",$671
+MNL,TLL,2024-01-16,4:55 am  –  12:15 am+1,"China Eastern, airBaltic",$757
+MNL,TLL,2024-01-16,4:55 am  –  8:15 am+1,"China Eastern, airBaltic",$757
+MNL,TLL,2024-01-16,4:55 am  –  12:25 am+1,"China Eastern, Finnair",$762
+MNL,TLL,2024-01-16,12:55 am  –  11:55 pm,"Philippine Airlines, Lufthansa",$818
+MNL,TLL,2024-01-16,3:35 pm  –  10:10 am+1,"Cebu Pacific, Finnair",$872
+MNL,TLL,2024-01-16,8:55 am  –  1:40 am+1,"Cebu Pacific, LOT",$903
+MNL,TLL,2024-01-16,1:10 pm  –  11:30 am+1,"Thai Airways, Turkish Airlines",$937
+MNL,TLL,2024-01-16,3:15 pm  –  10:10 am+1,"Philippine Airlines, Finnair",$950
+MNL,TLL,2024-01-16,10:10 am  –  10:10 am+1,"Philippine Airlines, Finnair",$950
+MNL,TLL,2024-01-16,11:10 am  –  10:10 am+1,"Cebu Pacific, Finnair",$963
+MNL,TLL,2024-01-16,7:00 pm  –  5:10 pm+1,"Philippine Airlines, Lufthansa",$966
+MNL,TLL,2024-01-16,7:05 pm  –  11:55 pm+1,"Philippine Airlines, Lufthansa","$1,042"
+MNL,TLL,2024-01-16,5:25 am  –  11:55 pm,"Cebu Pacific, Lufthansa","$1,051"
+MNL,REK,2024-01-16,6:30 pm  –  2:10 pm+1,"Qatar Airways, Icelandair","$1,595"
+MNL,REK,2024-01-16,6:30 pm  –  3:30 pm+1,"Qatar Airways, Icelandair","$1,602"
+MNL,REK,2024-01-16,11:45 pm  –  11:55 pm+1,"Etihad Airways, Icelandair","$1,643"
+MNL,REK,2024-01-16,11:45 pm  –  11:55 pm+1,"Etihad Airways, Icelandair","$1,643"
+MNL,REK,2024-01-16,11:45 pm  –  11:55 pm+1,"Etihad Airways, Icelandair","$1,643"
+MNL,REK,2024-01-16,6:45 pm  –  11:55 pm+1,"Etihad Airways, Icelandair","$1,643"
+MNL,REK,2024-01-16,6:45 pm  –  11:55 pm+1,"Etihad Airways, Icelandair","$1,643"
+MNL,REK,2024-01-16,6:45 pm  –  11:55 pm+1,"Etihad Airways, Icelandair","$1,643"
+MNL,REK,2024-01-16,6:45 pm  –  3:55 pm+1,"Etihad Airways, Icelandair","$1,664"
+MNL,REK,2024-01-16,10:00 pm  –  3:05 pm+1,"Turkish Airlines, Icelandair","$1,688"
+MNL,REK,2024-01-16,6:30 pm  –  3:30 pm+1,"Qatar Airways, Icelandair","$1,688"
+MNL,REK,2024-01-16,11:50 pm  –  10:40 am+2,Qatar Airways,"$1,688"
+MNL,REK,2024-01-16,11:50 pm  –  10:40 am+2,Qatar Airways,"$1,688"
+MNL,REK,2024-01-16,11:50 pm  –  10:40 am+2,Qatar Airways,"$1,691"
+MNL,REK,2024-01-16,6:30 pm  –  10:40 am+2,Qatar Airways,"$1,691"
+MNL,RIX,2024-01-16,4:55 am  –  1:00 pm+1,"China Eastern, LOT",$639
+MNL,RIX,2024-01-16,4:55 am  –  10:20 pm,"China Eastern, airBaltic",$711
+MNL,RIX,2024-01-16,4:55 am  –  8:55 am+1,"China Eastern, Finnair",$740
+MNL,RIX,2024-01-16,3:35 pm  –  8:55 am+1,"Cebu Pacific, Finnair",$872
+MNL,RIX,2024-01-16,3:35 pm  –  1:10 pm+1,"Cebu Pacific, Finnair",$872
+MNL,RIX,2024-01-16,6:55 am  –  10:15 pm+1,Multiple airlines,$873
+MNL,RIX,2024-01-16,8:35 am  –  8:55 am+1,"Philippines AirAsia, Finnair",$904
+MNL,RIX,2024-01-16,3:45 pm  –  10:45 am+1,"Cebu Pacific, Turkish Airlines",$920
+MNL,RIX,2024-01-16,3:45 pm  –  10:45 am+1,Multiple airlines,$928
+MNL,RIX,2024-01-16,1:10 pm  –  10:45 am+1,"Thai Airways, Turkish Airlines",$934
+MNL,RIX,2024-01-16,1:10 pm  –  10:45 am+1,Multiple airlines,$949
+MNL,RIX,2024-01-16,3:15 pm  –  8:55 am+1,"Philippine Airlines, Finnair",$950
+MNL,RIX,2024-01-16,11:10 am  –  8:55 am+1,"Cebu Pacific, Finnair",$963
+MNL,RIX,2024-01-16,10:55 am  –  1:10 pm+1,"China Airlines, airBaltic",$971
+MNL,RIX,2024-01-16,2:30 am  –  12:30 am+2,"Air China, Lufthansa","$1,048"
+MNL,VNO,2024-01-16,6:55 am  –  1:10 pm+1,Multiple airlines,$587
+MNL,VNO,2024-01-16,2:15 am  –  1:10 pm+1,Multiple airlines,$596
+MNL,VNO,2024-01-16,4:55 am  –  1:00 am+1,"China Eastern, LOT",$696
+MNL,VNO,2024-01-16,12:00 pm  –  1:10 pm+1,Multiple airlines,$700
+MNL,VNO,2024-01-16,12:00 pm  –  1:10 pm+1,Multiple airlines,$700
+MNL,VNO,2024-01-16,4:55 am  –  9:20 am+1,"China Eastern, Finnair",$740
+MNL,VNO,2024-01-16,10:55 am  –  1:10 pm+1,"China Airlines, Wizz Air",$770
+MNL,VNO,2024-01-16,12:55 am  –  11:45 pm,"Philippine Airlines, Lufthansa",$827
+MNL,VNO,2024-01-16,3:35 pm  –  9:20 am+1,"Cebu Pacific, Finnair",$873
+MNL,VNO,2024-01-16,3:35 pm  –  12:55 pm+1,"Cebu Pacific, Finnair",$873
+MNL,VNO,2024-01-16,3:45 pm  –  11:05 am+1,"Cebu Pacific, Turkish Airlines",$921
+MNL,VNO,2024-01-16,1:10 pm  –  11:05 am+1,"Thai Airways, Turkish Airlines",$937
+MNL,VNO,2024-01-16,1:10 pm  –  7:05 pm+1,"Thai Airways, Turkish Airlines",$938
+MNL,VNO,2024-01-16,8:55 am  –  1:00 am+1,"Cebu Pacific, LOT",$944
+MNL,VNO,2024-01-16,3:15 pm  –  9:20 am+1,"Philippine Airlines, Finnair",$950
+MNL,SYD,2024-01-16,12:05 pm  –  8:20 am+1,Asiana Airlines,"$1,056"
+MNL,SYD,2024-01-16,10:40 am  –  6:15 am+1,"Jetstar Asia, Qantas Airways","$1,255"
+MNL,SYD,2024-01-16,6:55 am  –  10:15 pm+1,"Jetstar Asia, Jetstar","$1,338"
+MNL,SYD,2024-01-16,6:55 am  –  7:45 pm+1,"Jetstar Asia, Jetstar","$1,357"
+MNL,SYD,2024-01-16,12:35 pm  –  7:25 am+1,Cathay Pacific,"$1,363"
+MNL,SYD,2024-01-16,5:45 am  –  7:25 am+1,Cathay Pacific,"$1,363"
+MNL,SYD,2024-01-16,6:55 am  –  1:05 pm+1,"Jetstar Asia, Jetstar","$1,375"
+MNL,SYD,2024-01-16,12:30 pm  –  6:55 am+1,Korean Air,"$1,388"
+MNL,SYD,2024-01-16,12:55 am  –  6:55 am+1,Korean Air,"$1,388"
+MNL,SYD,2024-01-16,11:20 pm  –  6:55 am+2,Korean Air,"$1,388"
+MNL,SYD,2024-01-16,5:40 pm  –  1:25 pm+1,"Jetstar Asia, Qantas Airways","$1,493"
+MNL,SYD,2024-01-16,5:40 pm  –  1:55 pm+1,"Jetstar Asia, Qantas Airways","$1,493"
+MNL,SYD,2024-01-16,5:40 pm  –  2:25 pm+1,"Jetstar Asia, Qantas Airways","$1,493"
+MNL,SYD,2024-01-16,5:40 pm  –  3:25 pm+1,"Jetstar Asia, Qantas Airways","$1,493"
+MNL,SYD,2024-01-16,5:40 pm  –  4:25 pm+1,"Jetstar Asia, Qantas Airways","$1,493"
+MNL,ALG,2024-01-16,4:55 am  –  12:35 am+1,"China Eastern, Lufthansa",$689
+MNL,ALG,2024-01-16,4:55 am  –  12:35 am+1,"China Eastern, Lufthansa",$689
+MNL,ALG,2024-01-16,3:45 pm  –  9:05 am+1,"Cebu Pacific, Turkish Airlines",$816
+MNL,ALG,2024-01-16,8:55 am  –  9:05 am+1,"Cebu Pacific, Turkish Airlines",$816
+MNL,ALG,2024-01-16,12:55 am  –  12:35 am+1,"Philippine Airlines, Lufthansa",$826
+MNL,ALG,2024-01-16,12:00 pm  –  9:05 am+1,"China Southern, Turkish Airlines",$840
+MNL,ALG,2024-01-16,2:10 pm  –  11:40 am+1,"Cebu Pacific, Lufthansa",$855
+MNL,ALG,2024-01-16,3:35 pm  –  11:40 am+1,"Cebu Pacific, Lufthansa",$870
+MNL,ALG,2024-01-16,12:25 pm  –  9:05 am+1,"Philippine Airlines, Turkish Airlines",$895
+MNL,ALG,2024-01-16,7:00 pm  –  11:40 am+1,"Philippine Airlines, Lufthansa",$908
+MNL,ALG,2024-01-16,6:20 pm  –  11:40 am+1,"Cebu Pacific, Lufthansa",$922
+MNL,ALG,2024-01-16,5:40 pm  –  11:40 am+1,"Jetstar Asia, Lufthansa",$961
+MNL,ALG,2024-01-16,5:40 pm  –  11:40 am+1,"Jetstar Asia, Lufthansa",$971
+MNL,ALG,2024-01-16,9:20 pm  –  9:35 am+2,"XiamenAir, Turkish Airlines","$1,001"
+MNL,ALG,2024-01-16,7:45 pm  –  5:05 pm+1,"Cathay Pacific, ITA Airways","$1,028"
+MNL,BJL,2024-01-16,4:55 am  –  1:30 pm+1,"China Eastern, Corendon Dutch Airlines",$687
+MNL,BJL,2024-01-16,12:25 pm  –  1:30 am+2,"Philippine Airlines, Qatar Airways","$1,063"
+MNL,BJL,2024-01-16,3:45 pm  –  1:30 am+2,"Cebu Pacific, Royal Air Maroc","$1,137"
+MNL,BJL,2024-01-16,10:55 am  –  1:30 am+2,"China Airlines, Royal Air Maroc","$1,180"
+MNL,BJL,2024-01-16,7:15 pm  –  1:30 am+2,Multiple airlines,"$1,264"
+MNL,BJL,2024-01-16,7:30 pm  –  1:30 am+2,Multiple airlines,"$1,288"
+MNL,BJL,2024-01-16,7:45 pm  –  1:30 am+2,"Cathay Pacific, Royal Air Maroc","$1,296"
+MNL,BJL,2024-01-16,11:50 pm  –  2:40 pm+2,"Qatar Airways, TUI Nederland","$1,303"
+MNL,BJL,2024-01-16,8:35 am  –  6:45 pm+1,Multiple airlines,"$1,327"
+MNL,BJL,2024-01-16,10:10 am  –  6:45 pm+1,Multiple airlines,"$1,359"
+MNL,BJL,2024-01-16,3:45 pm  –  6:45 pm+1,Multiple airlines,"$1,378"
+MNL,BJL,2024-01-16,7:30 pm  –  6:45 pm+1,Multiple airlines,"$1,417"
+MNL,BJL,2024-01-16,10:55 am  –  6:45 pm+1,"China Airlines, Vueling","$1,426"
+MNL,BJL,2024-01-16,2:10 pm  –  6:45 pm+1,Multiple airlines,"$1,442"
+MNL,BJL,2024-01-16,2:10 am  –  1:30 am+1,"Gulf Air, Royal Air Maroc","$1,468"
+MNL,LOS,2024-01-16,7:55 pm  –  10:30 pm+2,Multiple airlines,$580
+MNL,LOS,2024-01-16,2:55 am  –  4:10 pm+1,"Air China, Qatar Airways",$672
+MNL,LOS,2024-01-16,3:35 pm  –  4:10 pm+1,Multiple airlines,$736
+MNL,LOS,2024-01-16,11:40 pm  –  9:00 am+2,Multiple airlines,$759
+MNL,LOS,2024-01-16,3:45 pm  –  1:45 pm+1,"Cebu Pacific, Egypt Air",$766
+MNL,LOS,2024-01-16,6:55 am  –  4:10 pm+1,"Philippines AirAsia, Qatar Airways",$772
+MNL,LOS,2024-01-16,3:45 pm  –  12:40 pm+1,"Cebu Pacific, RwandAir",$793
+MNL,LOS,2024-01-16,8:55 am  –  1:45 pm+1,"Cebu Pacific, Egypt Air",$802
+MNL,LOS,2024-01-16,8:55 am  –  9:00 am+1,"Cebu Pacific, Qatar Airways",$819
+MNL,LOS,2024-01-16,3:45 pm  –  12:25 pm+1,"Cebu Pacific, Ethiopian Air",$821
+MNL,LOS,2024-01-16,12:00 pm  –  12:25 pm+1,"China Southern, Ethiopian Air",$845
+MNL,LOS,2024-01-16,12:00 pm  –  12:40 pm+1,"China Southern, RwandAir",$851
+MNL,LOS,2024-01-16,11:55 am  –  4:10 pm+1,Multiple airlines,$855
+MNL,LOS,2024-01-16,3:45 pm  –  1:45 pm+1,Multiple airlines,$866
+MNL,LOS,2024-01-16,11:40 pm  –  9:00 am+2,Multiple airlines,$897
+MNL,ADD,2024-01-16,7:35 pm  –  6:10 am+1,"Philippine Airlines, Ethiopian Air","$1,053"
+MNL,ADD,2024-01-16,3:15 pm  –  6:10 am+1,"Philippine Airlines, Ethiopian Air","$1,053"
+MNL,ADD,2024-01-16,9:30 am  –  6:10 am+1,"Philippine Airlines, Ethiopian Air","$1,122"
+MNL,ADD,2024-01-16,5:50 am  –  6:10 am+1,"Philippine Airlines, Ethiopian Air","$1,122"
+MNL,ADD,2024-01-16,1:15 pm  –  6:10 am+1,Malaysia Airlines,"$1,262"
+MNL,ADD,2024-01-16,7:15 pm  –  6:05 am+1,"Philippine Airlines, Ethiopian Air","$1,341"
+MNL,ADD,2024-01-16,3:00 pm  –  6:05 am+1,"Philippine Airlines, Ethiopian Air","$1,341"
+MNL,ADD,2024-01-16,1:10 pm  –  6:05 am+1,"Thai Airways, Ethiopian Air","$1,405"
+MNL,ADD,2024-01-16,10:15 am  –  6:05 am+1,"Philippine Airlines, Ethiopian Air","$1,431"
+MNL,ADD,2024-01-16,5:45 am  –  12:10 am+1,Turkish Airlines,"$1,470"
+MNL,ADD,2024-01-16,8:25 pm  –  5:45 am+1,Ethiopian Air,"$1,529"
+MNL,ADD,2024-01-16,10:00 pm  –  12:25 am+2,Turkish Airlines,"$1,907"
+MNL,ADD,2024-01-16,6:30 pm  –  8:00 pm+1,"Qatar Airways, Ethiopian Air","$1,933"
+MNL,ADD,2024-01-16,6:30 pm  –  7:55 am+1,"Qatar Airways, Ethiopian Air","$1,958"
+MNL,ADD,2024-01-16,11:50 pm  –  12:05 am+2,Qatar Airways,"$1,980"
+MNL,NBO,2024-01-16,11:50 pm  –  12:05 am+2,Qatar Airways,$983
+MNL,NBO,2024-01-16,6:30 pm  –  12:05 am+2,Qatar Airways,"$1,100"
+MNL,NBO,2024-01-16,11:50 pm  –  7:35 am+2,Qatar Airways,"$1,100"
+MNL,NBO,2024-01-16,8:25 pm  –  12:55 pm+1,Ethiopian Air,"$1,187"
+MNL,NBO,2024-01-16,8:25 pm  –  1:20 am+2,Ethiopian Air,"$1,257"
+MNL,NBO,2024-01-16,6:30 pm  –  7:35 am+1,Qatar Airways,"$1,344"
+MNL,NBO,2024-01-16,11:45 pm  –  3:50 am+2,Etihad Airways,"$1,433"
+MNL,NBO,2024-01-16,11:45 pm  –  3:50 am+2,Etihad Airways,"$1,433"
+MNL,NBO,2024-01-16,6:45 pm  –  3:50 am+2,Etihad Airways,"$1,433"
+MNL,NBO,2024-01-16,11:45 pm  –  3:50 am+2,Etihad Airways,"$1,434"
+MNL,NBO,2024-01-16,6:45 pm  –  3:50 am+2,Etihad Airways,"$1,434"
+MNL,NBO,2024-01-16,5:45 am  –  3:20 am+1,Turkish Airlines,"$1,862"
+MNL,NBO,2024-01-16,8:25 pm  –  8:00 pm+1,Ethiopian Air,"$1,870"
+MNL,NBO,2024-01-16,10:00 pm  –  3:20 am+2,Turkish Airlines,"$2,056"
+MNL,NBO,2024-01-16,6:30 pm  –  11:30 am+1,"Qatar Airways, Kenya Airways","$2,202"
+MNL,DAR,2024-01-16,7:35 pm  –  12:35 pm+1,"Philippine Airlines, Ethiopian Air",$634
+MNL,DAR,2024-01-16,5:30 pm  –  9:05 am+1,"China Southern, Kenya Airways",$906
+MNL,DAR,2024-01-16,5:30 pm  –  7:55 pm+1,"China Southern, Kenya Airways",$906
+MNL,DAR,2024-01-16,12:00 pm  –  9:05 am+1,"China Southern, Kenya Airways",$920
+MNL,DAR,2024-01-16,8:25 pm  –  12:35 pm+1,Ethiopian Air,$992
+MNL,DAR,2024-01-16,1:10 pm  –  9:05 am+1,"Thai Airways, Kenya Airways","$1,036"
+MNL,DAR,2024-01-16,3:00 pm  –  9:05 am+1,"Philippine Airlines, Kenya Airways","$1,051"
+MNL,DAR,2024-01-16,10:15 am  –  9:05 am+1,"Philippine Airlines, Kenya Airways","$1,072"
+MNL,DAR,2024-01-16,1:15 pm  –  10:15 am+1,Malaysia Airlines,"$1,313"
+MNL,DAR,2024-01-16,1:15 pm  –  10:15 am+1,Malaysia Airlines,"$1,314"
+MNL,DAR,2024-01-16,1:10 pm  –  12:35 pm+1,"Thai Airways, Ethiopian Air","$1,321"
+MNL,DAR,2024-01-16,6:30 pm  –  10:15 am+1,Qatar Airways,"$1,342"
+MNL,DAR,2024-01-16,8:25 pm  –  8:10 pm+1,Ethiopian Air,"$1,587"
+MNL,DAR,2024-01-16,7:15 am  –  3:25 am+1,Oman Air,"$1,589"
+MNL,DAR,2024-01-16,5:45 am  –  3:20 am+1,Turkish Airlines,"$1,712"
+MNL,DEL,2024-01-16,3:00 am  –  1:10 pm,"Greater Bay Airlines, Vistara",$279
+MNL,DEL,2024-01-16,3:00 am  –  7:55 pm,"Greater Bay Airlines, IndiGo",$279
+MNL,DEL,2024-01-16,7:55 pm  –  11:35 am+1,"Cebu Pacific, Air India",$281
+MNL,DEL,2024-01-16,3:00 am  –  10:50 pm,Multiple airlines,$281
+MNL,DEL,2024-01-16,7:30 pm  –  11:35 am+1,"Scoot, Air India",$299
+MNL,DEL,2024-01-16,2:10 pm  –  2:50 am+1,"Cebu Pacific, Air India",$306
+MNL,DEL,2024-01-16,7:55 pm  –  1:00 pm+1,"Cebu Pacific, Vistara",$322
+MNL,DEL,2024-01-16,8:35 am  –  7:55 pm,"Philippines AirAsia, IndiGo",$323
+MNL,DEL,2024-01-16,8:35 pm  –  1:10 pm+1,"HK Express, Vistara",$331
+MNL,DEL,2024-01-16,7:55 pm  –  1:25 pm+1,"Cebu Pacific, IndiGo",$338
+MNL,DEL,2024-01-16,7:20 am  –  7:55 pm,"Cebu Pacific, IndiGo",$341
+MNL,DEL,2024-01-16,10:10 am  –  7:55 pm,"Philippine Airlines, IndiGo",$343
+MNL,DEL,2024-01-16,7:50 am  –  7:55 pm,"Philippine Airlines, IndiGo",$343
+MNL,DEL,2024-01-16,7:55 pm  –  10:45 am+1,"Cebu Pacific, IndiGo",$343
+MNL,DEL,2024-01-16,8:35 am  –  10:50 pm,Multiple airlines,$344
