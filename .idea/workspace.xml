@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db31deaf-04b6-419c-81a1-f00ddbfce22b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/VisaMap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airport.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/airport.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/airline_prices.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/web_scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_scraper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_scraper_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_scraper_view.py" afterDir="false" />
     </list>
@@ -16,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -41,17 +44,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Sample Projects/flapjax_public-main/jinja-article" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Docs\MASTERS\Python for DS\Final Project\pfds-final-project" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Docs\MASTERS\Python for DS\Final Project\pfds-final-project\static\images" />
+      <recent name="F:\Docs\MASTERS\Python for DS\Final Project\pfds-final-project\static\styles" />
       <recent name="F:\Docs\MASTERS\Python for DS\Final Project\pfds-final-project\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.web_scraper_view">
+  <component name="RunManager" selected="Python.VisaMap">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pfds-final-project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,6 +74,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="VisaMap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pfds-final-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VisaMap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pfds-final-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Sample Projects/flapjax_public-main/jinja-article" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Sample Projects/flapjax_public-main/jinja-article/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,10 +192,14 @@
       <item itemvalue="Python.web_scraper" />
       <item itemvalue="Python.web_scraper_view" />
       <item itemvalue="Python.web_scraper_view (1)" />
+      <item itemvalue="Python.VisaMap" />
+      <item itemvalue="Python.app" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.VisaMap" />
         <item itemvalue="Python.web_scraper_view" />
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.web_scraper_view (1)" />
         <item itemvalue="Python.web_scraper" />
       </list>

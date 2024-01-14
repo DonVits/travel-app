@@ -1,0 +1,66 @@
+.landing-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  padding: 0
+}
+
+.landing-page img {
+  display: flex;
+  width: 1920px;
+  height: 1038px;
+  flex-shrink: 0;
+  margin: 0;
+  padding: 0;
+  object-fit: cover;
+}
+
+.landing-page .welcome-message {
+  position: absolute; /* Position the text absolutely within the container */
+    top: 50%; /* Adjust the top position as needed */
+    left: 25%;
+    width: 496.56px;
+    height: 214.048px;
+    flex-shrink: 0; /* Adjust the left position as needed */
+    transform: translate(-50%, -50%); /* Center the text both vertically and horizontally */
+    font-family: Poppins;
+    color: #FFF;
+    font-size: 46.04px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 53.44px;
+    z-index: 1;
+}
+
+.landing-page .welcome-text-field-container {
+  position: absolute;
+  top: 68%; /* Adjust as needed to position vertically */
+  left: 25%; /* Adjust as needed to position horizontally */
+  transform: translate(-50%, -50%);/* Optional: Add margin to separate the textbox from the image */
+}
+
+.landing-page .welcome-text-field-container .welcome-text-field{
+  width: 400px;
+  height: 40px;
+  flex-shrink: 0;
+  border-radius: 7px;
+  vertical-align: middle;
+  display:inline-block;
+  background: #F3F3F3;
+  padding: 0 17px;
+}
+
+.submit-country-button {
+  width: 70px;
+  height: 40px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #F1A501;
+  color: #fff;
+  cursor: pointer;
+}

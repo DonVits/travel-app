@@ -1,3 +1,5 @@
+import datetime
+
 import pandas as pd
 from web_scraper import WebScraper
 import tkinter as tk
@@ -10,6 +12,7 @@ f_airport = open('data/airport.json')
 AIRPORT_DATA = json.load(f_airport)
 CITIES = list(AIRPORT_DATA.keys())
 #SELECTED_COUNTRIES = ['Poland','Philippines','Germany','Italy','France','Spain','Japan','Singapore']
+all_airport_data = pd.read_csv('data/airport_volume_airport_locations.csv')
 
 def show_result():
     origin_ap = origin_var.get()
@@ -22,7 +25,7 @@ def show_result():
             if AIRPORT_DATA[origin_ap] != AIRPORT_DATA[i] and i != 'ALL':
                 scraper = WebScraper(AIRPORT_DATA[origin_ap], AIRPORT_DATA[i], selected_date)
                 result = scraper.load_data()
-                results.append(result)
+                print(result)
                 export_to_csv(result)
     else:
         scraper = WebScraper(AIRPORT_DATA[origin_ap], AIRPORT_DATA[destination_ap], selected_date)
@@ -39,13 +42,19 @@ def show_result():
 
 def export_to_csv(result):
     df = pd.DataFrame(result)
-    #print(df)
+    df['Origin Name'] = df['Origin'].apply(lambda origin: all_airport_data.loc[all_airport_data['Orig'] == origin].iloc[0]['Name'])
+    df['Origin Country'] = df['Origin'].apply(
+        lambda origin: all_airport_data.loc[all_airport_data['Orig'] == origin].iloc[0]['Country Name'])
+    df['Destination Name'] = df['Destination'].apply(lambda origin: all_airport_data.loc[all_airport_data['Orig'] == origin].iloc[0]['Name'])
+    df['Destination Country'] = df['Destination'].apply(
+        lambda origin: all_airport_data.loc[all_airport_data['Orig'] == origin].iloc[0]['Country Name'])
+    saved_df = df.loc[:, ['Airline','Departure Date','Time','Price(USD)','Origin','Origin Name', 'Origin Country', 'Destination', 'Destination Name','Destination Country']]
     if not os.path.isfile('data/airline_prices.csv'):
         print('New file mode')
-        df.to_csv('data/airline_prices.csv', index=False)
+        saved_df.to_csv('data/airline_prices.csv', index=False)
     else:
         print('append mode')
-        df.to_csv('data/airline_prices.csv', mode='a', header=False, index=False)
+        saved_df.to_csv('data/airline_prices.csv', mode='a', header=False, index=False)
 
 def export_all():
     df = pd.read_csv('data/airport_volume_airport_locations.csv')
@@ -68,10 +77,10 @@ airline_price_label = tk.Label(window, text="Airline Price", font=("Helvetica", 
 airline_price_label.grid(row=0, column=0, columnspan=2, pady=10)
 
 date_var = tk.StringVar()
-date_var.set(value=date.today())
+date_var.set(value=date.today() + datetime.timedelta(days=1))
 date_label = tk.Label(window, textvariable=date_var)
 date_label.grid(row=1, column=1, columnspan=2, pady=10, padx=10)
-calendar = Calendar(window, selectmode='day', textvariable=date_var, date_pattern='yyyy-mm-dd')
+calendar = Calendar(window, selectmode='day', textvariable=date_var, date_pattern='yyyy-mm-dd', mindate=date.today() + datetime.timedelta(days=1))
 calendar.grid(row=1, column=3, columnspan=2, pady=10)
 
 selected_date_label = tk.Label(window, text='Selected Date: ')
@@ -97,7 +106,7 @@ destination_dropdown.grid(row=2, column=3, pady=5, padx=10)
 show_results_button = tk.Button(window, text="SHOW RESULTS", command=show_result)
 show_results_button.grid(row=3, column=0, columnspan=4, pady=10)
 
-price_label = tk.Label(window, text="PRICE")
+price_label = tk.Label(window, text="PRICE(USD)")
 price_label.grid(row=4, column=0, pady=5)
 time_label = tk.Label(window, text="TIME")
 time_label.grid(row=4, column=1, pady=5)

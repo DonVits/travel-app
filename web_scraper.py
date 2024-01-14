@@ -23,19 +23,21 @@ class WebScraper:
             time_list = i.find_next('div', class_=re.compile(r'^.{9}-mod-variant-large$')).find_all('span')
             time = ' '.join([j.text for j in time_list])
             airline = i.find_next('div', class_=re.compile(r'^.{11}-mod-variant-default$')).text
+            origin_airport = i.find_all('div', class_=re.compile(r'^.{11}-mod-variant-default$'))[2].find_all('span')[1].text
+            destination_airport = i.find_all('div', class_=re.compile(r'^.{11}-mod-variant-default$'))[2].find_all('span')[-2].text
             parsed_result.append({
-                'Origin': self.origin,
-                'Destination': self.destination,
+                'Origin': origin_airport,
+                'Destination': destination_airport,
                 'Departure Date': self.date,
                 'Time': time,
                 'Airline': airline,
-                'Price(USD)': price
+                'Price(USD)': round(float(''.join([x for x in price if x.isdigit()])), 2),
             })
         self.driver.close()
         return parsed_result
 
     def load_data(self):
-        sleep(randint(2,5))
+        sleep(randint(2,6))
         try:
             path = '//*[@id="listWrapper"]'
             results = WebDriverWait(self.driver, timeout=randint(1, 4)).until(

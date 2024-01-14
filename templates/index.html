@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="styleguide.css" />
+    <link rel="stylesheet" type= "text/css" href="{{ url_for('static',filename='styles/index.css') }}" />
+  </head>
+  <body>
+    <div class="landing-page">
+      <img src="{{ url_for('static',filename='images/landing_background.jpg') }}" alt="">
+      <div class="welcome-message">No matter where you're going to, we'll take you there</div>
+      <div class="welcome-text-field-container">
+        <form action="{{url_for('result')}}" method="GET">
+          <input class="welcome-text-field" cols="30" rows="10" placeholder="Enter Country" name="country" type="text" ></textarea>
+          <button class="submit-country-button">Submit</button>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
