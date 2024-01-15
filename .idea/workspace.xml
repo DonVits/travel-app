@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db31deaf-04b6-419c-81a1-f00ddbfce22b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/VisaMap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Origins.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airline_prices.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_scraper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VisaMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/VisaMap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/airline_prices.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/airline_prices.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/airport.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Destinations.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/result.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_scraper_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_scraper_view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/worldmap.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +50,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Sample Projects/flapjax_public-main/jinja-article" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Kamil Project/MoodoWS-main" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Docs\MASTERS\Python for DS\Final Project\pfds-final-project\data" />
       <recent name="F:\Docs\MASTERS\Python for DS\Final Project\pfds-final-project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">

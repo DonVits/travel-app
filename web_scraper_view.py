@@ -8,9 +8,12 @@ import json
 from datetime import date
 import os
 
-f_airport = open('data/airport.json')
-AIRPORT_DATA = json.load(f_airport)
-CITIES = list(AIRPORT_DATA.keys())
+f_destinations = open('data/Destinations.json')
+f_origins = open('data/Origins.json')
+DESTINATIONS = json.load(f_destinations)
+ORIGINS = json.load(f_origins)
+DESTINATION_CITIES = list(DESTINATIONS.keys())
+ORIGIN_CITIES = list(ORIGINS.keys())
 #SELECTED_COUNTRIES = ['Poland','Philippines','Germany','Italy','France','Spain','Japan','Singapore']
 all_airport_data = pd.read_csv('data/airport_volume_airport_locations.csv')
 
@@ -21,14 +24,13 @@ def show_result():
 
     if destination_ap == 'ALL':
         results = []
-        for i in CITIES:
-            if AIRPORT_DATA[origin_ap] != AIRPORT_DATA[i] and i != 'ALL':
-                scraper = WebScraper(AIRPORT_DATA[origin_ap], AIRPORT_DATA[i], selected_date)
+        for i in DESTINATION_CITIES:
+            if ORIGINS[origin_ap] != DESTINATIONS[i].capitalize() and i != 'ALL':
+                scraper = WebScraper(ORIGINS[origin_ap], DESTINATIONS[i], selected_date)
                 result = scraper.load_data()
-                print(result)
                 export_to_csv(result)
     else:
-        scraper = WebScraper(AIRPORT_DATA[origin_ap], AIRPORT_DATA[destination_ap], selected_date)
+        scraper = WebScraper(ORIGINS[origin_ap], DESTINATIONS[destination_ap], selected_date)
         results = scraper.load_data()
         export_to_csv(results)
     #Display results starting from the 4th row
@@ -42,13 +44,14 @@ def show_result():
 
 def export_to_csv(result):
     df = pd.DataFrame(result)
-    df['Origin Name'] = df['Origin'].apply(lambda origin: all_airport_data.loc[all_airport_data['Orig'] == origin].iloc[0]['Name'])
-    df['Origin Country'] = df['Origin'].apply(
-        lambda origin: all_airport_data.loc[all_airport_data['Orig'] == origin].iloc[0]['Country Name'])
-    df['Destination Name'] = df['Destination'].apply(lambda origin: all_airport_data.loc[all_airport_data['Orig'] == origin].iloc[0]['Name'])
-    df['Destination Country'] = df['Destination'].apply(
-        lambda origin: all_airport_data.loc[all_airport_data['Orig'] == origin].iloc[0]['Country Name'])
-    saved_df = df.loc[:, ['Airline','Departure Date','Time','Price(USD)','Origin','Origin Name', 'Origin Country', 'Destination', 'Destination Name','Destination Country']]
+    df_with_origin = pd.merge(df, all_airport_data, left_on='Origin', right_on='Orig', how='left')
+    df_with_origin = df_with_origin.drop(columns=['Airport1Latitude','Airport1Longitude','TotalSeats','Orig'])\
+        .rename(columns={'Name':'Origin Name','Country Name': 'Origin Country'})
+    df_with_destination = pd.merge(df_with_origin, all_airport_data,  left_on='Destination', right_on='Orig', how='left')
+    df_with_destination = df_with_destination.drop(columns=['Airport1Latitude', 'Airport1Longitude', 'TotalSeats', 'Orig']) \
+        .rename(columns={'Name': 'Destination Name', 'Country Name': 'Destination Country'})
+    saved_df = df_with_destination.loc[:, ['Airline','Departure Date','Time','Price(USD)','Origin','Origin Name',
+                                           'Origin Country', 'Destination', 'Destination Name','Destination Country']]
     if not os.path.isfile('data/airline_prices.csv'):
         print('New file mode')
         saved_df.to_csv('data/airline_prices.csv', index=False)
@@ -61,8 +64,8 @@ def export_all():
     #country_list = df[df['Country Name'].isin(SELECTED_COUNTRIES)]['Orig']
     country_list = []
     results = []
-    for origin in AIRPORT_DATA.values():
-        for destination in AIRPORT_DATA.values():
+    for origin in DESTINATIONS.values():
+        for destination in DESTINATIONS.values():
             if origin != destination:
                 scraper = WebScraper(origin, destination, '2024-01-14')
                 result = scraper.load_data()
@@ -89,7 +92,7 @@ selected_date_label.grid(row=1, column=0, columnspan=2, pady=10)
 origin_var = tk.StringVar()
 origin_label = tk.Label(window, text="ORIGIN:")
 origin_label.grid(row=2, column=0, pady=5, padx=10)
-origin_options = CITIES
+origin_options = list(ORIGIN_CITIES)
 origin_dropdown = tk.OptionMenu(window, origin_var, *origin_options)
 origin_dropdown.config(width=20)
 origin_dropdown.grid(row=2, column=1, pady=5, padx=10)
@@ -97,7 +100,7 @@ origin_dropdown.grid(row=2, column=1, pady=5, padx=10)
 destination_var = tk.StringVar()
 destination_label = tk.Label(window, text="DESTINATION:")
 destination_label.grid(row=2, column=2, pady=5, padx=10)
-destination_options = list(CITIES)
+destination_options = list(DESTINATION_CITIES)
 destination_options.append('ALL')
 destination_dropdown = tk.OptionMenu(window, destination_var, *destination_options)
 destination_dropdown.config(width=20)
