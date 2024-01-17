@@ -1,13 +1,8 @@
-import os
-
 import plotly.express as px
 import pandas as pd
 from flask import Flask, render_template, request, redirect, session
-from jinja2 import Environment, Template, PackageLoader, select_autoescape
-import numpy as np
 
 app = Flask(__name__)
-
 
 @app.route('/')
 def hello():
@@ -23,7 +18,6 @@ def result():
                            'Norway', 'France', 'Czech Republic', 'Latvia', 'Brazil', 'Italy', 'Singapore', 'Sweden',
                            'Australia', 'Taiwan', 'Japan', 'Canada', 'Austria', 'Switzerland'
                            ]
-    cities = os.listdir('data/airbnb/')
     PRICE_CONVERSION = {'Netherlands': 1.09, 'Greece': 1.09, 'Thailand': 0.029,
                        'Germany': 1.09, 'Belgium': 1.09, 'Argentina': 0.0012,
                        'South Africa': 0.054, 'Denmark': 0.15, 'Ireland': 1.09,
@@ -93,24 +87,21 @@ def result():
 
     fig_2 = px.histogram(selected_airfare_grouped, x='Destination Country', y='Price(USD)mean', height=800)
     fig_2.update_xaxes(categoryorder='total ascending')
-    fig_2.update_layout(yaxis_title='Average Airfare')
+    fig_2.update_layout(yaxis_title='Average Airfare(USD)')
 
     flight_prices_plot = {"fig": fig_2.to_html(full_html=False)}
 
     def get_avg_accom(country):
-        print(SELECTED_CITIES[country])
         city_df = pd.read_csv('data/airbnb/' + SELECTED_CITIES[country] + '.csv')
-        city_sample = city_df.sample(n=40)
+        city_sample = city_df.sample(n=100)
         city_sample.dropna()
         average_price = city_sample['price'].mean()
         return average_price * PRICE_CONVERSION[country]
 
-
-
     selected_airfare_grouped['Average Price'] = selected_airfare_grouped['Destination Country'].apply(get_avg_accom)
     fig_3 = px.histogram(selected_airfare_grouped, x='Destination Country', y='Average Price', height=800)
     fig_3.update_xaxes(categoryorder='total ascending')
-    fig_3.update_layout(yaxis_title='Average Airbnb Price')
+    fig_3.update_layout(yaxis_title='Average Airbnb Price(USD)')
 
     accom_prices_plot = {"fig": fig_3.to_html(full_html=False)}
 
