@@ -7,10 +7,15 @@
 <body>
   <h1>RESULTS</h1>
   <h2>VISA Requirements</h2>
-    <div height="100px">{{world_map|safe}}</div>
-    <h2>Flight Prices</h2>
-    <div height="300px">{{flight_prices|safe}}</div>
-    <h2>Accomodation Prices</h2>
-    <div height="300px">{{accom_prices|safe}}</div>
+  <div height="100px">{{world_map|safe}}</div>
+  <h3>Visa Summary</h3>
+  <div height="50px">Visa Free: {{visa_summary['visa free']}}</div>
+  <div height="50px">E-Visa: {{visa_summary['e-visa']}}</div>
+  <div height="50px">Visa on Arrival: {{visa_summary['visa on arrival']}}</div>
+  <div height="50px">Visa Required: {{visa_summary['visa required']}}</div>
+  <h2>Flight Prices</h2>
+  <div height="300px">{{flight_prices|safe}}</div>
+  <h2>Accomodation Prices</h2>
+  <div height="300px">{{accom_prices|safe}}</div>
 </body>
 </html>

@@ -46,6 +46,7 @@ def result():
     selected_countries_from_origin['Requirement'] = selected_countries_from_origin['Requirement'].apply(
         lambda x: 'visa free' if str(x).isnumeric() and x != "-1" else x)
     selected_countries_from_origin.loc[(df['Requirement'] == "-1"), 'Requirement'] = 'Your country'
+    visa_summary = selected_countries_from_origin.groupby(['Requirement'])['Requirement'].count()
     fig = px.choropleth(
         locations=selected_countries_from_origin['Destination'],
         locationmode="country names",
@@ -105,7 +106,7 @@ def result():
 
     accom_prices_plot = {"fig": fig_3.to_html(full_html=False)}
 
-    return render_template("result.html", world_map=world_map['fig'], flight_prices=flight_prices_plot['fig'],
+    return render_template("result.html", world_map=world_map['fig'], visa_summary = visa_summary.to_dict(), flight_prices=flight_prices_plot['fig'],
                            accom_prices=accom_prices_plot['fig'])
 
 
