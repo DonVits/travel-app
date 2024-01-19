@@ -98,13 +98,12 @@ def result():
 
     flight_prices_plot = {"fig": fig_2.to_html(full_html=False)}
 
-    accommodation_price_df = pd.read_csv('price_data.csv')
+    accommodation_price_df = pd.read_csv('data/accomodation.csv')
     accommodation_price_df = accommodation_price_df.rename(columns={'Average Price in USD':'Avg Accommodation Price(USD)'})
     result_df = pd.merge(accommodation_price_df, selected_airfare_grouped, how='inner', left_on='Country', right_on='Destination Country')
 
     result_df['Total Score'] = result_df['Flight Price Score'] + result_df['Accommodation Price Score']
     top_5 = result_df[['Destination Country','Flight Price Score','Accommodation Price Score','Total Score']].sort_values(by='Total Score', ascending=False).head(5)
-    print(top_5)
 
     fig_3 = px.bar(result_df, x='Country', y='Avg Accommodation Price(USD)', height=800)
     fig_3.update_xaxes(categoryorder='total ascending')
