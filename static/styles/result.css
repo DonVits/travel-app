@@ -1,0 +1,23 @@
+.country-container {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}
+
+.country-container img{
+  max-height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+/* .country-text {
+  position: absolute;
+  top: 50%; 
+  left: 50%; 
+  transform: translate(-50%, -50%);
+  font-size: 18px; 
+  font-weight: bold; 
+  text-align: center; 
+  color: black;
+  z-index: 3;
+} */

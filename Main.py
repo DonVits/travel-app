@@ -47,6 +47,8 @@ def result():
         lambda x: 'visa free' if str(x).isnumeric() and x != "-1" else x)
     selected_countries_from_origin.loc[(df['Requirement'] == "-1"), 'Requirement'] = 'Your country'
     visa_summary = selected_countries_from_origin.groupby(['Requirement'])['Requirement'].count()
+
+
     fig = px.choropleth(
         locations=selected_countries_from_origin['Destination'],
         locationmode="country names",
@@ -86,28 +88,32 @@ def result():
         {'Price(USD)': ['mean']})
     selected_airfare_grouped.columns = list(map(''.join, selected_airfare_grouped.columns.values))
 
-    fig_2 = px.histogram(selected_airfare_grouped, x='Destination Country', y='Price(USD)mean', height=800)
+    max_flight = selected_airfare_grouped['Price(USD)mean'].max()
+    min_flight = selected_airfare_grouped['Price(USD)mean'].min()
+    selected_airfare_grouped['Flight Price Score'] = selected_airfare_grouped['Price(USD)mean'].apply(lambda x: 50 - 45 * (x-min_flight)/(max_flight-min_flight))
+
+    fig_2 = px.bar(selected_airfare_grouped, x='Destination Country', y='Price(USD)mean', height=800)
     fig_2.update_xaxes(categoryorder='total ascending')
     fig_2.update_layout(yaxis_title='Average Airfare(USD)')
 
     flight_prices_plot = {"fig": fig_2.to_html(full_html=False)}
 
-    def get_avg_accom(country):
-        city_df = pd.read_csv('data/airbnb/' + SELECTED_CITIES[country] + '.csv')
-        city_sample = city_df.sample(n=100)
-        city_sample.dropna()
-        average_price = city_sample['price'].mean()
-        return average_price * PRICE_CONVERSION[country]
+    accommodation_price_df = pd.read_csv('price_data.csv')
+    accommodation_price_df = accommodation_price_df.rename(columns={'Average Price in USD':'Avg Accommodation Price(USD)'})
+    result_df = pd.merge(accommodation_price_df, selected_airfare_grouped, how='inner', left_on='Country', right_on='Destination Country')
 
-    selected_airfare_grouped['Average Price'] = selected_airfare_grouped['Destination Country'].apply(get_avg_accom)
-    fig_3 = px.histogram(selected_airfare_grouped, x='Destination Country', y='Average Price', height=800)
+    result_df['Total Score'] = result_df['Flight Price Score'] + result_df['Accommodation Price Score']
+    top_5 = result_df[['Destination Country','Flight Price Score','Accommodation Price Score','Total Score']].sort_values(by='Total Score', ascending=False).head(5)
+    print(top_5)
+
+    fig_3 = px.bar(result_df, x='Country', y='Avg Accommodation Price(USD)', height=800)
     fig_3.update_xaxes(categoryorder='total ascending')
     fig_3.update_layout(yaxis_title='Average Airbnb Price(USD)')
 
     accom_prices_plot = {"fig": fig_3.to_html(full_html=False)}
 
     return render_template("result.html", world_map=world_map['fig'], visa_summary = visa_summary.to_dict(), flight_prices=flight_prices_plot['fig'],
-                           accom_prices=accom_prices_plot['fig'])
+                           accom_prices=accom_prices_plot['fig'], top_5 = top_5.to_dict())
 
 
 if __name__ == '__main__':
