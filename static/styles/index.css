@@ -1,3 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
 .landing-page {
   background-color: #ffffff;
   display: flex;
@@ -45,18 +52,19 @@
 
 .landing-page .welcome-text-field-container .welcome-text-field{
   width: 400px;
-  height: 40px;
+  height: 60px;
   flex-shrink: 0;
   border-radius: 7px;
   vertical-align: middle;
   display:inline-block;
   background: #F3F3F3;
   padding: 0 17px;
+  font-family: 'Poppins';
 }
 
 .submit-country-button {
-  width: 70px;
-  height: 40px;
+  width: 80px;
+  height: 60px;
   padding: 10px;
   border: none;
   border-radius: 5px;

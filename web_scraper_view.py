@@ -14,7 +14,6 @@ DESTINATIONS = json.load(f_destinations)
 ORIGINS = json.load(f_origins)
 DESTINATION_CITIES = list(DESTINATIONS.keys())
 ORIGIN_CITIES = list(ORIGINS.keys())
-#SELECTED_COUNTRIES = ['Poland','Philippines','Germany','Italy','France','Spain','Japan','Singapore']
 all_airport_data = pd.read_csv('data/airport_volume_airport_locations.csv')
 
 def show_result():
@@ -25,11 +24,11 @@ def show_result():
     if destination_ap == 'ALL':
         results = []
         for i in DESTINATION_CITIES:
-            if ORIGINS[origin_ap] != DESTINATIONS[i].capitalize() and i != 'ALL':
+            if ORIGINS[origin_ap] != DESTINATIONS[i].upper() and i != 'ALL':
                 scraper = WebScraper(ORIGINS[origin_ap], DESTINATIONS[i], selected_date)
                 result = scraper.load_data()
                 export_to_csv(result)
-    else:
+    elif ORIGINS[origin_ap] != DESTINATIONS[destination_ap].upper():
         scraper = WebScraper(ORIGINS[origin_ap], DESTINATIONS[destination_ap], selected_date)
         results = scraper.load_data()
         export_to_csv(results)

@@ -60,9 +60,11 @@ def result():
          'visa on arrival': 'Orange',
          'Your country': 'Blue',
          },
+        height=600
     )
     fig.update_layout(
         margin={"r": 0, "t": 0, "l": 0, "b": 0},
+        showlegend=False,
         title_text='Passport Index Data',
         legend_title_text="Visa requirement",
         geo=dict(
@@ -90,10 +92,12 @@ def result():
 
     max_flight = selected_airfare_grouped['Price(USD)mean'].max()
     min_flight = selected_airfare_grouped['Price(USD)mean'].min()
-    selected_airfare_grouped['Flight Price Score'] = selected_airfare_grouped['Price(USD)mean'].apply(lambda x: 50 - 45 * (x-min_flight)/(max_flight-min_flight))
+    selected_airfare_grouped['Flight Price Score'] = selected_airfare_grouped['Price(USD)mean'].apply(lambda x: 40 - 36 * (x-min_flight)/(max_flight-min_flight))
 
-    fig_2 = px.bar(selected_airfare_grouped, x='Destination Country', y='Price(USD)mean', height=800)
+    fig_2 = px.bar(selected_airfare_grouped, x='Destination Country', y='Price(USD)mean', height=600,
+                   color_continuous_scale="RdYlGn",color='Flight Price Score')
     fig_2.update_xaxes(categoryorder='total ascending')
+    fig_2.update_coloraxes(showscale=False)
     fig_2.update_layout(yaxis_title='Average Airfare(USD)')
 
     flight_prices_plot = {"fig": fig_2.to_html(full_html=False)}
@@ -105,8 +109,10 @@ def result():
     result_df['Total Score'] = result_df['Flight Price Score'] + result_df['Accommodation Price Score']
     top_5 = result_df[['Destination Country','Flight Price Score','Accommodation Price Score','Total Score']].sort_values(by='Total Score', ascending=False).head(5)
 
-    fig_3 = px.bar(result_df, x='Country', y='Avg Accommodation Price(USD)', height=800)
+    fig_3 = px.bar(result_df, x='Country', y='Avg Accommodation Price(USD)', height=600,
+                   color_continuous_scale="RdYlGn", color='Accommodation Price Score')
     fig_3.update_xaxes(categoryorder='total ascending')
+    fig_3.update_coloraxes(showscale=False)
     fig_3.update_layout(yaxis_title='Average Airbnb Price(USD)')
 
     accom_prices_plot = {"fig": fig_3.to_html(full_html=False)}

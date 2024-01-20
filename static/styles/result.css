@@ -1,23 +1,123 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 95%;
+  box-sizing: border-box;
+}
+
+.result-header {
+  height: 500px;
+  width: 100vw;
+  background-color: rgba(65, 105, 225, 1);
+}
+
+.header-text{
+  position: absolute;
+  transform: translate(100px, 250px);
+  font-weight: 700;
+  font-size: 50px;
+  color: rgba(255, 255, 255, 1);
+  font-family: 'Poppins';
+}
+
+.section-header {
+  max-width: fit-content;
+  transform: translate(100px, 0);
+  font-weight: 700;
+  font-size: 40px;
+  color: rgba(65, 105, 225, 1);
+  font-family: 'Poppins';
+  margin: 20px;
+}
+
+.visa-summary-container{
+  border-radius: 25px;
+  position: relative;
+  transform: translate(-50%, 0);
+  left: 50%;
+  width: 50%;
+  background-color: rgb(223, 231, 255);
+  height: 300px;
+  margin: 40px;
+}
+
+.visa-item-container {
+  position: absolute;
+  transform: translate(-50%, 60%);
+  left: 50%;
+}
+
+.visa-item{
+  margin-bottom: 5px;
+  color: rgb(143, 143, 143);
+  font-size: 25px;
+  display: flex;
+}
+
+.legend-box{
+  height: 24px;
+  width: 24px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+
+#green{
+  background-color: green;
+}
+
+#yellow{
+  background-color: yellow;
+}
+
+#orange{
+  background-color: orange;
+}
+
+#red{
+  background-color: red;
+}
+
+#blue{
+  height: 24px;
+  width: 24px;
+  margin-right: 5px;
+  background-color: blue;
+}
+
+.summary-header{
+  position: absolute;
+  color: rgba(65, 105, 225, 1);
+  font-weight: 300;
+  font-size: 30px;
+  font-family: 'Poppins';
+  transform: translate(-50%, 0);
+  left: 50%;
+}
+
 .country-container {
-  width: 200px;
-  height: 200px;
+  width: 18%;
+  height: 18%;
   overflow: hidden;
+}
+
+.top-5-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  margin-left: 75px;
+  margin-right: 75px;
 }
 
 .country-container img{
   max-height: 100%;
   width: 100%;
   object-fit: cover;
+  border-radius: 15px;
 }
 
-/* .country-text {
+.country-text {
   position: absolute;
-  top: 50%; 
-  left: 50%; 
-  transform: translate(-50%, -50%);
-  font-size: 18px; 
-  font-weight: bold; 
-  text-align: center; 
-  color: black;
-  z-index: 3;
-} */
+  transform: translate(0%, -100%);
+  font-size: 30px;
+  font-weight: bold;
+}

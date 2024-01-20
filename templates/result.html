@@ -4,26 +4,52 @@
     <meta charset="UTF-8">
     <title>Results</title>
     <link rel="stylesheet" type= "text/css" href="{{ url_for('static',filename='styles/result.css') }}" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
 </head>
 <body>
-  <h1>RESULTS</h1>
-  <h2>VISA Requirements</h2>
-  <div height="100px">{{world_map|safe}}</div>
-  <h3>Visa Summary</h3>
-  <div height="50px">Visa Free: {{visa_summary['visa free']}}</div>
-  <div height="50px">E-Visa: {{visa_summary['e-visa']}}</div>
-  <div height="50px">Visa on Arrival: {{visa_summary['visa on arrival']}}</div>
-  <div height="50px">Visa Required: {{visa_summary['visa required']}}</div>
-  <h2>Flight Prices</h2>
+  <div class="result-header">
+    <p class="header-text"> Recommendations</p>
+  </div>
+  <div class="section-header">
+    <p class="section-text">Visa Requirements</p>
+  </div>
+  <div height="300px">{{world_map|safe}}</div>
+  <div class="visa-summary-container">
+    <p class="summary-header">Visa Summary</p>
+    <div class="visa-item-container">
+      <div class="visa-item">
+        <div class="legend-box" id="blue"></div>
+        Origin Country</div>
+      <div class="visa-item">
+        <div class="legend-box" id="green"></div>
+        Visa Free: {{visa_summary['visa free']}}</div>
+      <div class="visa-item">
+        <div class="legend-box" id="yellow"></div>
+        E-Visa: {{visa_summary['e-visa']}}</div>
+      <div class="visa-item">
+        <div class="legend-box" id="orange"></div>
+        Visa on Arrival: {{visa_summary['visa on arrival']}}</div>
+      <div class="visa-item">
+        <div class="legend-box" id="red"></div>
+        Visa Required: {{visa_summary['visa required']}}</div>
+    </div>
+  </div>
+    <div class="section-header">
+    <p class="section-text">Flight Prices</p>
+  </div>
   <div height="300px">{{flight_prices|safe}}</div>
-  <h2>Accomodation Prices</h2>
+  <div class="section-header">
+    <p class="section-text">Accommodation Prices</p>
+  </div>
   <div height="300px">{{accom_prices|safe}}</div>
-  <h2>Top 5 Recommendations</h2>
-  <div height="300px">
+  <div class="section-header">
+    <p class="section-text">Top 5 Recommendations</p>
+  </div>
+  <div height="300px" class="top-5-container">
     {% for country in top_5['Destination Country'].values() %}
     <div class="country-container">
-      <p class="country-text">{{country}}</p>
       <img class="country-img" src="{{ url_for('static',filename='images/{}.jpg'.format(country) ) }}">
+      <p class="country-text">{{country}}</p>
     </div>
     {% endfor %}
   </div>
