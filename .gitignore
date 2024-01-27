@@ -1,1 +1,4 @@
 /data/airbnb/
+/.idea
+/.vscode
+/__pycache
