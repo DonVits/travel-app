@@ -1,0 +1,9 @@
+pandas
+tkinterx
+tkcalendar
+BeautifulSoup4
+selenium
+requests
+plotly
+plotly-express
+flask
