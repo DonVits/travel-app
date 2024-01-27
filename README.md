@@ -1,3 +1,7 @@
+```console
+pip install -r requirements.txt
+python Main.py
+```
 # Tourist Destination Recommendations Based on Data
 ## Programming for Data Science
 
