@@ -1,5 +1,9 @@
+### Installation
 ```console
 pip install -r requirements.txt
+```
+### How to run
+```console
 python Main.py
 ```
 # Tourist Destination Recommendations Based on Data
